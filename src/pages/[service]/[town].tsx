@@ -1,3 +1,4 @@
+import Image from "next/image"
 import { GetStaticProps, GetStaticPaths } from 'next'
 import Layout from '@/components/Layout'
 import LeadForm from '@/components/LeadForm'
@@ -27,7 +28,7 @@ export default function TownServicePage({ service, town, nearby, otherServices }
       canonical={`https://${locale.domain}/${service.slug}/${town.slug}`}
       schema={schema}
     >
-      <section className="bg-gradient-to-b from-navy-900 to-navy-950">
+      <section className="relative"><div className="relative h-48 md:h-64 w-full overflow-hidden"><img src={service.galleryImage} alt={`${service.name} in ${town.name}`} className="w-full h-full object-cover" /><div className="absolute inset-0 bg-gradient-to-b from-navy-950/60 to-navy-950" /></div></section><section className="bg-navy-950">
         <div className="max-w-7xl mx-auto px-4 py-12 md:py-20">
           {/* Breadcrumb */}
           <nav className="text-sm text-slate-400 mb-8">

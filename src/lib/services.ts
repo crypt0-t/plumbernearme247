@@ -10,6 +10,7 @@ export interface Service {
   premium: boolean
   icon: string
   image: string
+  galleryImage: string
   features: string[]
 }
 
@@ -26,7 +27,8 @@ export const services: Service[] = [
     priceRange: p.emergency,
     premium: false,
     icon: 'emergency',
-    image: '/images/services/emergency.jpg',
+    image: '/images/services/service-emergency.jpg',
+    galleryImage: '/images/gallery/gallery-emergency-fix.jpg',
     features: ['Average 30-minute response time', 'Available 24 hours, 7 days a week', 'No call-out charge', 'Fully qualified & insured'],
   },
   {
@@ -38,7 +40,8 @@ export const services: Service[] = [
     priceRange: p.bathroom,
     premium: true,
     icon: 'bathroom',
-    image: '/images/services/bathroom.jpg',
+    image: '/images/services/service-bathroom.jpg',
+    galleryImage: '/images/gallery/gallery-bathroom-fit.jpg',
     features: ['Free design consultation', 'Full project management', 'All plumbing & tiling included', 'Guaranteed workmanship'],
   },
   {
@@ -50,7 +53,8 @@ export const services: Service[] = [
     priceRange: p.boilerInstall,
     premium: true,
     icon: 'boiler',
-    image: '/images/services/boiler-install.jpg',
+    image: '/images/services/service-boiler-install.jpg',
+    galleryImage: '/images/gallery/gallery-boiler-install.jpg',
     features: ['Gas Safe registered engineers', 'Up to 10-year manufacturer warranty', 'All major brands available', 'Finance options available'],
   },
   {
@@ -62,7 +66,8 @@ export const services: Service[] = [
     priceRange: p.boilerRepair,
     premium: false,
     icon: 'boiler-repair',
-    image: '/images/services/boiler-repair.jpg',
+    image: '/images/services/service-boiler-repair.jpg',
+    galleryImage: '/images/gallery/gallery-heating-system.jpg',
     features: ['Same-day repairs available', 'All makes and models', 'Annual servicing plans', 'Gas Safe certified'],
   },
   {
@@ -74,7 +79,8 @@ export const services: Service[] = [
     priceRange: p.drains,
     premium: false,
     icon: 'drain',
-    image: '/images/services/drain.jpg',
+    image: '/images/services/service-drain.jpg',
+    galleryImage: '/images/gallery/gallery-extension-plumbing.jpg',
     features: ['CCTV drain surveys', 'High-pressure water jetting', 'Root removal', 'Preventive maintenance plans'],
   },
   {
@@ -86,7 +92,8 @@ export const services: Service[] = [
     priceRange: p.leaks,
     premium: false,
     icon: 'leak',
-    image: '/images/services/leak.jpg',
+    image: '/images/services/service-leak.jpg',
+    galleryImage: '/images/gallery/gallery-leak-repair.jpg',
     features: ['Non-invasive detection', 'Thermal imaging technology', 'Same-day repairs', 'Insurance report provided'],
   },
   {
@@ -98,7 +105,8 @@ export const services: Service[] = [
     priceRange: p.wetRoom,
     premium: true,
     icon: 'wetroom',
-    image: '/images/services/wetroom.jpg',
+    image: '/images/gallery/gallery-wet-room.jpg',
+    galleryImage: '/images/gallery/gallery-wet-room.jpg',
     features: ['Tanking & waterproofing guaranteed', 'Underfloor heating compatible', 'Accessibility options', 'Premium tile finishes'],
   },
   {
@@ -110,7 +118,8 @@ export const services: Service[] = [
     priceRange: p.centralHeating,
     premium: true,
     icon: 'heating',
-    image: '/images/services/heating.jpg',
+    image: '/images/services/service-heating.jpg',
+    galleryImage: '/images/gallery/gallery-heating-system.jpg',
     features: ['Full system design', 'Energy-efficient solutions', 'Smart thermostat installation', 'Magnetic filter installation'],
   },
   {
@@ -122,7 +131,8 @@ export const services: Service[] = [
     priceRange: p.underfloor,
     premium: true,
     icon: 'underfloor',
-    image: '/images/services/underfloor.jpg',
+    image: '/images/services/service-underfloor.jpg',
+    galleryImage: '/images/gallery/gallery-underfloor-heat.jpg',
     features: ['Wet and electric systems', 'Compatible with all floor types', 'Zone control included', 'Reduces energy bills'],
   },
   {
@@ -134,7 +144,8 @@ export const services: Service[] = [
     priceRange: p.gasSafety,
     premium: false,
     icon: 'gas',
-    image: '/images/services/gas-safety.jpg',
+    image: '/images/services/service-boiler.jpg',
+    galleryImage: '/images/gallery/gallery-gas-upgrade.jpg',
     features: ['Same-day certificates', 'Multi-property discounts', 'Reminder service', 'Fully Gas Safe registered'],
   },
 ]
