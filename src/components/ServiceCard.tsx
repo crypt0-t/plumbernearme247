@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import Image from 'next/image'
 import { Service } from '@/lib/services'
 import { ArrowRightIcon } from './Icons'
 
@@ -15,12 +14,12 @@ export default function ServiceCard({ service, town }: ServiceCardProps) {
     <Link href={href} className="group block">
       <div className="bg-navy-800 border border-white/5 rounded-xl overflow-hidden hover:border-blue-500/30 hover:bg-navy-700/50 transition-all h-full flex flex-col">
         <div className="relative h-40 w-full overflow-hidden">
-          <Image
+          <img
             src={service.image}
             alt={service.name}
-            fill
-            className="object-cover group-hover:scale-105 transition-transform duration-500"
-            sizes="(max-width: 768px) 50vw, 20vw"
+            loading="lazy"
+            decoding="async"
+            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
           />
           {service.premium && (
             <div className="absolute top-2 left-2 px-2 py-0.5 bg-blue-600/90 backdrop-blur-sm rounded text-white text-[10px] font-bold uppercase tracking-wider">

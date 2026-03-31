@@ -16,7 +16,7 @@ export default function Home() {
     <Layout schema={generateHomepageSchema()}>
       {/* Hero */}
       <section className="relative overflow-hidden min-h-[600px]">
-        <div className="absolute inset-0"><img src="/images/hero/hero-1.jpg" alt="" className="w-full h-full object-cover" /><div className="absolute inset-0 bg-gradient-to-r from-navy-950/95 via-navy-900/80 to-navy-900/40" /></div>
+        <div className="absolute inset-0"><img src="/images/hero/hero-1.webp" alt="" className="w-full h-full object-cover" /><div className="absolute inset-0 bg-gradient-to-r from-navy-950/95 via-navy-900/80 to-navy-900/40" /></div>
         <div className="relative max-w-7xl mx-auto px-4 py-20 md:py-32">
           <div className="max-w-3xl">
             <div className="inline-flex items-center gap-2 bg-blue-500/10 border border-blue-500/20 rounded-full px-4 py-1.5 mb-6">
