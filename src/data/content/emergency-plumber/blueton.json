@@ -2,20 +2,27 @@
   "localContent": "Blueton is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Blueton and the surrounding Cheshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Cheshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Blueton with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Blueton?",
-      "answer": "We have engineers based across Cheshire and can typically reach Blueton within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Blueton?",
-      "answer": "Yes, all our engineers working in Blueton are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     },
     {
-      "question": "What does emergency plumber cost in Blueton?",
-      "answer": "Emergency Plumber in Blueton typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Is emergency plumbing covered by home insurance?",
+      "a": "Many home insurance policies include emergency plumbing cover — check your policy documents before calling. Some insurers require you to use their approved contractor network."
     },
     {
-      "question": "Do you cover the whole of Blueton?",
-      "answer": "Yes, we cover all areas of Blueton and surrounding villages throughout Cheshire."
+      "q": "Can an emergency plumber fix a boiler?",
+      "a": "Yes, if the engineer is Gas Safe registered. Always confirm Gas Safe registration before allowing any engineer to work on your boiler."
     }
-  ]
+  ],
+  "localParagraph": "Finding a reliable emergency plumber in Blueton, Cheshire, is essential for homeowners dealing with the unexpected stress of burst pipes, boiler failures, or blocked drains. Blueton's mixed housing stock, which ranges from older Victorian terraces to modern developments built in recent decades, means that plumbing systems vary considerably from property to property, and a skilled local plumber needs to be familiar with the full range of materials and configurations they might encounter. The area also experiences mixed water hardness, which can accelerate limescale buildup inside pipes, boilers, and appliances over time, making preventative maintenance just as important as emergency callouts. It is worth noting, however, that the region sits within Northern Ireland for administrative purposes, which may affect which regulatory bodies govern local tradespeople, so homeowners should confirm that any plumber they hire holds appropriate Gas Safe registration and relevant certifications. When a plumbing emergency strikes at an inconvenient hour, having a trusted local professional on call who understands the specific demands of Blueton properties can make a significant difference to both the speed of repair and the overall outcome.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

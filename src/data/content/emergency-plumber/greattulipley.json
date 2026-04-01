@@ -2,20 +2,27 @@
   "localContent": "GreatTulipley is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of GreatTulipley and the surrounding North Lanarkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across North Lanarkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across GreatTulipley with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to GreatTulipley?",
-      "answer": "We have engineers based across North Lanarkshire and can typically reach GreatTulipley within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How quickly can an emergency plumber reach me?",
+      "a": "In most UK cities, expect an engineer within 45-90 minutes. Response times in rural areas may be longer — typically 60-120 minutes."
     },
     {
-      "question": "Are your engineers Gas Safe registered in GreatTulipley?",
-      "answer": "Yes, all our engineers working in GreatTulipley are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "What does emergency plumber cost in GreatTulipley?",
-      "answer": "Emergency Plumber in GreatTulipley typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "Do you cover the whole of GreatTulipley?",
-      "answer": "Yes, we cover all areas of GreatTulipley and surrounding villages throughout North Lanarkshire."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     }
-  ]
+  ],
+  "localParagraph": "When a burst pipe or boiler failure strikes at an inconvenient hour, having access to a reliable emergency plumber in GreatTulipley can make all the difference between a manageable repair and serious water damage. North Lanarkshire's housing stock presents a genuinely varied challenge for local plumbers, as GreatTulipley features a mix of properties spanning different construction eras — from older stone-built homes to more recent developments — each carrying its own set of plumbing quirks, aged pipework, and heating configurations. The area's mixed water hardness means that scale buildup can quietly affect boilers, hot water cylinders, and shower units over time, making routine checks as important as emergency callouts. A qualified emergency plumber operating in the region should be familiar with both traditional and modern systems, capable of diagnosing faults quickly and sourcing parts without unnecessary delay. Whether dealing with a blocked drain, a failed immersion heater, or an overnight leak, residents benefit most from a local professional who understands the specific demands that North Lanarkshire properties place on their plumbing infrastructure.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

@@ -2,20 +2,27 @@
   "localContent": "Bluefield is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Bluefield and the surrounding Somerset region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Somerset, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across Bluefield with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Bluefield?",
-      "answer": "We have engineers based across Somerset and can typically reach Bluefield within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How many radiators do I need?",
+      "a": "A qualified heating engineer calculates the heat loss for each room based on size, insulation, window area, and orientation, then sizes radiators accordingly. Undersized radiators are the most common reason homes never get warm enough."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Bluefield?",
-      "answer": "Yes, all our engineers working in Bluefield are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "What does central heating cost in Bluefield?",
-      "answer": "Central Heating in Bluefield typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "Do you cover the whole of Bluefield?",
-      "answer": "Yes, we cover all areas of Bluefield and surrounding villages throughout Somerset."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     }
-  ]
+  ],
+  "localParagraph": "Bluefield, a small settlement in the Somerset area bordering Wales, presents a varied picture when it comes to central heating requirements, largely because of its mixed housing stock that spans several distinct eras of construction. Older stone-built properties sit alongside mid-century terraced homes and more modern developments, meaning that boiler specifications, pipework configurations, and heat emitter choices can differ considerably from one street to the next. Water hardness in Bluefield falls into a mixed category, which has practical implications for heating systems — scale can accumulate in heat exchangers and pipes over time, making regular servicing and the fitting of magnetic filters a sensible precaution for homeowners. Given the proximity to the Welsh border and the region's tendency toward cooler, damper winters, a reliable and efficient central heating system is genuinely important for comfort and running costs alike. Residents of Bluefield would benefit from consulting a Gas Safe registered engineer familiar with the local property types, who can assess both the existing system and water quality before recommending upgrades or replacement boilers.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

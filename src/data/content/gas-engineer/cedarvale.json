@@ -2,20 +2,27 @@
   "localContent": "Cedarvale is a thriving area with strong demand for reliable Gas Safe registered engineer services services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Cedarvale and the surrounding Gloucestershire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional gas engineer services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Gloucestershire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any Gas Safe registered engineer services requirement.\n\nWe cover all postcodes across Cedarvale with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Cedarvale?",
-      "answer": "We have engineers based across Gloucestershire and can typically reach Cedarvale within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How often should a gas boiler be serviced?",
+      "a": "Annually — once per year. Most boiler manufacturers require annual servicing to maintain the warranty. A service takes 45-90 minutes and includes combustion analysis, flue integrity check, and safety control testing."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Cedarvale?",
-      "answer": "Yes, all our engineers working in Cedarvale are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What is a Landlord Gas Safety Certificate?",
+      "a": "A CP12 certificate is a legal requirement for all rental properties with gas appliances. It must be renewed annually and provided to tenants within 28 days of issue. Failure to have a valid CP12 is a criminal offence."
     },
     {
-      "question": "What does gas engineer cost in Cedarvale?",
-      "answer": "Gas Engineer in Cedarvale typically costs £80-£300 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What should I do if I smell gas?",
+      "a": "Do not turn any electrical switches on or off. Open windows and doors. Turn off the gas supply at the meter. Leave the property immediately. Call the National Gas Emergency line on 0800 111 999 — it is free and operates 24/7."
     },
     {
-      "question": "Do you cover the whole of Cedarvale?",
-      "answer": "Yes, we cover all areas of Cedarvale and surrounding villages throughout Gloucestershire."
+      "q": "Can a plumber work on gas appliances?",
+      "a": "Only if they are Gas Safe registered. Being a qualified plumber does not automatically authorise gas work. Always check Gas Safe registration specifically — a plumber and a gas engineer are not the same qualification."
     }
-  ]
+  ],
+  "localParagraph": "Cedarvale, Gloucestershire, is a mixed residential area where gas engineers encounter a diverse range of properties, from older Victorian and Edwardian homes to more modern post-war and contemporary builds, each presenting its own set of heating system requirements and challenges. The mixed water hardness in the local supply means that scale buildup within boilers and pipework can be a genuine concern over time, making regular servicing and the installation of scale inhibitors a worthwhile consideration for many homeowners. A qualified gas engineer working in Cedarvale will be well-versed in diagnosing issues across older cast-iron radiator systems as well as more recent pressurised central heating setups, adapting their approach to suit the age and condition of each property. It is worth noting that while some regional databases occasionally associate Cedarvale with Scottish administrative records rather than Gloucestershire, local engineers serving this area operate under the standard Gas Safe Register requirements applicable across England, ensuring all work meets the safety standards expected of the profession.",
+  "whatItInvolves": "A Gas Safe registered engineer is legally required for all work on gas appliances — boilers, fires, cookers, and gas pipework. Gas Safe registration is the UK's official scheme; it is illegal for an unregistered person to work on gas in your home. Always check an engineer's Gas Safe ID card before allowing any gas work to begin — you can verify online at gassaferegister.co.uk.",
+  "process": "Gas work ranges from a simple appliance service to a full gas supply installation. For appliance services, the engineer checks burner pressure, flue integrity, heat exchanger condition, and safety controls, then issues a service report. For gas pipework, all new runs are pressure tested and tightness-tested before connection. Landlord Gas Safety Certificates (CP12) are issued after a full check of all gas appliances and require annual renewal.",
+  "whatToExpect": "A standard gas appliance service takes 45-90 minutes per appliance. A Landlord CP12 certificate covering boiler, gas fire, and cooker typically takes 2-3 hours. Always receive a written certificate — digital certificates are acceptable. If an engineer identifies an Immediately Dangerous fault, they are legally required to disconnect the appliance and you must not use it until repaired.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

@@ -2,20 +2,27 @@
   "localContent": "Hull is a thriving area with strong demand for reliable new boiler supply and installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Hull and the surrounding East Riding of Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across East Riding of Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any new boiler supply and installation requirement.\n\nWe cover all postcodes across Hull with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Hull?",
-      "answer": "We have engineers based across East Riding of Yorkshire and can typically reach Hull within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How long does a boiler installation take?",
+      "a": "A straightforward like-for-like combi boiler swap takes 1-2 days. Moving the boiler location or converting from a heat-only system to a combi takes 2-4 days."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Hull?",
-      "answer": "Yes, all our engineers working in Hull are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Do I need a combi boiler or a system boiler?",
+      "a": "Combi boilers suit most homes up to 3 bedrooms with 1-2 bathrooms — no hot water tank needed. System boilers suit larger homes with higher hot water demand. Your installer should calculate your requirements before recommending."
     },
     {
-      "question": "What does boiler installation cost in Hull?",
-      "answer": "Boiler Installation in Hull typically costs £2,500-£4,500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What is the best boiler brand?",
+      "a": "Worcester Bosch, Viessmann, and Vaillant consistently top reliability surveys. All three offer extended warranties of 8-12 years when installed by accredited engineers. Brand matters less than correct sizing and installation quality."
     },
     {
-      "question": "Do you cover the whole of Hull?",
-      "answer": "Yes, we cover all areas of Hull and surrounding villages throughout East Riding of Yorkshire."
+      "q": "Do I need to notify anyone when a new boiler is installed?",
+      "a": "Yes — your Gas Safe registered installer must notify Building Control within 30 days of installation under the Competent Person Scheme. You will receive a Building Regulations completion certificate."
     }
-  ]
+  ],
+  "localParagraph": "Hull, situated in the East Riding of Yorkshire in England, presents a genuinely varied landscape for boiler installation professionals, with properties ranging from the Victorian terraces of Newland Avenue and Beverley Road to post-war semis in areas like Orchard Park and newer builds further towards the city's outskirts. This mix of housing eras means that heating engineers working across Hull must be prepared to navigate a wide range of existing pipework configurations, flue arrangements, and system types — from gravity-fed hot water cylinders in older homes to modern pressurised systems requiring like-for-like replacement or full upgrades. The city benefits from mixed water hardness, which sits somewhere between the soft water of northern England and the more heavily mineralised supplies found further south, meaning that scale build-up is a moderate concern worth addressing through appropriate system protection or inhibitor treatment during any new installation. Homeowners and landlords should seek Gas Safe registered engineers experienced with Hull's particular housing stock to ensure compliance, efficiency, and long-term reliability from their new boiler.",
+  "whatItInvolves": "A new boiler installation involves removing your existing unit, upgrading the flue and pipework where required, fitting and commissioning the new boiler, and registering it with Building Control via the Competent Person Scheme. All new boiler installations must be carried out by a Gas Safe registered engineer — it is illegal for anyone else to do this work.",
+  "process": "Day 1: drain down the system, remove the old boiler, cap off existing connections. Upgrade the flue if required — most modern boilers use a concentric flue that vents through an external wall. Fit the new unit, connect flow and return pipes, gas supply, and condensate drain. Commission the boiler following manufacturer guidelines, balance the radiators, and register the installation. You'll receive a Building Regulations completion certificate within 28 days.",
+  "whatToExpect": "A standard like-for-like boiler swap takes 1-2 days. A full system change — moving the boiler or converting from back boiler to combi — takes 2-4 days. Your new boiler should come with a manufacturer warranty of 5-12 years depending on brand. Always register the warranty within 30 days of installation.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

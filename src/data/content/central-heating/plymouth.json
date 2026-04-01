@@ -2,20 +2,27 @@
   "localContent": "Plymouth is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Plymouth and the surrounding Devon region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Devon, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across Plymouth with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Plymouth?",
-      "answer": "We have engineers based across Devon and can typically reach Plymouth within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Plymouth?",
-      "answer": "Yes, all our engineers working in Plymouth are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "What does central heating cost in Plymouth?",
-      "answer": "Central Heating in Plymouth typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     },
     {
-      "question": "Do you cover the whole of Plymouth?",
-      "answer": "Yes, we cover all areas of Plymouth and surrounding villages throughout Devon."
+      "q": "Do I need thermostatic radiator valves on every radiator?",
+      "a": "Building Regulations require TRVs on all radiators except the one in the room where the room thermostat is located. Smart TRVs allow individual room scheduling via smartphone."
     }
-  ]
+  ],
+  "localParagraph": "Plymouth's central heating needs are shaped by a genuinely varied landscape of properties and water conditions that any competent engineer must understand before picking up a spanner. From the Georgian terraces of the Barbican and older Victorian stock in Mutley to the mid-century semis spreading across Plympton and the newer builds around Derriford, the city presents heating engineers with an unusually broad range of system ages, configurations, and heat loss profiles. The water supply across Plymouth falls into a mixed hardness category, meaning limescale accumulation in heat exchangers, pipes, and boiler components is a real concern — particularly in older systems that have never been flushed or chemically treated. Homeowners in areas such as Peverell or Stoke would be wise to ask installers about magnetic filtration and inhibitor dosing as standard practice rather than optional extras. Whether you're upgrading an ageing gravity-fed system in a Edwardian end-terrace or commissioning a modern combi boiler in a newer property, Plymouth's combination of mixed housing stock and moderate water hardness makes professional, informed installation and maintenance all the more important.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

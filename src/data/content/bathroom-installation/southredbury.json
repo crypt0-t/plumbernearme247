@@ -2,20 +2,27 @@
   "localContent": "SouthRedbury is a thriving area with strong demand for reliable full bathroom installation and fitting services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of SouthRedbury and the surrounding West Midlands region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional bathroom installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Midlands, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any full bathroom installation and fitting requirement.\n\nWe cover all postcodes across SouthRedbury with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to SouthRedbury?",
-      "answer": "We have engineers based across West Midlands and can typically reach SouthRedbury within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Can you move the toilet and bath to different positions?",
+      "a": "Yes, but it depends on the soil pipe route and floor structure. Moving a toilet more than a metre from the existing soil stack requires a new soil pipe connection and increases cost significantly."
     },
     {
-      "question": "Are your engineers Gas Safe registered in SouthRedbury?",
-      "answer": "Yes, all our engineers working in SouthRedbury are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How much does a bathroom installation cost?",
+      "a": "Labour for a full bathroom installation typically ranges from £2,500 to £5,000 depending on complexity. Suite and tile costs are separate. A complete bathroom renovation including all materials typically costs £4,000 to £10,000+."
     },
     {
-      "question": "What does bathroom installation cost in SouthRedbury?",
-      "answer": "Bathroom Installation in SouthRedbury typically costs £4,000-£15,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Should I supply my own bathroom suite or let the plumber supply it?",
+      "a": "You can do either. Supplying your own suite gives you more choice and control over the brand and style. Your installer may offer trade discounts worth 15-30% off RRP if they supply."
     },
     {
-      "question": "Do you cover the whole of SouthRedbury?",
-      "answer": "Yes, we cover all areas of SouthRedbury and surrounding villages throughout West Midlands."
+      "q": "What guarantees should I expect on a bathroom installation?",
+      "a": "Expect a minimum 12-month labour guarantee. Manufacturer warranties on suites and fittings typically run 5-25 years depending on the brand. Get all guarantees in writing."
     }
-  ]
+  ],
+  "localParagraph": "Bathroom installation in SouthRedbury, West Midlands, presents a varied set of challenges and considerations that any experienced installer should be well prepared for. The area sits within a mixed water hardness zone, meaning some properties receive moderately hard water while others experience softer supplies — a factor that directly influences the choice of fixtures, sealants, and pipework materials to ensure longevity and minimise limescale-related maintenance. SouthRedbury's housing stock reflects multiple eras of construction, from Victorian terraces and Edwardian semis through to post-war council builds and more recent developments, each generation of property bringing its own structural quirks, pipe configurations, and bathroom layouts that require a tailored installation approach. Although the West Midlands sits within England, the region shares some geographical and climatic characteristics with neighbouring Wales, which can influence moisture levels and the importance of adequate ventilation in bathroom spaces. Whether you're updating a compact en-suite in an older semi-detached or fitting a full family bathroom in a newer-build property, working with an installer who understands SouthRedbury's local conditions will help ensure the project is completed to a high and lasting standard.",
+  "whatItInvolves": "A full bathroom installation covers everything from stripping out the existing suite to fitting the new one — including all pipework, waste connections, tiling preparation, flooring, and electrical work for lighting and extraction. A quality bathroom installation transforms one of the most-used rooms in your home and typically adds 3-5% to your property value.",
+  "process": "The process starts with a detailed survey to assess existing pipework, drainage routes, and structural considerations. Day 1-2: strip out and prep. Day 3-4: first fix plumbing and any structural work. Day 5-7: suite installation, tiling, and second fix. Day 8-10: finishing, sealant, and final inspection. You'll be without a working bathroom for 5-10 days depending on complexity — we'll agree a realistic timeline upfront.",
+  "whatToExpect": "Expect a detailed written quote covering labour, waste disposal, and any structural work. Suite and tiles are usually supplied separately by you or sourced through us. All plumbing work is carried out to Water Regulations standards. A bathroom installation is a major investment — ask to see previous work and Gas Safe registration before committing to any installer.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

@@ -2,20 +2,27 @@
   "localContent": "WestHillvale is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of WestHillvale and the surrounding Cumbria region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Cumbria, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across WestHillvale with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to WestHillvale?",
-      "answer": "We have engineers based across Cumbria and can typically reach WestHillvale within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "Are your engineers Gas Safe registered in WestHillvale?",
-      "answer": "Yes, all our engineers working in WestHillvale are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "What does central heating cost in WestHillvale?",
-      "answer": "Central Heating in WestHillvale typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     },
     {
-      "question": "Do you cover the whole of WestHillvale?",
-      "answer": "Yes, we cover all areas of WestHillvale and surrounding villages throughout Cumbria."
+      "q": "Do I need thermostatic radiator valves on every radiator?",
+      "a": "Building Regulations require TRVs on all radiators except the one in the room where the room thermostat is located. Smart TRVs allow individual room scheduling via smartphone."
     }
-  ]
+  ],
+  "localParagraph": "Central heating installation and maintenance in WestHillvale, Cumbria, presents a varied set of considerations for homeowners, largely shaped by the area's mixed water hardness and its eclectic housing stock spanning everything from Victorian terraces to post-war semis and modern new builds. Mixed water hardness can accelerate limescale accumulation within boilers and pipework over time, making annual servicing and the fitting of magnetic filters or water softeners a sensible investment for residents looking to protect their systems long-term. The diverse range of properties across WestHillvale means that no two heating installations are identical — older homes may require upgraded pipework or radiator replacements to work efficiently with contemporary condensing boilers, while newer builds often benefit from system flushes to remove installation debris. It is worth noting, however, that WestHillvale is located in Cumbria rather than Northern Ireland, so any local engineer recommendations or regional building regulations should reflect those applicable to the North West of England rather than Northern Ireland, ensuring compliance and the most accurate service for your home.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

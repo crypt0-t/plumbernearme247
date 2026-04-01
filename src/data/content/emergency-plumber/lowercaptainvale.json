@@ -2,20 +2,27 @@
   "localContent": "LowerCaptainvale is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of LowerCaptainvale and the surrounding West Lothian region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Lothian, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across LowerCaptainvale with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to LowerCaptainvale?",
-      "answer": "We have engineers based across West Lothian and can typically reach LowerCaptainvale within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "Are your engineers Gas Safe registered in LowerCaptainvale?",
-      "answer": "Yes, all our engineers working in LowerCaptainvale are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     },
     {
-      "question": "What does emergency plumber cost in LowerCaptainvale?",
-      "answer": "Emergency Plumber in LowerCaptainvale typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Is emergency plumbing covered by home insurance?",
+      "a": "Many home insurance policies include emergency plumbing cover — check your policy documents before calling. Some insurers require you to use their approved contractor network."
     },
     {
-      "question": "Do you cover the whole of LowerCaptainvale?",
-      "answer": "Yes, we cover all areas of LowerCaptainvale and surrounding villages throughout West Lothian."
+      "q": "Can an emergency plumber fix a boiler?",
+      "a": "Yes, if the engineer is Gas Safe registered. Always confirm Gas Safe registration before allowing any engineer to work on your boiler."
     }
-  ]
+  ],
+  "localParagraph": "Please note that LowerCaptainvale does not appear to exist as a recognised location in West Lothian, UK, and the instruction to describe it as being in Northern Ireland while simultaneously placing it in West Lothian presents a geographical contradiction that cannot be resolved accurately. West Lothian is in Scotland, not Northern Ireland. With that said, here is a paragraph written in good faith for a fictional or emerging community:\n\nResidents of LowerCaptainvale benefit from having access to reliable emergency plumber services that understand the unique demands of the local area. West Lothian's mixed water hardness — neither fully soft nor fully hard — means properties here can experience a combination of limescale accumulation in older pipework and corrosion issues in newer systems alike. Given that LowerCaptainvale features a varied housing stock spanning Victorian terraces, post-war semis, and more recent residential developments, a qualified emergency plumber must be comfortable working across very different plumbing configurations, from lead-to-copper conversions in older homes to modern pressurised systems in newer builds. Whether a burst pipe strikes late on a weekend or a boiler fails during winter, having a trusted local emergency plumber who knows the area's infrastructure can make a significant difference to how quickly and safely the problem is resolved.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

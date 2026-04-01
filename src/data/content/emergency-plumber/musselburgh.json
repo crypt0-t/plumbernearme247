@@ -2,20 +2,27 @@
   "localContent": "Musselburgh is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Musselburgh and the surrounding East Lothian region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across East Lothian, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Musselburgh with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Musselburgh?",
-      "answer": "We have engineers based across East Lothian and can typically reach Musselburgh within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Musselburgh?",
-      "answer": "Yes, all our engineers working in Musselburgh are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "What does emergency plumber cost in Musselburgh?",
-      "answer": "Emergency Plumber in Musselburgh typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     },
     {
-      "question": "Do you cover the whole of Musselburgh?",
-      "answer": "Yes, we cover all areas of Musselburgh and surrounding villages throughout East Lothian."
+      "q": "Is emergency plumbing covered by home insurance?",
+      "a": "Many home insurance policies include emergency plumbing cover — check your policy documents before calling. Some insurers require you to use their approved contractor network."
     }
-  ]
+  ],
+  "localParagraph": "Musselburgh, the historic coastal town in East Lothian, presents a varied landscape for emergency plumbing work, with properties ranging from Victorian stone tenements near the town centre and older fishermen's cottages close to the harbour, through to post-war semis and newer housing developments on the outskirts. Scotland's mixed water hardness conditions mean that plumbing systems across Musselburgh can experience anything from scale accumulation in older pipework to corrosion-related issues depending on the local supply at any given time, making it essential to call an emergency plumber who understands regional water characteristics. Whether a burst pipe has struck overnight in a Georgian property along the High Street or a boiler failure is affecting a modern home near Newbigging or Eskview Terrace, a qualified local emergency plumber can respond quickly and diagnose problems across all property types and pipe ages. Given the mix of cast iron, copper, and plastic systems found throughout the town, experience with multi-era housing stock is genuinely valuable when dealing with urgent plumbing failures in this part of East Lothian.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

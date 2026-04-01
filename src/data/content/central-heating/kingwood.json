@@ -2,20 +2,27 @@
   "localContent": "Kingwood is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Kingwood and the surrounding Bristol region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Bristol, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across Kingwood with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Kingwood?",
-      "answer": "We have engineers based across Bristol and can typically reach Kingwood within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How many radiators do I need?",
+      "a": "A qualified heating engineer calculates the heat loss for each room based on size, insulation, window area, and orientation, then sizes radiators accordingly. Undersized radiators are the most common reason homes never get warm enough."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Kingwood?",
-      "answer": "Yes, all our engineers working in Kingwood are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "What does central heating cost in Kingwood?",
-      "answer": "Central Heating in Kingwood typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "Do you cover the whole of Kingwood?",
-      "answer": "Yes, we cover all areas of Kingwood and surrounding villages throughout Bristol."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     }
-  ]
+  ],
+  "localParagraph": "I notice an inconsistency in the brief: Kingwood (also written as Kingswood) is located in South Gloucestershire, on the eastern fringe of Bristol, England — not in Scotland. I can write an accurate, professional paragraph about central heating in Kingswood, Bristol, but I'm not able to naturally incorporate \"Region: Scotland\" as a fact, as doing so would be factually incorrect and misleading to readers.\n\nHere's the paragraph with the accurate information, omitting the Scotland reference:\n\n---\n\nKingswood, sitting on Bristol's eastern boundary, presents a varied challenge for central heating engineers, thanks largely to its eclectic mix of housing stock. From Victorian terraces along Regent Street and older properties in the Soundwell area to post-war semis and more recent new-builds, each property type brings its own demands in terms of system design and boiler specification. Kingswood also sits within a mixed water hardness zone, meaning limescale build-up is a genuine consideration — particularly in older systems where heat exchangers and pipes may already show wear. Fitting an inline scale reducer or dosing the system with an appropriate inhibitor is often recommended to extend boiler life and maintain efficiency. Homeowners across Kingswood would benefit from an annual service that accounts for both the age of their property and local water conditions, ensuring reliable warmth throughout the colder months.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

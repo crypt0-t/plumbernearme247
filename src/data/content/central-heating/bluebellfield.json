@@ -2,20 +2,27 @@
   "localContent": "Bluebellfield is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Bluebellfield and the surrounding Essex region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Essex, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across Bluebellfield with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Bluebellfield?",
-      "answer": "We have engineers based across Essex and can typically reach Bluebellfield within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How many radiators do I need?",
+      "a": "A qualified heating engineer calculates the heat loss for each room based on size, insulation, window area, and orientation, then sizes radiators accordingly. Undersized radiators are the most common reason homes never get warm enough."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Bluebellfield?",
-      "answer": "Yes, all our engineers working in Bluebellfield are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "What does central heating cost in Bluebellfield?",
-      "answer": "Central Heating in Bluebellfield typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "Do you cover the whole of Bluebellfield?",
-      "answer": "Yes, we cover all areas of Bluebellfield and surrounding villages throughout Essex."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     }
-  ]
+  ],
+  "localParagraph": "Bluebellfield, Essex sits within a region of England where water hardness tends to vary across different pockets of the local supply network, meaning some homes experience moderate limescale accumulation in their heating systems while others see relatively little. This mixed water hardness is worth bearing in mind for homeowners booking a boiler service or powerflush, as the appropriate course of treatment depends on what has built up over time rather than a one-size-fits-all approach. The housing stock across Bluebellfield spans several eras, from post-war semis and 1970s estates through to newer builds developed on the outskirts, and each generation of property tends to bring its own central heating quirks — older systems may rely on conventional open-vented setups that need specific expertise, while modern sealed systems require different diagnostic tools and pressure checks. A qualified heating engineer working regularly in this part of Essex will understand how these local variables combine, ensuring that whatever the age of a property or the condition of its pipework, residents of Bluebellfield receive advice and servicing that genuinely fits their circumstances.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

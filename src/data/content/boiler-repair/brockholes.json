@@ -2,20 +2,27 @@
   "localContent": "Brockholes is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Brockholes and the surrounding West Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across Brockholes with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Brockholes?",
-      "answer": "We have engineers based across West Yorkshire and can typically reach Brockholes within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How do I know if my boiler needs repairing or replacing?",
+      "a": "If your boiler is under 10 years old and the repair cost is less than £400, repair is usually better value. Over 10 years old or repair costs exceeding 50% of a new boiler — consider replacement."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Brockholes?",
-      "answer": "Yes, all our engineers working in Brockholes are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Why does my boiler keep losing pressure?",
+      "a": "Pressure loss is usually caused by a small leak in the system, a faulty pressure relief valve, or a failing expansion vessel. A Gas Safe engineer can diagnose and fix the root cause — simply topping up the pressure is a temporary fix."
     },
     {
-      "question": "What does boiler repair cost in Brockholes?",
-      "answer": "Boiler Repair in Brockholes typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "Do you cover the whole of Brockholes?",
-      "answer": "Yes, we cover all areas of Brockholes and surrounding villages throughout West Yorkshire."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     }
-  ]
+  ],
+  "localParagraph": "Brockholes, a village in West Yorkshire nestled along the Holme Valley, presents a range of boiler repair challenges that reflect the character of the area itself. The housing stock here spans several eras, from stone-built Victorian terraces to mid-century semis and more recent developments, meaning engineers working in Brockholes regularly encounter a wide variety of heating systems, from older conventional boilers to modern combi units. Water hardness across this part of England sits in a mixed range, which can contribute to limescale accumulation within heat exchangers and pipework over time — a factor that accelerates wear on components if left unaddressed. Residents in and around the village would benefit from periodic servicing that accounts for these local water conditions, particularly in older properties where original pipework may already be under additional strain. Whether addressing a loss of pressure, a faulty diverter valve, or an intermittent fault code, sourcing a Gas Safe registered engineer familiar with the specific demands of West Yorkshire homes ensures that repairs are carried out safely and to a lasting standard.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

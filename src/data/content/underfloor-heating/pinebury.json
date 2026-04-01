@@ -2,20 +2,27 @@
   "localContent": "Pinebury is a thriving area with strong demand for reliable underfloor heating installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Pinebury and the surrounding City of Edinburgh region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional underfloor heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across City of Edinburgh, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any underfloor heating installation requirement.\n\nWe cover all postcodes across Pinebury with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Pinebury?",
-      "answer": "We have engineers based across City of Edinburgh and can typically reach Pinebury within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Is underfloor heating expensive to run?",
+      "a": "Wet underfloor heating connected to a modern condensing boiler or heat pump runs at lower flow temperatures than radiators — typically 35-45°C vs 70-80°C — making it 15-25% cheaper to run than a conventional radiator system."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Pinebury?",
-      "answer": "Yes, all our engineers working in Pinebury are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Can underfloor heating be installed under any floor covering?",
+      "a": "Most floor coverings are compatible — tiles, stone, wood, vinyl, and carpet. Some engineered wood products have temperature limits; check the manufacturer's specification before installing underfloor heating beneath them."
     },
     {
-      "question": "What does underfloor heating cost in Pinebury?",
-      "answer": "Underfloor Heating in Pinebury typically costs £1,500-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How long does underfloor heating take to heat a room?",
+      "a": "Wet systems are slower to respond than radiators — allow 2-4 hours to reach full temperature. This is why a programmable thermostat is essential: set it to pre-heat rooms before you need them."
     },
     {
-      "question": "Do you cover the whole of Pinebury?",
-      "answer": "Yes, we cover all areas of Pinebury and surrounding villages throughout City of Edinburgh."
+      "q": "Can underfloor heating be added to an existing home?",
+      "a": "Yes. Low-profile retrofit systems (as thin as 15mm) can be installed without major floor height changes. Electric mat systems are the least invasive option for single rooms."
     }
-  ]
+  ],
+  "localParagraph": "Pinebury, situated within the City of Edinburgh in Scotland, presents an interesting mix of residential properties when it comes to underfloor heating installation — from older stone-built Victorian and Edwardian terraces to more contemporary builds, each requiring a tailored approach to system design and pipe layout. The mixed water hardness found in this part of Edinburgh means homeowners should consider inhibitor treatments and periodic system flushing to protect pipework and manifolds from scale build-up over time, particularly in older properties where retrofitting wet underfloor heating beneath existing floors demands careful planning around floor depth and insulation. Pinebury's blend of housing eras also means that some homes are well-suited to electric underfloor heating as a practical alternative in renovation projects where raising floor levels isn't feasible. Whether working with a sandstone-fronted semi-detached or a newer development, engaging a qualified heating engineer familiar with Edinburgh's housing stock will ensure the system is correctly zoned, energy-efficient, and compatible with the local water supply conditions — delivering reliable, even warmth throughout the colder Scottish months.",
+  "whatItInvolves": "Underfloor heating distributes heat evenly across the entire floor surface rather than from a single radiator point, eliminating cold spots and freeing up wall space. Wet systems (water pipes) connect to your existing boiler and are more efficient long-term. Electric mat systems are faster to install and suit smaller areas or retrofits where pipe runs aren't practical.",
+  "process": "Wet system installation: survey the floor construction and calculate heat output requirements per room. Lay insulation boards to prevent heat loss downward. Install pipe circuits using the manifold as the central distribution point, connect to boiler flow and return. Commission and pressure test to 6 bar. Screed or dry lay over the top. The system must cure before the floor covering is laid — allow 21-28 days for screed.",
+  "whatToExpect": "Underfloor heating runs at lower temperatures than radiators — typically 35-45°C flow temperature vs 70-80°C for radiators — which makes it significantly cheaper to run with a heat pump or condensing boiler. The system is slower to respond than radiators, so use a programmable thermostat to pre-heat rooms. Most manufacturers offer 25-year warranties on the pipe systems.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

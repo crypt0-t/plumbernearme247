@@ -2,20 +2,27 @@
   "localContent": "Bonnyrigg is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Bonnyrigg and the surrounding Midlothian region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Midlothian, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Bonnyrigg with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Bonnyrigg?",
-      "answer": "We have engineers based across Midlothian and can typically reach Bonnyrigg within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How quickly can an emergency plumber reach me?",
+      "a": "In most UK cities, expect an engineer within 45-90 minutes. Response times in rural areas may be longer — typically 60-120 minutes."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Bonnyrigg?",
-      "answer": "Yes, all our engineers working in Bonnyrigg are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "What does emergency plumber cost in Bonnyrigg?",
-      "answer": "Emergency Plumber in Bonnyrigg typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "Do you cover the whole of Bonnyrigg?",
-      "answer": "Yes, we cover all areas of Bonnyrigg and surrounding villages throughout Midlothian."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     }
-  ]
+  ],
+  "localParagraph": "Bonnyrigg, a town in Midlothian, Scotland, sits within a region where water hardness varies across the supply network, creating conditions that can accelerate limescale buildup inside pipes, boilers, and valves over time. The town's housing stock is genuinely mixed, ranging from older stone-built properties near the historic centre to post-war semis and more recent developments pushing toward the edges of town, and each property era brings its own plumbing challenges — ageing lead or galvanised pipework in older homes, or modern systems that may have been poorly installed during rapid housing development. When a burst pipe strikes at midnight or a boiler fails on a cold Scottish morning, residents across Bonnyrigg need a qualified emergency plumber who understands these local variables and can respond quickly without compounding the damage. A reliable local plumber will carry the parts most commonly needed for the range of systems found across the area, arriving prepared rather than making multiple trips, and should be registered with an appropriate trade body to ensure the work meets current Scottish building and plumbing regulations.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

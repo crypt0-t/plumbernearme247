@@ -2,20 +2,27 @@
   "localContent": "Quarmby is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Quarmby and the surrounding West Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across Quarmby with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Quarmby?",
-      "answer": "We have engineers based across West Yorkshire and can typically reach Quarmby within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Quarmby?",
-      "answer": "Yes, all our engineers working in Quarmby are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     },
     {
-      "question": "What does boiler repair cost in Quarmby?",
-      "answer": "Boiler Repair in Quarmby typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can I use my boiler while it is making an error code?",
+      "a": "Depends on the code. Some error codes allow limited operation; others indicate a dangerous fault that requires immediate shutdown. Never ignore a gas smell — turn off at the gas meter and call the National Gas Emergency line on 0800 111 999."
     },
     {
-      "question": "Do you cover the whole of Quarmby?",
-      "answer": "Yes, we cover all areas of Quarmby and surrounding villages throughout West Yorkshire."
+      "q": "Is boiler repair covered by home insurance?",
+      "a": "Standard home insurance rarely covers boiler repair. Boiler cover policies (British Gas, Homeserve, etc.) typically cover parts and labour for an annual fee. Check your existing policy before purchasing additional cover."
     }
-  ]
+  ],
+  "localParagraph": "Boiler repair in Quarmby, a residential area nestled within the Huddersfield district of West Yorkshire, England, presents a range of considerations shaped by the neighbourhood's distinctive character. The area features a varied mix of housing stock, from older stone-built terraces typical of the region's Victorian and Edwardian heritage to more modern semi-detached and detached properties, meaning engineers must be prepared to work with a wide range of boiler makes, models, and installation configurations. Quarmby sits within a zone of mixed water hardness, which can contribute to limescale accumulation within heat exchangers and pipework over time, gradually reducing boiler efficiency and increasing the likelihood of breakdowns if systems are not regularly serviced. Homeowners in the area would benefit from discussing scale inhibitors or water treatment options with a qualified engineer during routine maintenance visits. Choosing a Gas Safe registered professional with local experience in Quarmby ensures that any repair work accounts for both the age of the property and the specific demands placed on heating systems by local water conditions throughout the colder months.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

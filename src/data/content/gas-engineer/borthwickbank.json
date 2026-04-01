@@ -2,20 +2,27 @@
   "localContent": "Borthwickbank is a thriving area with strong demand for reliable Gas Safe registered engineer services services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Borthwickbank and the surrounding Midlothian region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional gas engineer services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Midlothian, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any Gas Safe registered engineer services requirement.\n\nWe cover all postcodes across Borthwickbank with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Borthwickbank?",
-      "answer": "We have engineers based across Midlothian and can typically reach Borthwickbank within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How do I check if a gas engineer is Gas Safe registered?",
+      "a": "Ask to see their Gas Safe ID card on arrival and check the registration number at gassaferegister.co.uk. A qualified engineer will always carry their card and show it willingly."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Borthwickbank?",
-      "answer": "Yes, all our engineers working in Borthwickbank are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How often should a gas boiler be serviced?",
+      "a": "Annually — once per year. Most boiler manufacturers require annual servicing to maintain the warranty. A service takes 45-90 minutes and includes combustion analysis, flue integrity check, and safety control testing."
     },
     {
-      "question": "What does gas engineer cost in Borthwickbank?",
-      "answer": "Gas Engineer in Borthwickbank typically costs £80-£300 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What is a Landlord Gas Safety Certificate?",
+      "a": "A CP12 certificate is a legal requirement for all rental properties with gas appliances. It must be renewed annually and provided to tenants within 28 days of issue. Failure to have a valid CP12 is a criminal offence."
     },
     {
-      "question": "Do you cover the whole of Borthwickbank?",
-      "answer": "Yes, we cover all areas of Borthwickbank and surrounding villages throughout Midlothian."
+      "q": "What should I do if I smell gas?",
+      "a": "Do not turn any electrical switches on or off. Open windows and doors. Turn off the gas supply at the meter. Leave the property immediately. Call the National Gas Emergency line on 0800 111 999 — it is free and operates 24/7."
     }
-  ]
+  ],
+  "localParagraph": "Gas engineers serving Borthwickbank in Midlothian work across a genuinely varied landscape of properties, from older stone-built homes typical of rural Scotland to more modern residential developments, each presenting its own set of heating and pipework challenges. The mixed water hardness found throughout this part of Midlothian means that boilers and heating systems can be vulnerable to limescale accumulation over time, making regular servicing particularly worthwhile for homeowners who want to protect their investment and maintain reliable performance through Scotland's colder months. A qualified gas engineer familiar with Borthwickbank will understand how these water conditions interact differently with older cast-iron radiator systems compared to newer pressurised central heating setups, and will carry out thorough checks on heat exchangers and expansion vessels accordingly. Whether attending properties along rural lanes or more recently built homes on the outskirts of the settlement, a professional gas engineer should be Gas Safe registered, experienced with the range of boiler makes commonly installed across Midlothian, and able to advise residents on whether a full system flush might help restore efficiency before the heating season begins.",
+  "whatItInvolves": "A Gas Safe registered engineer is legally required for all work on gas appliances — boilers, fires, cookers, and gas pipework. Gas Safe registration is the UK's official scheme; it is illegal for an unregistered person to work on gas in your home. Always check an engineer's Gas Safe ID card before allowing any gas work to begin — you can verify online at gassaferegister.co.uk.",
+  "process": "Gas work ranges from a simple appliance service to a full gas supply installation. For appliance services, the engineer checks burner pressure, flue integrity, heat exchanger condition, and safety controls, then issues a service report. For gas pipework, all new runs are pressure tested and tightness-tested before connection. Landlord Gas Safety Certificates (CP12) are issued after a full check of all gas appliances and require annual renewal.",
+  "whatToExpect": "A standard gas appliance service takes 45-90 minutes per appliance. A Landlord CP12 certificate covering boiler, gas fire, and cooker typically takes 2-3 hours. Always receive a written certificate — digital certificates are acceptable. If an engineer identifies an Immediately Dangerous fault, they are legally required to disconnect the appliance and you must not use it until repaired.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

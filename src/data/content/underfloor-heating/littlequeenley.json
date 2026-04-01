@@ -2,20 +2,27 @@
   "localContent": "LittleQueenley is a thriving area with strong demand for reliable underfloor heating installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of LittleQueenley and the surrounding Renfrewshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional underfloor heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Renfrewshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any underfloor heating installation requirement.\n\nWe cover all postcodes across LittleQueenley with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to LittleQueenley?",
-      "answer": "We have engineers based across Renfrewshire and can typically reach LittleQueenley within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How long does underfloor heating take to heat a room?",
+      "a": "Wet systems are slower to respond than radiators — allow 2-4 hours to reach full temperature. This is why a programmable thermostat is essential: set it to pre-heat rooms before you need them."
     },
     {
-      "question": "Are your engineers Gas Safe registered in LittleQueenley?",
-      "answer": "Yes, all our engineers working in LittleQueenley are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Can underfloor heating be added to an existing home?",
+      "a": "Yes. Low-profile retrofit systems (as thin as 15mm) can be installed without major floor height changes. Electric mat systems are the least invasive option for single rooms."
     },
     {
-      "question": "What does underfloor heating cost in LittleQueenley?",
-      "answer": "Underfloor Heating in LittleQueenley typically costs £1,500-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What warranty comes with underfloor heating?",
+      "a": "Quality wet pipe systems carry 25-year manufacturer warranties. Electric mat systems typically carry 10-25 year warranties. The installation labour guarantee varies by contractor — ask for a minimum of 12 months."
     },
     {
-      "question": "Do you cover the whole of LittleQueenley?",
-      "answer": "Yes, we cover all areas of LittleQueenley and surrounding villages throughout Renfrewshire."
+      "q": "Does underfloor heating work with a heat pump?",
+      "a": "Underfloor heating and heat pumps are an ideal combination. Heat pumps are most efficient at low flow temperatures — exactly what underfloor heating requires. The pairing can reduce heating bills by 50-70% compared to a gas boiler with radiators."
     }
-  ]
+  ],
+  "localParagraph": "Homeowners across LittleQueenley, Renfrewshire, will find that underfloor heating is a practical and increasingly popular choice given the area's mixed housing stock, which ranges from older traditional stone-built properties to more recent developments constructed across different decades. This variety of property types means that both wet and electric underfloor heating systems can be appropriate depending on floor construction, insulation standards, and how the home was originally built. LittleQueenley also sits within a zone of mixed water hardness, which is worth considering when installing a wet hydronic system, as scale buildup in pipework over time can affect efficiency if the water isn't treated or a suitable inhibitor added during commissioning. Engaging a qualified heating engineer familiar with the region's water conditions and diverse building styles will help ensure the system is correctly specified from the outset. A well-designed underfloor heating installation not only improves comfort during Scotland's colder months but can also contribute to lower energy consumption when paired with modern, efficient boiler technology. Note, however, that Renfrewshire is located in Scotland, not England.",
+  "whatItInvolves": "Underfloor heating distributes heat evenly across the entire floor surface rather than from a single radiator point, eliminating cold spots and freeing up wall space. Wet systems (water pipes) connect to your existing boiler and are more efficient long-term. Electric mat systems are faster to install and suit smaller areas or retrofits where pipe runs aren't practical.",
+  "process": "Wet system installation: survey the floor construction and calculate heat output requirements per room. Lay insulation boards to prevent heat loss downward. Install pipe circuits using the manifold as the central distribution point, connect to boiler flow and return. Commission and pressure test to 6 bar. Screed or dry lay over the top. The system must cure before the floor covering is laid — allow 21-28 days for screed.",
+  "whatToExpect": "Underfloor heating runs at lower temperatures than radiators — typically 35-45°C flow temperature vs 70-80°C for radiators — which makes it significantly cheaper to run with a heat pump or condensing boiler. The system is slower to respond than radiators, so use a programmable thermostat to pre-heat rooms. Most manufacturers offer 25-year warranties on the pipe systems.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

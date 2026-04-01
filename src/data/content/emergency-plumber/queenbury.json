@@ -2,20 +2,27 @@
   "localContent": "Queenbury is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Queenbury and the surrounding Northamptonshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Northamptonshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Queenbury with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Queenbury?",
-      "answer": "We have engineers based across Northamptonshire and can typically reach Queenbury within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Queenbury?",
-      "answer": "Yes, all our engineers working in Queenbury are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "What does emergency plumber cost in Queenbury?",
-      "answer": "Emergency Plumber in Queenbury typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     },
     {
-      "question": "Do you cover the whole of Queenbury?",
-      "answer": "Yes, we cover all areas of Queenbury and surrounding villages throughout Northamptonshire."
+      "q": "Is emergency plumbing covered by home insurance?",
+      "a": "Many home insurance policies include emergency plumbing cover — check your policy documents before calling. Some insurers require you to use their approved contractor network."
     }
-  ]
+  ],
+  "localParagraph": "Finding a reliable emergency plumber in Queenbury, Northamptonshire, is essential given the area's distinctive mix of housing stock, which ranges from older Victorian terraces and post-war semis through to more modern developments, each presenting its own set of plumbing challenges. The mixed water hardness across Queenbury means that limescale buildup is a common concern, particularly in older properties where pipework and boilers have been in place for decades, making professional attention all the more important when emergencies strike. Whether you're dealing with a burst pipe in a newer estate or a failing heating system in a period property, a qualified local plumber will understand the specific demands these different building types place on water systems. It's worth noting that while Queenbury sits within Northamptonshire, plumbing regulations and standards are consistent across England, though they differ from those applied in regions such as Northern Ireland, so ensuring your plumber is certified to the correct national standards for this area is always advisable when booking an emergency callout.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

@@ -2,20 +2,27 @@
   "localContent": "SouthBirchton is a thriving area with strong demand for reliable underfloor heating installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of SouthBirchton and the surrounding Wiltshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional underfloor heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Wiltshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any underfloor heating installation requirement.\n\nWe cover all postcodes across SouthBirchton with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to SouthBirchton?",
-      "answer": "We have engineers based across Wiltshire and can typically reach SouthBirchton within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How long does underfloor heating take to heat a room?",
+      "a": "Wet systems are slower to respond than radiators — allow 2-4 hours to reach full temperature. This is why a programmable thermostat is essential: set it to pre-heat rooms before you need them."
     },
     {
-      "question": "Are your engineers Gas Safe registered in SouthBirchton?",
-      "answer": "Yes, all our engineers working in SouthBirchton are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Can underfloor heating be added to an existing home?",
+      "a": "Yes. Low-profile retrofit systems (as thin as 15mm) can be installed without major floor height changes. Electric mat systems are the least invasive option for single rooms."
     },
     {
-      "question": "What does underfloor heating cost in SouthBirchton?",
-      "answer": "Underfloor Heating in SouthBirchton typically costs £1,500-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What warranty comes with underfloor heating?",
+      "a": "Quality wet pipe systems carry 25-year manufacturer warranties. Electric mat systems typically carry 10-25 year warranties. The installation labour guarantee varies by contractor — ask for a minimum of 12 months."
     },
     {
-      "question": "Do you cover the whole of SouthBirchton?",
-      "answer": "Yes, we cover all areas of SouthBirchton and surrounding villages throughout Wiltshire."
+      "q": "Does underfloor heating work with a heat pump?",
+      "a": "Underfloor heating and heat pumps are an ideal combination. Heat pumps are most efficient at low flow temperatures — exactly what underfloor heating requires. The pairing can reduce heating bills by 50-70% compared to a gas boiler with radiators."
     }
-  ]
+  ],
+  "localParagraph": "Underfloor heating has become an increasingly popular choice among homeowners across SouthBirchton, Wiltshire, where the mixed housing stock — ranging from older stone-built cottages and Victorian terraces to more contemporary new-build developments — presents a varied but manageable landscape for installation. The area's mixed water hardness is worth bearing in mind when selecting a system, as moderately hard water can gradually affect the efficiency of wet underfloor heating circuits over time; fitting a suitable water softener or inhibitor treatment helps protect pipework and manifolds from mineral build-up, extending the system's working life considerably. Hydronic wet systems tend to suit SouthBirchton's older, solid-floored properties particularly well when paired with a modern heat pump or condensing boiler, while electric mat systems offer a practical retrofit solution for tiled bathrooms and kitchen extensions where screed installation may not be feasible. Consulting a qualified installer familiar with the local property types ensures the chosen system is appropriately specified from the outset, delivering reliable, even warmth throughout the home for years to come.",
+  "whatItInvolves": "Underfloor heating distributes heat evenly across the entire floor surface rather than from a single radiator point, eliminating cold spots and freeing up wall space. Wet systems (water pipes) connect to your existing boiler and are more efficient long-term. Electric mat systems are faster to install and suit smaller areas or retrofits where pipe runs aren't practical.",
+  "process": "Wet system installation: survey the floor construction and calculate heat output requirements per room. Lay insulation boards to prevent heat loss downward. Install pipe circuits using the manifold as the central distribution point, connect to boiler flow and return. Commission and pressure test to 6 bar. Screed or dry lay over the top. The system must cure before the floor covering is laid — allow 21-28 days for screed.",
+  "whatToExpect": "Underfloor heating runs at lower temperatures than radiators — typically 35-45°C flow temperature vs 70-80°C for radiators — which makes it significantly cheaper to run with a heat pump or condensing boiler. The system is slower to respond than radiators, so use a programmable thermostat to pre-heat rooms. Most manufacturers offer 25-year warranties on the pipe systems.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

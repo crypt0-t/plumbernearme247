@@ -2,20 +2,27 @@
   "localContent": "Goldley is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Goldley and the surrounding Northamptonshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Northamptonshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across Goldley with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Goldley?",
-      "answer": "We have engineers based across Northamptonshire and can typically reach Goldley within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Why does my boiler keep losing pressure?",
+      "a": "Pressure loss is usually caused by a small leak in the system, a faulty pressure relief valve, or a failing expansion vessel. A Gas Safe engineer can diagnose and fix the root cause — simply topping up the pressure is a temporary fix."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Goldley?",
-      "answer": "Yes, all our engineers working in Goldley are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "What does boiler repair cost in Goldley?",
-      "answer": "Boiler Repair in Goldley typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     },
     {
-      "question": "Do you cover the whole of Goldley?",
-      "answer": "Yes, we cover all areas of Goldley and surrounding villages throughout Northamptonshire."
+      "q": "Can I use my boiler while it is making an error code?",
+      "a": "Depends on the code. Some error codes allow limited operation; others indicate a dangerous fault that requires immediate shutdown. Never ignore a gas smell — turn off at the gas meter and call the National Gas Emergency line on 0800 111 999."
     }
-  ]
+  ],
+  "localParagraph": "Boiler repair in Goldley, Northamptonshire, presents a range of considerations shaped by the area's distinctive character. The mixed water hardness found in this part of the region means that boilers across Goldley are susceptible to limescale accumulation within heat exchangers and pipework over time, which can reduce efficiency and ultimately lead to breakdowns if left unaddressed. This issue becomes particularly relevant given the varied housing stock, which spans everything from older Victorian and Edwardian terraces to mid-century semis and more recent developments — each generation of property bringing its own boiler types, flue configurations, and system pressures that a qualified engineer must be prepared to assess individually. Homeowners should ideally schedule annual servicing to catch early signs of wear, corrosion, or sediment build-up before minor faults develop into costly failures. Local engineers familiar with Northamptonshire's water profile and its effects on central heating systems are well placed to recommend appropriate inhibitor treatments or scale reducers as part of a routine maintenance plan, helping to extend boiler lifespan across Goldley's diverse residential properties.\n\n*Note: The instruction mentioned Scotland as the region, but Goldley is in Northamptonshire, England — I have used the correct geographic region.*",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

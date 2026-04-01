@@ -2,20 +2,27 @@
   "localContent": "Daisyham is a thriving area with strong demand for reliable underfloor heating installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Daisyham and the surrounding Norfolk region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional underfloor heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Norfolk, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any underfloor heating installation requirement.\n\nWe cover all postcodes across Daisyham with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Daisyham?",
-      "answer": "We have engineers based across Norfolk and can typically reach Daisyham within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Can underfloor heating be installed under any floor covering?",
+      "a": "Most floor coverings are compatible — tiles, stone, wood, vinyl, and carpet. Some engineered wood products have temperature limits; check the manufacturer's specification before installing underfloor heating beneath them."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Daisyham?",
-      "answer": "Yes, all our engineers working in Daisyham are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How long does underfloor heating take to heat a room?",
+      "a": "Wet systems are slower to respond than radiators — allow 2-4 hours to reach full temperature. This is why a programmable thermostat is essential: set it to pre-heat rooms before you need them."
     },
     {
-      "question": "What does underfloor heating cost in Daisyham?",
-      "answer": "Underfloor Heating in Daisyham typically costs £1,500-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can underfloor heating be added to an existing home?",
+      "a": "Yes. Low-profile retrofit systems (as thin as 15mm) can be installed without major floor height changes. Electric mat systems are the least invasive option for single rooms."
     },
     {
-      "question": "Do you cover the whole of Daisyham?",
-      "answer": "Yes, we cover all areas of Daisyham and surrounding villages throughout Norfolk."
+      "q": "What warranty comes with underfloor heating?",
+      "a": "Quality wet pipe systems carry 25-year manufacturer warranties. Electric mat systems typically carry 10-25 year warranties. The installation labour guarantee varies by contractor — ask for a minimum of 12 months."
     }
-  ]
+  ],
+  "localParagraph": "Daisyham, situated in Norfolk, UK, is home to a diverse mix of properties ranging from older period cottages and Victorian terraces to more contemporary builds, meaning underfloor heating systems need to be carefully specified to suit the particular demands of each property type. The mixed water hardness found in the area can influence the long-term performance of wet underfloor heating systems, making it advisable for homeowners to consider appropriate water treatment or inhibitor solutions to protect pipework and manifolds from scale build-up over time. Whether you're retrofitting a system beneath the flagstone floors of an older rural property or installing during a new build project, a professional assessment of your existing boiler capacity and insulation levels is essential before committing to a design. Residents of Daisyham would benefit from consulting with an installer experienced in working across varied property ages and construction types, ensuring the chosen system — whether electric mat or hydronic — delivers consistent warmth efficiently and reliably throughout the colder Norfolk months.",
+  "whatItInvolves": "Underfloor heating distributes heat evenly across the entire floor surface rather than from a single radiator point, eliminating cold spots and freeing up wall space. Wet systems (water pipes) connect to your existing boiler and are more efficient long-term. Electric mat systems are faster to install and suit smaller areas or retrofits where pipe runs aren't practical.",
+  "process": "Wet system installation: survey the floor construction and calculate heat output requirements per room. Lay insulation boards to prevent heat loss downward. Install pipe circuits using the manifold as the central distribution point, connect to boiler flow and return. Commission and pressure test to 6 bar. Screed or dry lay over the top. The system must cure before the floor covering is laid — allow 21-28 days for screed.",
+  "whatToExpect": "Underfloor heating runs at lower temperatures than radiators — typically 35-45°C flow temperature vs 70-80°C for radiators — which makes it significantly cheaper to run with a heat pump or condensing boiler. The system is slower to respond than radiators, so use a programmable thermostat to pre-heat rooms. Most manufacturers offer 25-year warranties on the pipe systems.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

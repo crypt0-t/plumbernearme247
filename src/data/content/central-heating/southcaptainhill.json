@@ -2,20 +2,27 @@
   "localContent": "SouthCaptainhill is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of SouthCaptainhill and the surrounding Northamptonshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Northamptonshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across SouthCaptainhill with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to SouthCaptainhill?",
-      "answer": "We have engineers based across Northamptonshire and can typically reach SouthCaptainhill within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How many radiators do I need?",
+      "a": "A qualified heating engineer calculates the heat loss for each room based on size, insulation, window area, and orientation, then sizes radiators accordingly. Undersized radiators are the most common reason homes never get warm enough."
     },
     {
-      "question": "Are your engineers Gas Safe registered in SouthCaptainhill?",
-      "answer": "Yes, all our engineers working in SouthCaptainhill are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "What does central heating cost in SouthCaptainhill?",
-      "answer": "Central Heating in SouthCaptainhill typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "Do you cover the whole of SouthCaptainhill?",
-      "answer": "Yes, we cover all areas of SouthCaptainhill and surrounding villages throughout Northamptonshire."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     }
-  ]
+  ],
+  "localParagraph": "Central heating installation and maintenance in SouthCaptainhill, Northamptonshire, presents a range of considerations for homeowners across this mixed community. The area features housing spanning multiple eras, from older Victorian and Edwardian terraces through to mid-century semis and more recent new-build developments, meaning boiler specifications and pipework requirements can vary considerably from one property to the next. Water hardness across SouthCaptainhill falls into a mixed category, which has practical implications for central heating systems — scale buildup within heat exchangers and pipework can reduce efficiency over time if inhibitors are not regularly checked and replenished. Homeowners would be well advised to ensure their systems are treated with appropriate scale and corrosion inhibitors suited to the local water conditions. It is worth noting, however, that SouthCaptainhill is located in Northamptonshire rather than Wales, so any engineer or contractor operating here should hold Gas Safe registration applicable to England, and be familiar with the specific building stock and infrastructure typical of this part of the East Midlands.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

@@ -2,20 +2,27 @@
   "localContent": "Croydon is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Croydon and the surrounding Greater London region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Greater London, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across Croydon with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Croydon?",
-      "answer": "We have engineers based across Greater London and can typically reach Croydon within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Why does my boiler keep losing pressure?",
+      "a": "Pressure loss is usually caused by a small leak in the system, a faulty pressure relief valve, or a failing expansion vessel. A Gas Safe engineer can diagnose and fix the root cause — simply topping up the pressure is a temporary fix."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Croydon?",
-      "answer": "Yes, all our engineers working in Croydon are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "What does boiler repair cost in Croydon?",
-      "answer": "Boiler Repair in Croydon typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     },
     {
-      "question": "Do you cover the whole of Croydon?",
-      "answer": "Yes, we cover all areas of Croydon and surrounding villages throughout Greater London."
+      "q": "Can I use my boiler while it is making an error code?",
+      "a": "Depends on the code. Some error codes allow limited operation; others indicate a dangerous fault that requires immediate shutdown. Never ignore a gas smell — turn off at the gas meter and call the National Gas Emergency line on 0800 111 999."
     }
-  ]
+  ],
+  "localParagraph": "Croydon's diverse housing stock presents a wide range of challenges for boiler repair engineers, from Victorian terraces in South Norwood and Thornton Heath to post-war semis in Selsdon and modern apartment blocks closer to the town centre. The borough sits within a zone of mixed water hardness, meaning some properties — particularly older ones with original pipework — experience limescale accumulation in heat exchangers and primary circuits, which can restrict flow and cause boilers to cycle inefficiently or lock out altogether. Engineers working across Croydon regularly encounter a broad spectrum of boiler makes and installation ages, requiring solid diagnostic experience rather than a one-size-fits-all approach. Homes built in different eras across England often have varying levels of system insulation and pipework configuration, so a thorough inspection before carrying out repairs is essential to avoid repeat call-outs. Whether dealing with a pressure fault in a flat near George Street or a persistent ignition failure in a detached home in Addington, residents across the borough benefit most from engineers who understand both the local water conditions and the specific demands of the property type they are working in.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

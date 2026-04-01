@@ -2,20 +2,27 @@
   "localContent": "Newcastle upon Tyne is a thriving area with strong demand for reliable new boiler supply and installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Newcastle upon Tyne and the surrounding Tyne and Wear region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Tyne and Wear, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any new boiler supply and installation requirement.\n\nWe cover all postcodes across Newcastle upon Tyne with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Newcastle upon Tyne?",
-      "answer": "We have engineers based across Tyne and Wear and can typically reach Newcastle upon Tyne within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Do I need a combi boiler or a system boiler?",
+      "a": "Combi boilers suit most homes up to 3 bedrooms with 1-2 bathrooms — no hot water tank needed. System boilers suit larger homes with higher hot water demand. Your installer should calculate your requirements before recommending."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Newcastle upon Tyne?",
-      "answer": "Yes, all our engineers working in Newcastle upon Tyne are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What is the best boiler brand?",
+      "a": "Worcester Bosch, Viessmann, and Vaillant consistently top reliability surveys. All three offer extended warranties of 8-12 years when installed by accredited engineers. Brand matters less than correct sizing and installation quality."
     },
     {
-      "question": "What does boiler installation cost in Newcastle upon Tyne?",
-      "answer": "Boiler Installation in Newcastle upon Tyne typically costs £2,500-£4,500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Do I need to notify anyone when a new boiler is installed?",
+      "a": "Yes — your Gas Safe registered installer must notify Building Control within 30 days of installation under the Competent Person Scheme. You will receive a Building Regulations completion certificate."
     },
     {
-      "question": "Do you cover the whole of Newcastle upon Tyne?",
-      "answer": "Yes, we cover all areas of Newcastle upon Tyne and surrounding villages throughout Tyne and Wear."
+      "q": "How much can a new boiler save on energy bills?",
+      "a": "Replacing a G-rated boiler (pre-2005) with an A-rated condensing boiler can save £300-£500 per year on gas bills. The actual saving depends on your home size, insulation, and usage patterns."
     }
-  ]
+  ],
+  "localParagraph": "Boiler installation across Newcastle upon Tyne requires a considered approach, given the city's wonderfully varied housing stock and the mixed water hardness that characterises the region. From the Victorian terraces of Heaton and Jesmond to the post-war semis of Blakelaw and the modern new-builds appearing along the Quayside, each property type presents its own set of requirements when it comes to selecting and fitting the right boiler system. The mixed water hardness found throughout Tyne and Wear means that scale build-up can become a concern over time, making it worth discussing whether a scale reducer or inhibitor should be incorporated into the installation to protect the heat exchanger and extend the boiler's working life. A reputable installer working in Newcastle upon Tyne will carry out a full assessment of the existing pipework, radiator capacity, and hot water demand before recommending a combi, system, or heat-only boiler, ensuring that homeowners in England's northeast get a solution properly matched to their property rather than a one-size-fits-all approach.",
+  "whatItInvolves": "A new boiler installation involves removing your existing unit, upgrading the flue and pipework where required, fitting and commissioning the new boiler, and registering it with Building Control via the Competent Person Scheme. All new boiler installations must be carried out by a Gas Safe registered engineer — it is illegal for anyone else to do this work.",
+  "process": "Day 1: drain down the system, remove the old boiler, cap off existing connections. Upgrade the flue if required — most modern boilers use a concentric flue that vents through an external wall. Fit the new unit, connect flow and return pipes, gas supply, and condensate drain. Commission the boiler following manufacturer guidelines, balance the radiators, and register the installation. You'll receive a Building Regulations completion certificate within 28 days.",
+  "whatToExpect": "A standard like-for-like boiler swap takes 1-2 days. A full system change — moving the boiler or converting from back boiler to combi — takes 2-4 days. Your new boiler should come with a manufacturer warranty of 5-12 years depending on brand. Always register the warranty within 30 days of installation.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

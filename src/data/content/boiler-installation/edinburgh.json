@@ -2,20 +2,27 @@
   "localContent": "Edinburgh is a thriving area with strong demand for reliable new boiler supply and installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Edinburgh and the surrounding City of Edinburgh region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across City of Edinburgh, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any new boiler supply and installation requirement.\n\nWe cover all postcodes across Edinburgh with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Edinburgh?",
-      "answer": "We have engineers based across City of Edinburgh and can typically reach Edinburgh within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How long does a boiler installation take?",
+      "a": "A straightforward like-for-like combi boiler swap takes 1-2 days. Moving the boiler location or converting from a heat-only system to a combi takes 2-4 days."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Edinburgh?",
-      "answer": "Yes, all our engineers working in Edinburgh are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Do I need a combi boiler or a system boiler?",
+      "a": "Combi boilers suit most homes up to 3 bedrooms with 1-2 bathrooms — no hot water tank needed. System boilers suit larger homes with higher hot water demand. Your installer should calculate your requirements before recommending."
     },
     {
-      "question": "What does boiler installation cost in Edinburgh?",
-      "answer": "Boiler Installation in Edinburgh typically costs £2,500-£4,500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What is the best boiler brand?",
+      "a": "Worcester Bosch, Viessmann, and Vaillant consistently top reliability surveys. All three offer extended warranties of 8-12 years when installed by accredited engineers. Brand matters less than correct sizing and installation quality."
     },
     {
-      "question": "Do you cover the whole of Edinburgh?",
-      "answer": "Yes, we cover all areas of Edinburgh and surrounding villages throughout City of Edinburgh."
+      "q": "Do I need to notify anyone when a new boiler is installed?",
+      "a": "Yes — your Gas Safe registered installer must notify Building Control within 30 days of installation under the Competent Person Scheme. You will receive a Building Regulations completion certificate."
     }
-  ]
+  ],
+  "localParagraph": "Edinburgh's diverse housing stock presents a range of considerations for boiler installation, from the Victorian tenements of Leith and Gorgie to the Georgian townhouses of the New Town and modern developments in areas like Quartermile. Scotland's capital experiences mixed water hardness, meaning properties across the city can face varying levels of scale accumulation within heating systems, making the correct boiler specification and appropriate system protection — such as magnetic filters and inhibitor treatments — particularly important for long-term efficiency. A qualified heating engineer working in Edinburgh will assess both the age and construction type of a property before recommending a system, combi, or heat-only boiler, as older tenement buildings often require different configurations compared to newer builds. Gas-safe registered installers familiar with Edinburgh's mixed housing landscape will also ensure pipework and flue positioning comply with current building regulations, which can be more complex in listed or traditionally constructed properties. Getting the installation right from the outset protects both the warranty and the efficiency of your new boiler.",
+  "whatItInvolves": "A new boiler installation involves removing your existing unit, upgrading the flue and pipework where required, fitting and commissioning the new boiler, and registering it with Building Control via the Competent Person Scheme. All new boiler installations must be carried out by a Gas Safe registered engineer — it is illegal for anyone else to do this work.",
+  "process": "Day 1: drain down the system, remove the old boiler, cap off existing connections. Upgrade the flue if required — most modern boilers use a concentric flue that vents through an external wall. Fit the new unit, connect flow and return pipes, gas supply, and condensate drain. Commission the boiler following manufacturer guidelines, balance the radiators, and register the installation. You'll receive a Building Regulations completion certificate within 28 days.",
+  "whatToExpect": "A standard like-for-like boiler swap takes 1-2 days. A full system change — moving the boiler or converting from back boiler to combi — takes 2-4 days. Your new boiler should come with a manufacturer warranty of 5-12 years depending on brand. Always register the warranty within 30 days of installation.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

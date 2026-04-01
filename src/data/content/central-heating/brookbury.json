@@ -2,20 +2,27 @@
   "localContent": "Brookbury is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Brookbury and the surrounding Stirling region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Stirling, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across Brookbury with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Brookbury?",
-      "answer": "We have engineers based across Stirling and can typically reach Brookbury within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How many radiators do I need?",
+      "a": "A qualified heating engineer calculates the heat loss for each room based on size, insulation, window area, and orientation, then sizes radiators accordingly. Undersized radiators are the most common reason homes never get warm enough."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Brookbury?",
-      "answer": "Yes, all our engineers working in Brookbury are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "What does central heating cost in Brookbury?",
-      "answer": "Central Heating in Brookbury typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "Do you cover the whole of Brookbury?",
-      "answer": "Yes, we cover all areas of Brookbury and surrounding villages throughout Stirling."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     }
-  ]
+  ],
+  "localParagraph": "Brookbury, located in Stirling, Scotland — not Wales as sometimes miscategorised — is a residential area where central heating requirements vary considerably due to its mix of housing types, from older traditional properties to more modern builds constructed across different decades. This diversity of construction means that boiler specifications, pipe layouts, and system designs can differ significantly from one street to the next, making it important to work with engineers who understand the nuances of period and contemporary installations alike. The water supply serving Brookbury presents mixed hardness levels, which can accelerate limescale accumulation within boilers, heat exchangers, and pipework over time — particularly in older systems that may not have been fitted with adequate scale inhibitors. Homeowners in Brookbury would benefit from discussing inhibitor treatments or scale reducer devices with their heating engineer during servicing, as these measures can meaningfully extend system lifespan and maintain efficiency. Regular power flushing is also worth considering for properties where sludge build-up may be reducing circulation and increasing energy consumption.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

@@ -2,20 +2,27 @@
   "localContent": "Brent is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Brent and the surrounding Greater London region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Greater London, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across Brent with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Brent?",
-      "answer": "We have engineers based across Greater London and can typically reach Brent within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Why does my boiler keep losing pressure?",
+      "a": "Pressure loss is usually caused by a small leak in the system, a faulty pressure relief valve, or a failing expansion vessel. A Gas Safe engineer can diagnose and fix the root cause — simply topping up the pressure is a temporary fix."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Brent?",
-      "answer": "Yes, all our engineers working in Brent are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "What does boiler repair cost in Brent?",
-      "answer": "Boiler Repair in Brent typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     },
     {
-      "question": "Do you cover the whole of Brent?",
-      "answer": "Yes, we cover all areas of Brent and surrounding villages throughout Greater London."
+      "q": "Can I use my boiler while it is making an error code?",
+      "a": "Depends on the code. Some error codes allow limited operation; others indicate a dangerous fault that requires immediate shutdown. Never ignore a gas smell — turn off at the gas meter and call the National Gas Emergency line on 0800 111 999."
     }
-  ]
+  ],
+  "localParagraph": "Boiler repair in Brent covers an exceptionally varied range of properties, from the Edwardian terraces of Willesden and Harlesden to post-war council housing in Stonebridge and the newer developments emerging around Wembley. This mixed housing stock across different eras means engineers working in Brent must be comfortable servicing a wide variety of boiler makes and installation configurations, as older properties often have systems that have been modified or extended over decades. England's mixed water hardness conditions are particularly relevant here, since Brent sits in a zone where limescale buildup can gradually affect heat exchangers, valves, and expansion vessels, shortening boiler lifespan if annual servicing is overlooked. Homeowners and landlords alike benefit from using Gas Safe registered engineers who understand how local water quality interacts with system components, and who can advise on whether a scale reducer or inhibitor would help protect the installation. Prompt attention to unusual noises, pressure drops, or pilot light failures is always recommended to prevent minor faults from developing into costly replacements.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

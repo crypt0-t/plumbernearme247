@@ -2,20 +2,27 @@
   "localContent": "Lockwood is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Lockwood and the surrounding West Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across Lockwood with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Lockwood?",
-      "answer": "We have engineers based across West Yorkshire and can typically reach Lockwood within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Lockwood?",
-      "answer": "Yes, all our engineers working in Lockwood are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     },
     {
-      "question": "What does boiler repair cost in Lockwood?",
-      "answer": "Boiler Repair in Lockwood typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can I use my boiler while it is making an error code?",
+      "a": "Depends on the code. Some error codes allow limited operation; others indicate a dangerous fault that requires immediate shutdown. Never ignore a gas smell — turn off at the gas meter and call the National Gas Emergency line on 0800 111 999."
     },
     {
-      "question": "Do you cover the whole of Lockwood?",
-      "answer": "Yes, we cover all areas of Lockwood and surrounding villages throughout West Yorkshire."
+      "q": "Is boiler repair covered by home insurance?",
+      "a": "Standard home insurance rarely covers boiler repair. Boiler cover policies (British Gas, Homeserve, etc.) typically cover parts and labour for an annual fee. Check your existing policy before purchasing additional cover."
     }
-  ]
+  ],
+  "localParagraph": "Lockwood, a residential neighbourhood in Huddersfield, West Yorkshire, sits within a mixed water hardness zone across England, which means boilers in the area can face varying degrees of limescale accumulation depending on seasonal supply blends and local pipe conditions. The housing stock across Lockwood reflects multiple construction eras, from Victorian terraces near the older mill-side streets to mid-century semis and more recent developments, each presenting its own set of boiler installation challenges and maintenance requirements. Older properties often have outdated pipework that may not be compatible with modern condensing boilers without additional system modifications, while newer builds can sometimes suffer from poorly commissioned units that develop faults prematurely. A qualified heating engineer working in Lockwood will carry out a thorough assessment of your system, checking heat exchangers, pressure relief valves, and expansion vessels to diagnose issues accurately before undertaking any repairs. Whether your property dates back a century or was built more recently, addressing boiler faults promptly helps maintain energy efficiency and keeps heating costs manageable throughout the colder months.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

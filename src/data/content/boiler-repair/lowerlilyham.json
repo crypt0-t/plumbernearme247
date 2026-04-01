@@ -2,20 +2,27 @@
   "localContent": "LowerLilyham is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of LowerLilyham and the surrounding West Sussex region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Sussex, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across LowerLilyham with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to LowerLilyham?",
-      "answer": "We have engineers based across West Sussex and can typically reach LowerLilyham within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "Are your engineers Gas Safe registered in LowerLilyham?",
-      "answer": "Yes, all our engineers working in LowerLilyham are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     },
     {
-      "question": "What does boiler repair cost in LowerLilyham?",
-      "answer": "Boiler Repair in LowerLilyham typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can I use my boiler while it is making an error code?",
+      "a": "Depends on the code. Some error codes allow limited operation; others indicate a dangerous fault that requires immediate shutdown. Never ignore a gas smell — turn off at the gas meter and call the National Gas Emergency line on 0800 111 999."
     },
     {
-      "question": "Do you cover the whole of LowerLilyham?",
-      "answer": "Yes, we cover all areas of LowerLilyham and surrounding villages throughout West Sussex."
+      "q": "Is boiler repair covered by home insurance?",
+      "a": "Standard home insurance rarely covers boiler repair. Boiler cover policies (British Gas, Homeserve, etc.) typically cover parts and labour for an annual fee. Check your existing policy before purchasing additional cover."
     }
-  ]
+  ],
+  "localParagraph": "Boiler repair in LowerLilyham, West Sussex, presents a particular set of challenges that local engineers are well-versed in handling. The area features mixed housing spanning multiple eras, from Victorian and Edwardian terraces through to mid-century semis and more recent developments, meaning that boilers of widely varying ages, makes, and configurations are commonplace. This diversity in property type requires engineers who can competently service everything from older cast-iron heat exchangers to modern condensing units. LowerLilyham also sits within a region of mixed water hardness, which can lead to limescale accumulation inside heat exchangers and around internal components over time — a factor worth considering when scheduling routine maintenance, as scale build-up is a leading cause of reduced efficiency and eventual breakdowns. Although the area falls under West Sussex rather than Scotland, where harder water conditions are more uniformly distributed, residents here still benefit from periodic descaling checks as part of a thorough service. Engaging a qualified Gas Safe engineer familiar with LowerLilyham's varied housing stock ensures that any repair work is carried out safely and to a high standard.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

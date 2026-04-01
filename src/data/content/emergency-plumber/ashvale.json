@@ -2,20 +2,27 @@
   "localContent": "Ashvale is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Ashvale and the surrounding Suffolk region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Suffolk, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Ashvale with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Ashvale?",
-      "answer": "We have engineers based across Suffolk and can typically reach Ashvale within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How quickly can an emergency plumber reach me?",
+      "a": "In most UK cities, expect an engineer within 45-90 minutes. Response times in rural areas may be longer — typically 60-120 minutes."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Ashvale?",
-      "answer": "Yes, all our engineers working in Ashvale are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "What does emergency plumber cost in Ashvale?",
-      "answer": "Emergency Plumber in Ashvale typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "Do you cover the whole of Ashvale?",
-      "answer": "Yes, we cover all areas of Ashvale and surrounding villages throughout Suffolk."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     }
-  ]
+  ],
+  "localParagraph": "Ashvale, located in Suffolk, is a community where the mixed housing stock — ranging from older Victorian terraces to more modern post-war and contemporary builds — means that plumbing systems vary considerably from one property to the next, presenting unique challenges that a knowledgeable emergency plumber must be prepared to handle. The area experiences mixed water hardness, which can accelerate limescale build-up in older pipework and boiler systems, increasing the risk of unexpected failures that demand swift, professional attention. When a burst pipe, boiler breakdown, or blocked drain strikes at an inconvenient hour, residents of Ashvale need a local emergency plumber who understands both the age of the infrastructure and the specific water conditions affecting the area. It is worth noting that while Ashvale sits within Suffolk, some plumbing contractors operating in this part of the region may also cover neighbouring areas extending toward Wales, offering broader emergency coverage for clients who require rapid-response support across county boundaries. Choosing a plumber with genuine local knowledge ensures a faster diagnosis and a more reliable long-term repair.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

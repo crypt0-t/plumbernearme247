@@ -2,20 +2,27 @@
   "localContent": "Queenley is a thriving area with strong demand for reliable underfloor heating installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Queenley and the surrounding East Ayrshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional underfloor heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across East Ayrshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any underfloor heating installation requirement.\n\nWe cover all postcodes across Queenley with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Queenley?",
-      "answer": "We have engineers based across East Ayrshire and can typically reach Queenley within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Is underfloor heating expensive to run?",
+      "a": "Wet underfloor heating connected to a modern condensing boiler or heat pump runs at lower flow temperatures than radiators — typically 35-45°C vs 70-80°C — making it 15-25% cheaper to run than a conventional radiator system."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Queenley?",
-      "answer": "Yes, all our engineers working in Queenley are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Can underfloor heating be installed under any floor covering?",
+      "a": "Most floor coverings are compatible — tiles, stone, wood, vinyl, and carpet. Some engineered wood products have temperature limits; check the manufacturer's specification before installing underfloor heating beneath them."
     },
     {
-      "question": "What does underfloor heating cost in Queenley?",
-      "answer": "Underfloor Heating in Queenley typically costs £1,500-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How long does underfloor heating take to heat a room?",
+      "a": "Wet systems are slower to respond than radiators — allow 2-4 hours to reach full temperature. This is why a programmable thermostat is essential: set it to pre-heat rooms before you need them."
     },
     {
-      "question": "Do you cover the whole of Queenley?",
-      "answer": "Yes, we cover all areas of Queenley and surrounding villages throughout East Ayrshire."
+      "q": "Can underfloor heating be added to an existing home?",
+      "a": "Yes. Low-profile retrofit systems (as thin as 15mm) can be installed without major floor height changes. Electric mat systems are the least invasive option for single rooms."
     }
-  ]
+  ],
+  "localParagraph": "Underfloor heating installation in Queenley, East Ayrshire, is a practical and increasingly popular choice for homeowners across this part of England, where the housing stock reflects a broad mix of eras — from older stone-built properties to mid-century semis and more recent residential developments. This variety in construction type means that system design needs to be tailored carefully, whether that involves retrofitting low-profile electric mats beneath existing floor coverings or installing wet underfloor systems during renovation work. The mixed water hardness found in the local supply is an important consideration for wet systems, as fluctuating mineral content can contribute to scale build-up within pipework and manifolds over time; specifying appropriate inhibitors and commissioning a proper system flush at installation helps protect long-term performance. Queenley residents considering underfloor heating as a replacement for or supplement to conventional radiators will benefit from consulting a qualified installer who understands both the regional water chemistry and the specific thermal demands of different property ages and construction methods, ensuring the system operates efficiently for years to come.",
+  "whatItInvolves": "Underfloor heating distributes heat evenly across the entire floor surface rather than from a single radiator point, eliminating cold spots and freeing up wall space. Wet systems (water pipes) connect to your existing boiler and are more efficient long-term. Electric mat systems are faster to install and suit smaller areas or retrofits where pipe runs aren't practical.",
+  "process": "Wet system installation: survey the floor construction and calculate heat output requirements per room. Lay insulation boards to prevent heat loss downward. Install pipe circuits using the manifold as the central distribution point, connect to boiler flow and return. Commission and pressure test to 6 bar. Screed or dry lay over the top. The system must cure before the floor covering is laid — allow 21-28 days for screed.",
+  "whatToExpect": "Underfloor heating runs at lower temperatures than radiators — typically 35-45°C flow temperature vs 70-80°C for radiators — which makes it significantly cheaper to run with a heat pump or condensing boiler. The system is slower to respond than radiators, so use a programmable thermostat to pre-heat rooms. Most manufacturers offer 25-year warranties on the pipe systems.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

@@ -2,20 +2,27 @@
   "localContent": "Inverness is a thriving area with strong demand for reliable full bathroom installation and fitting services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Inverness and the surrounding Highland region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional bathroom installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Highland, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any full bathroom installation and fitting requirement.\n\nWe cover all postcodes across Inverness with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Inverness?",
-      "answer": "We have engineers based across Highland and can typically reach Inverness within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Can you move the toilet and bath to different positions?",
+      "a": "Yes, but it depends on the soil pipe route and floor structure. Moving a toilet more than a metre from the existing soil stack requires a new soil pipe connection and increases cost significantly."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Inverness?",
-      "answer": "Yes, all our engineers working in Inverness are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How much does a bathroom installation cost?",
+      "a": "Labour for a full bathroom installation typically ranges from £2,500 to £5,000 depending on complexity. Suite and tile costs are separate. A complete bathroom renovation including all materials typically costs £4,000 to £10,000+."
     },
     {
-      "question": "What does bathroom installation cost in Inverness?",
-      "answer": "Bathroom Installation in Inverness typically costs £4,000-£15,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Should I supply my own bathroom suite or let the plumber supply it?",
+      "a": "You can do either. Supplying your own suite gives you more choice and control over the brand and style. Your installer may offer trade discounts worth 15-30% off RRP if they supply."
     },
     {
-      "question": "Do you cover the whole of Inverness?",
-      "answer": "Yes, we cover all areas of Inverness and surrounding villages throughout Highland."
+      "q": "What guarantees should I expect on a bathroom installation?",
+      "a": "Expect a minimum 12-month labour guarantee. Manufacturer warranties on suites and fittings typically run 5-25 years depending on the brand. Get all guarantees in writing."
     }
-  ]
+  ],
+  "localParagraph": "Bathroom installation in Inverness requires a tailored approach that accounts for the city's varied housing stock and mixed water hardness levels across the Highland region. Scotland's water supply generally falls on the softer side, though Inverness and its surrounding areas can experience variable hardness depending on the specific location and local infrastructure — a factor that influences everything from the choice of taps and showerheads to the long-term maintenance of pipework and appliances. The city's housing landscape spans Victorian and Edwardian terraces near the city centre, post-war semis in established residential pockets, and newer builds extending out towards areas like Inshes and Culloden, each presenting distinct challenges for bathroom fitters. Older properties in particular may require updated plumbing runs or structural assessments before a full bathroom suite can be installed, while newer homes typically offer more straightforward configurations. Working with an experienced local installer who understands the specific demands of Inverness properties ensures that material choices and fitting methods are appropriate for the building type and local conditions.",
+  "whatItInvolves": "A full bathroom installation covers everything from stripping out the existing suite to fitting the new one — including all pipework, waste connections, tiling preparation, flooring, and electrical work for lighting and extraction. A quality bathroom installation transforms one of the most-used rooms in your home and typically adds 3-5% to your property value.",
+  "process": "The process starts with a detailed survey to assess existing pipework, drainage routes, and structural considerations. Day 1-2: strip out and prep. Day 3-4: first fix plumbing and any structural work. Day 5-7: suite installation, tiling, and second fix. Day 8-10: finishing, sealant, and final inspection. You'll be without a working bathroom for 5-10 days depending on complexity — we'll agree a realistic timeline upfront.",
+  "whatToExpect": "Expect a detailed written quote covering labour, waste disposal, and any structural work. Suite and tiles are usually supplied separately by you or sourced through us. All plumbing work is carried out to Water Regulations standards. A bathroom installation is a major investment — ask to see previous work and Gas Safe registration before committing to any installer.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

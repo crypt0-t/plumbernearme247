@@ -2,20 +2,27 @@
   "localContent": "Normanton is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Normanton and the surrounding West Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Normanton with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Normanton?",
-      "answer": "We have engineers based across West Yorkshire and can typically reach Normanton within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Normanton?",
-      "answer": "Yes, all our engineers working in Normanton are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "What does emergency plumber cost in Normanton?",
-      "answer": "Emergency Plumber in Normanton typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     },
     {
-      "question": "Do you cover the whole of Normanton?",
-      "answer": "Yes, we cover all areas of Normanton and surrounding villages throughout West Yorkshire."
+      "q": "Is emergency plumbing covered by home insurance?",
+      "a": "Many home insurance policies include emergency plumbing cover — check your policy documents before calling. Some insurers require you to use their approved contractor network."
     }
-  ]
+  ],
+  "localParagraph": "Normanton, a West Yorkshire town in England, presents a varied landscape for emergency plumbing callouts, shaped by its mix of older terraced properties, post-war council housing, and newer residential developments spread across areas like Altofts and Snydale Road. The town's mixed water hardness means plumbers must be prepared to deal with both limescale-related blockages and corrosion issues depending on the specific street or property era they attend. A burst pipe in a Victorian terrace on one of Normanton's older residential streets carries very different challenges than a boiler failure in a modern semi-detached home, making experience with diverse property types essential for any emergency plumber working in the area. Whether it's an early morning leak flooding a kitchen or a failed heating system in the middle of winter, residents across Normanton benefit most from local engineers who understand how ageing infrastructure in period homes interacts with local water conditions. Response times matter enormously in genuine emergencies, so choosing a plumber with proven local knowledge can make a real difference to the outcome.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

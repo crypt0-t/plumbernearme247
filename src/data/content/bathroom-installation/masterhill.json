@@ -2,20 +2,27 @@
   "localContent": "Masterhill is a thriving area with strong demand for reliable full bathroom installation and fitting services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Masterhill and the surrounding Cornwall region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional bathroom installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Cornwall, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any full bathroom installation and fitting requirement.\n\nWe cover all postcodes across Masterhill with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Masterhill?",
-      "answer": "We have engineers based across Cornwall and can typically reach Masterhill within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How long does a full bathroom installation take?",
+      "a": "A standard bathroom installation takes 5-10 days from strip-out to completion. En-suites and complex layouts with structural changes can take up to 2 weeks."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Masterhill?",
-      "answer": "Yes, all our engineers working in Masterhill are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Do I need planning permission for a new bathroom?",
+      "a": "In most cases, no. Replacing like-for-like or fitting a new bathroom within existing walls does not require planning permission. Moving soil stacks or creating a new bathroom in unconverted space may require Building Regulations approval."
     },
     {
-      "question": "What does bathroom installation cost in Masterhill?",
-      "answer": "Bathroom Installation in Masterhill typically costs £4,000-£15,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can you move the toilet and bath to different positions?",
+      "a": "Yes, but it depends on the soil pipe route and floor structure. Moving a toilet more than a metre from the existing soil stack requires a new soil pipe connection and increases cost significantly."
     },
     {
-      "question": "Do you cover the whole of Masterhill?",
-      "answer": "Yes, we cover all areas of Masterhill and surrounding villages throughout Cornwall."
+      "q": "How much does a bathroom installation cost?",
+      "a": "Labour for a full bathroom installation typically ranges from £2,500 to £5,000 depending on complexity. Suite and tile costs are separate. A complete bathroom renovation including all materials typically costs £4,000 to £10,000+."
     }
-  ]
+  ],
+  "localParagraph": "Bathroom installation in Masterhill, Cornwall, forms part of a broader picture of home improvement across this part of England, where the mixed housing stock presents a genuine variety of challenges and opportunities for installers. Properties in Masterhill range from older stone-built cottages to more modern residential builds, meaning that no two bathroom projects are quite the same — pipe configurations, wall structures, and floor depths can all differ significantly depending on the era of construction. Cornwall's water supply in this area sits at a mixed hardness level, which influences material choices; homeowners and installers alike benefit from considering limescale-resistant fittings and quality sealants that hold up well over time without premature deterioration around taps and shower enclosures. Whether the work involves a straightforward suite replacement or a full wet room conversion in an older property, professional bathroom installers working in Masterhill will typically carry out a thorough survey beforehand to account for the specific structural and plumbing conditions of each home, helping to avoid costly complications mid-project.",
+  "whatItInvolves": "A full bathroom installation covers everything from stripping out the existing suite to fitting the new one — including all pipework, waste connections, tiling preparation, flooring, and electrical work for lighting and extraction. A quality bathroom installation transforms one of the most-used rooms in your home and typically adds 3-5% to your property value.",
+  "process": "The process starts with a detailed survey to assess existing pipework, drainage routes, and structural considerations. Day 1-2: strip out and prep. Day 3-4: first fix plumbing and any structural work. Day 5-7: suite installation, tiling, and second fix. Day 8-10: finishing, sealant, and final inspection. You'll be without a working bathroom for 5-10 days depending on complexity — we'll agree a realistic timeline upfront.",
+  "whatToExpect": "Expect a detailed written quote covering labour, waste disposal, and any structural work. Suite and tiles are usually supplied separately by you or sourced through us. All plumbing work is carried out to Water Regulations standards. A bathroom installation is a major investment — ask to see previous work and Gas Safe registration before committing to any installer.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

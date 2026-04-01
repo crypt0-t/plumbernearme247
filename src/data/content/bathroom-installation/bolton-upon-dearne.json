@@ -2,20 +2,27 @@
   "localContent": "Bolton upon Dearne is a thriving area with strong demand for reliable full bathroom installation and fitting services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Bolton upon Dearne and the surrounding West Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional bathroom installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any full bathroom installation and fitting requirement.\n\nWe cover all postcodes across Bolton upon Dearne with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Bolton upon Dearne?",
-      "answer": "We have engineers based across West Yorkshire and can typically reach Bolton upon Dearne within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Do I need planning permission for a new bathroom?",
+      "a": "In most cases, no. Replacing like-for-like or fitting a new bathroom within existing walls does not require planning permission. Moving soil stacks or creating a new bathroom in unconverted space may require Building Regulations approval."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Bolton upon Dearne?",
-      "answer": "Yes, all our engineers working in Bolton upon Dearne are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Can you move the toilet and bath to different positions?",
+      "a": "Yes, but it depends on the soil pipe route and floor structure. Moving a toilet more than a metre from the existing soil stack requires a new soil pipe connection and increases cost significantly."
     },
     {
-      "question": "What does bathroom installation cost in Bolton upon Dearne?",
-      "answer": "Bathroom Installation in Bolton upon Dearne typically costs £4,000-£15,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How much does a bathroom installation cost?",
+      "a": "Labour for a full bathroom installation typically ranges from £2,500 to £5,000 depending on complexity. Suite and tile costs are separate. A complete bathroom renovation including all materials typically costs £4,000 to £10,000+."
     },
     {
-      "question": "Do you cover the whole of Bolton upon Dearne?",
-      "answer": "Yes, we cover all areas of Bolton upon Dearne and surrounding villages throughout West Yorkshire."
+      "q": "Should I supply my own bathroom suite or let the plumber supply it?",
+      "a": "You can do either. Supplying your own suite gives you more choice and control over the brand and style. Your installer may offer trade discounts worth 15-30% off RRP if they supply."
     }
-  ]
+  ],
+  "localParagraph": "Bathroom installation in Bolton upon Dearne requires a practical understanding of the local area's distinct characteristics, particularly given that the village sits within a region of mixed water hardness across West Yorkshire. This means that while some properties may experience moderate limescale buildup around fittings and showerheads, others face harder water conditions that can affect the longevity of chrome fixtures and internal valve components — something a knowledgeable installer will account for when recommending materials and protective treatments. The housing stock across Bolton upon Dearne spans several eras, from older terraced properties typical of former mining communities along streets near the village centre to post-war semis and more recent residential developments on the outskirts, each presenting different plumbing configurations, pipe layouts, and spatial constraints. Installers working in the area need experience adapting bathroom designs to suit both tight Victorian-era floor plans and the more generous proportions found in newer builds. Choosing a professional familiar with Bolton upon Dearne's varied housing and local water conditions ensures a finished bathroom that performs reliably for years to come.",
+  "whatItInvolves": "A full bathroom installation covers everything from stripping out the existing suite to fitting the new one — including all pipework, waste connections, tiling preparation, flooring, and electrical work for lighting and extraction. A quality bathroom installation transforms one of the most-used rooms in your home and typically adds 3-5% to your property value.",
+  "process": "The process starts with a detailed survey to assess existing pipework, drainage routes, and structural considerations. Day 1-2: strip out and prep. Day 3-4: first fix plumbing and any structural work. Day 5-7: suite installation, tiling, and second fix. Day 8-10: finishing, sealant, and final inspection. You'll be without a working bathroom for 5-10 days depending on complexity — we'll agree a realistic timeline upfront.",
+  "whatToExpect": "Expect a detailed written quote covering labour, waste disposal, and any structural work. Suite and tiles are usually supplied separately by you or sourced through us. All plumbing work is carried out to Water Regulations standards. A bathroom installation is a major investment — ask to see previous work and Gas Safe registration before committing to any installer.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

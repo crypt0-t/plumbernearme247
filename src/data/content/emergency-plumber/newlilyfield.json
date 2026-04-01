@@ -2,20 +2,27 @@
   "localContent": "NewLilyfield is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of NewLilyfield and the surrounding West Dunbartonshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Dunbartonshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across NewLilyfield with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to NewLilyfield?",
-      "answer": "We have engineers based across West Dunbartonshire and can typically reach NewLilyfield within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "Are your engineers Gas Safe registered in NewLilyfield?",
-      "answer": "Yes, all our engineers working in NewLilyfield are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "What does emergency plumber cost in NewLilyfield?",
-      "answer": "Emergency Plumber in NewLilyfield typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     },
     {
-      "question": "Do you cover the whole of NewLilyfield?",
-      "answer": "Yes, we cover all areas of NewLilyfield and surrounding villages throughout West Dunbartonshire."
+      "q": "Is emergency plumbing covered by home insurance?",
+      "a": "Many home insurance policies include emergency plumbing cover — check your policy documents before calling. Some insurers require you to use their approved contractor network."
     }
-  ]
+  ],
+  "localParagraph": "Finding a reliable emergency plumber in NewLilyfield, West Dunbartonshire, is essential given the area's diverse mix of housing stock, which ranges from older Victorian and Edwardian properties to more modern post-war and contemporary builds — each presenting its own distinct plumbing challenges. Note that while NewLilyfield is referenced here within West Dunbartonshire, it is worth clarifying that West Dunbartonshire is actually located in Scotland rather than Wales, so local residents should ensure any contractor they contact is familiar with Scottish building regulations and standards. The mixed water hardness found throughout the region means that older pipework in period properties can be particularly susceptible to scale build-up and corrosion, while newer homes may face issues related to pressure fluctuations or modern fitting failures. When a burst pipe or boiler breakdown strikes at an inconvenient hour, having a trusted emergency plumber who understands NewLilyfield's varied housing landscape and local water conditions can make a significant difference to how quickly and effectively the problem is resolved with minimal damage to your home.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

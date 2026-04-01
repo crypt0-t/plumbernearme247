@@ -2,20 +2,27 @@
   "localContent": "Perth is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Perth and the surrounding Perth and Kinross region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Perth and Kinross, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across Perth with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Perth?",
-      "answer": "We have engineers based across Perth and Kinross and can typically reach Perth within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Why does my boiler keep losing pressure?",
+      "a": "Pressure loss is usually caused by a small leak in the system, a faulty pressure relief valve, or a failing expansion vessel. A Gas Safe engineer can diagnose and fix the root cause — simply topping up the pressure is a temporary fix."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Perth?",
-      "answer": "Yes, all our engineers working in Perth are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "What does boiler repair cost in Perth?",
-      "answer": "Boiler Repair in Perth typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     },
     {
-      "question": "Do you cover the whole of Perth?",
-      "answer": "Yes, we cover all areas of Perth and surrounding villages throughout Perth and Kinross."
+      "q": "Can I use my boiler while it is making an error code?",
+      "a": "Depends on the code. Some error codes allow limited operation; others indicate a dangerous fault that requires immediate shutdown. Never ignore a gas smell — turn off at the gas meter and call the National Gas Emergency line on 0800 111 999."
     }
-  ]
+  ],
+  "localParagraph": "Perth's mixed housing stock—ranging from Victorian terraces near the city centre to post-war semis in areas like Letham and Tulloch, and modern developments on the outskirts—means that boiler repair engineers working across Perth and Kinross regularly encounter a wide variety of heating systems at varying stages of their lifespan. The region's mixed water hardness can accelerate limescale accumulation inside heat exchangers and around pump components, making routine servicing particularly important for homeowners in Perth who want to avoid unexpected breakdowns during Scotland's colder months. Older properties, especially those found along streets in the Kinnoull and Craigie areas, may still house ageing boilers that require specialist knowledge to diagnose correctly, while newer installations in more recently built neighbourhoods present their own set of manufacturer-specific fault codes and warranty considerations. Engaging a Gas Safe registered engineer with genuine local experience ensures that both the particular demands of Perth's water supply and the diverse age range of its housing are properly accounted for during any repair or assessment.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

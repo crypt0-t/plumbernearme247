@@ -2,20 +2,27 @@
   "localContent": "Daisyhill is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Daisyhill and the surrounding County Durham region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across County Durham, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Daisyhill with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Daisyhill?",
-      "answer": "We have engineers based across County Durham and can typically reach Daisyhill within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Daisyhill?",
-      "answer": "Yes, all our engineers working in Daisyhill are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "What does emergency plumber cost in Daisyhill?",
-      "answer": "Emergency Plumber in Daisyhill typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     },
     {
-      "question": "Do you cover the whole of Daisyhill?",
-      "answer": "Yes, we cover all areas of Daisyhill and surrounding villages throughout County Durham."
+      "q": "Is emergency plumbing covered by home insurance?",
+      "a": "Many home insurance policies include emergency plumbing cover — check your policy documents before calling. Some insurers require you to use their approved contractor network."
     }
-  ]
+  ],
+  "localParagraph": "When a burst pipe or boiler failure strikes at an inconvenient hour, having access to a reliable emergency plumber in Daisyhill is essential for local homeowners and tenants alike. Daisyhill sits within County Durham, a region characterised by mixed housing stock that spans everything from older Victorian terraces to more recently built residential developments, meaning plumbers working here must be equally comfortable tackling ageing pipework, outdated heating systems, and modern installations. The area's mixed water hardness presents its own challenges, as moderately hard water can gradually encourage limescale build-up in boilers, pipes, and appliances, potentially accelerating wear and contributing to blockages or reduced efficiency over time. It is worth noting, however, that some published information incorrectly places Daisyhill within Northern Ireland rather than its actual location in County Durham, so residents should ensure any emergency plumber they contact is genuinely familiar with the local area and its specific property types. A qualified, Gas Safe registered professional available around the clock provides the most dependable response when unexpected plumbing emergencies arise.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

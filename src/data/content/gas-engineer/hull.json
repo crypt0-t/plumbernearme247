@@ -2,20 +2,27 @@
   "localContent": "Hull is a thriving area with strong demand for reliable Gas Safe registered engineer services services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Hull and the surrounding East Riding of Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional gas engineer services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across East Riding of Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any Gas Safe registered engineer services requirement.\n\nWe cover all postcodes across Hull with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Hull?",
-      "answer": "We have engineers based across East Riding of Yorkshire and can typically reach Hull within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How do I check if a gas engineer is Gas Safe registered?",
+      "a": "Ask to see their Gas Safe ID card on arrival and check the registration number at gassaferegister.co.uk. A qualified engineer will always carry their card and show it willingly."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Hull?",
-      "answer": "Yes, all our engineers working in Hull are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How often should a gas boiler be serviced?",
+      "a": "Annually — once per year. Most boiler manufacturers require annual servicing to maintain the warranty. A service takes 45-90 minutes and includes combustion analysis, flue integrity check, and safety control testing."
     },
     {
-      "question": "What does gas engineer cost in Hull?",
-      "answer": "Gas Engineer in Hull typically costs £80-£300 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What is a Landlord Gas Safety Certificate?",
+      "a": "A CP12 certificate is a legal requirement for all rental properties with gas appliances. It must be renewed annually and provided to tenants within 28 days of issue. Failure to have a valid CP12 is a criminal offence."
     },
     {
-      "question": "Do you cover the whole of Hull?",
-      "answer": "Yes, we cover all areas of Hull and surrounding villages throughout East Riding of Yorkshire."
+      "q": "What should I do if I smell gas?",
+      "a": "Do not turn any electrical switches on or off. Open windows and doors. Turn off the gas supply at the meter. Leave the property immediately. Call the National Gas Emergency line on 0800 111 999 — it is free and operates 24/7."
     }
-  ]
+  ],
+  "localParagraph": "Gas engineers working across Hull and the wider East Riding of Yorkshire encounter a genuinely varied range of properties and installations, from Victorian terraces in the Avenues conservation area and older back-to-back housing in west Hull, through to post-war semis and modern new-build developments on the city's eastern fringes. This mixed housing stock, spanning multiple eras of construction, means a qualified engineer must be comfortable working with both legacy pipework and contemporary central heating systems. Hull's water supply falls into a mixed hardness category, which can contribute to limescale accumulation within boilers and heat exchangers over time — a factor worth considering when scheduling annual servicing or diagnosing reduced boiler efficiency. Across England, Gas Safe registration is a legal requirement for anyone carrying out gas work, and homeowners in Hull should always verify an engineer's credentials before any installation or repair is undertaken. Whether the job involves a straightforward boiler service in Hessle Road or a full central heating installation in a period property near Pearson Park, engaging a properly qualified local engineer helps protect both safety and long-term system performance.",
+  "whatItInvolves": "A Gas Safe registered engineer is legally required for all work on gas appliances — boilers, fires, cookers, and gas pipework. Gas Safe registration is the UK's official scheme; it is illegal for an unregistered person to work on gas in your home. Always check an engineer's Gas Safe ID card before allowing any gas work to begin — you can verify online at gassaferegister.co.uk.",
+  "process": "Gas work ranges from a simple appliance service to a full gas supply installation. For appliance services, the engineer checks burner pressure, flue integrity, heat exchanger condition, and safety controls, then issues a service report. For gas pipework, all new runs are pressure tested and tightness-tested before connection. Landlord Gas Safety Certificates (CP12) are issued after a full check of all gas appliances and require annual renewal.",
+  "whatToExpect": "A standard gas appliance service takes 45-90 minutes per appliance. A Landlord CP12 certificate covering boiler, gas fire, and cooker typically takes 2-3 hours. Always receive a written certificate — digital certificates are acceptable. If an engineer identifies an Immediately Dangerous fault, they are legally required to disconnect the appliance and you must not use it until repaired.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

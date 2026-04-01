@@ -2,20 +2,27 @@
   "localContent": "Honley is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Honley and the surrounding West Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across Honley with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Honley?",
-      "answer": "We have engineers based across West Yorkshire and can typically reach Honley within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Honley?",
-      "answer": "Yes, all our engineers working in Honley are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "What does central heating cost in Honley?",
-      "answer": "Central Heating in Honley typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     },
     {
-      "question": "Do you cover the whole of Honley?",
-      "answer": "Yes, we cover all areas of Honley and surrounding villages throughout West Yorkshire."
+      "q": "Do I need thermostatic radiator valves on every radiator?",
+      "a": "Building Regulations require TRVs on all radiators except the one in the room where the room thermostat is located. Smart TRVs allow individual room scheduling via smartphone."
     }
-  ]
+  ],
+  "localParagraph": "Honley, a village nestled in the Colne Valley of West Yorkshire, presents a varied landscape for central heating engineers, with its mix of Victorian stone terraces, post-war semis, and newer developments on the outskirts reflecting the area's layered history. Properties along older streets closer to the village centre often feature original pipework and systems that benefit from thoughtful upgrading, while more recently built homes may simply require routine servicing or efficiency improvements. Water hardness in Honley sits in a mixed category, which means scale build-up in boilers and heat exchangers can become a concern over time, particularly in older systems — making the fitting of a scale inhibitor or magnetic filter a sensible precaution for many households. As part of England's broader push toward energy efficiency, homeowners across Honley are increasingly looking at modern condensing boilers and smart thermostatic controls to reduce fuel bills and improve comfort throughout the year. A knowledgeable local heating engineer will factor in both the property age and water quality when recommending the right solution.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

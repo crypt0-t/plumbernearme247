@@ -2,20 +2,27 @@
   "localContent": "Salisbury is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Salisbury and the surrounding Wiltshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Wiltshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Salisbury with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Salisbury?",
-      "answer": "We have engineers based across Wiltshire and can typically reach Salisbury within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Salisbury?",
-      "answer": "Yes, all our engineers working in Salisbury are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     },
     {
-      "question": "What does emergency plumber cost in Salisbury?",
-      "answer": "Emergency Plumber in Salisbury typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Is emergency plumbing covered by home insurance?",
+      "a": "Many home insurance policies include emergency plumbing cover — check your policy documents before calling. Some insurers require you to use their approved contractor network."
     },
     {
-      "question": "Do you cover the whole of Salisbury?",
-      "answer": "Yes, we cover all areas of Salisbury and surrounding villages throughout Wiltshire."
+      "q": "Can an emergency plumber fix a boiler?",
+      "a": "Yes, if the engineer is Gas Safe registered. Always confirm Gas Safe registration before allowing any engineer to work on your boiler."
     }
-  ]
+  ],
+  "localParagraph": "Salisbury, a historic cathedral city in Wiltshire, England, presents a unique combination of challenges for emergency plumbers working across its diverse housing stock. From the Georgian and Victorian terraces near the city centre and around streets like Fisherton Street and Castle Road, to the post-war semis and newer developments on the outskirts, each property era brings its own plumbing characteristics and vulnerabilities. The area experiences mixed water hardness, meaning some households contend with moderate limescale accumulation in boilers, pipes, and appliances, while others face fewer mineral-related issues — a factor that can influence how quickly an emergency such as a burst pipe, boiler failure, or blocked drain escalates. When disaster strikes at 2am or over a bank holiday weekend, residents of Salisbury need a qualified, Gas Safe registered plumber who understands local infrastructure and can respond quickly across neighbourhoods from Harnham and Bemerton to the Old Sarum area. Fast response times, clear communication, and proven local experience are the hallmarks of a reliable emergency plumbing service in this part of Wiltshire.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

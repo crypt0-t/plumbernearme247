@@ -2,20 +2,27 @@
   "localContent": "Valleyhill is a thriving area with strong demand for reliable underfloor heating installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Valleyhill and the surrounding Midlothian region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional underfloor heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Midlothian, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any underfloor heating installation requirement.\n\nWe cover all postcodes across Valleyhill with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Valleyhill?",
-      "answer": "We have engineers based across Midlothian and can typically reach Valleyhill within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Can underfloor heating be installed under any floor covering?",
+      "a": "Most floor coverings are compatible — tiles, stone, wood, vinyl, and carpet. Some engineered wood products have temperature limits; check the manufacturer's specification before installing underfloor heating beneath them."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Valleyhill?",
-      "answer": "Yes, all our engineers working in Valleyhill are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How long does underfloor heating take to heat a room?",
+      "a": "Wet systems are slower to respond than radiators — allow 2-4 hours to reach full temperature. This is why a programmable thermostat is essential: set it to pre-heat rooms before you need them."
     },
     {
-      "question": "What does underfloor heating cost in Valleyhill?",
-      "answer": "Underfloor Heating in Valleyhill typically costs £1,500-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can underfloor heating be added to an existing home?",
+      "a": "Yes. Low-profile retrofit systems (as thin as 15mm) can be installed without major floor height changes. Electric mat systems are the least invasive option for single rooms."
     },
     {
-      "question": "Do you cover the whole of Valleyhill?",
-      "answer": "Yes, we cover all areas of Valleyhill and surrounding villages throughout Midlothian."
+      "q": "What warranty comes with underfloor heating?",
+      "a": "Quality wet pipe systems carry 25-year manufacturer warranties. Electric mat systems typically carry 10-25 year warranties. The installation labour guarantee varies by contractor — ask for a minimum of 12 months."
     }
-  ]
+  ],
+  "localParagraph": "Underfloor heating has become an increasingly popular choice for homeowners across Valleyhill, Midlothian, where the mix of older stone-built properties and newer residential developments creates a varied landscape of installation requirements. The area's mixed water hardness is an important consideration when specifying a wet underfloor heating system, as mineral content can affect pipe longevity and system efficiency over time — making proper inhibitor treatment and periodic water quality checks essential for reliable performance. Whether you own a traditional sandstone semi-detached home or a more recently built property on one of the area's newer housing estates, the correct system design will vary considerably depending on floor construction, insulation levels, and existing heat sources. Valleyhill residents benefit from working with installers who understand these local variables and can specify systems accordingly, ensuring consistent warmth throughout the home without unnecessary energy waste. Consulting a qualified heating engineer familiar with Midlothian's housing stock will help ensure your installation delivers long-term comfort and efficiency.",
+  "whatItInvolves": "Underfloor heating distributes heat evenly across the entire floor surface rather than from a single radiator point, eliminating cold spots and freeing up wall space. Wet systems (water pipes) connect to your existing boiler and are more efficient long-term. Electric mat systems are faster to install and suit smaller areas or retrofits where pipe runs aren't practical.",
+  "process": "Wet system installation: survey the floor construction and calculate heat output requirements per room. Lay insulation boards to prevent heat loss downward. Install pipe circuits using the manifold as the central distribution point, connect to boiler flow and return. Commission and pressure test to 6 bar. Screed or dry lay over the top. The system must cure before the floor covering is laid — allow 21-28 days for screed.",
+  "whatToExpect": "Underfloor heating runs at lower temperatures than radiators — typically 35-45°C flow temperature vs 70-80°C for radiators — which makes it significantly cheaper to run with a heat pump or condensing boiler. The system is slower to respond than radiators, so use a programmable thermostat to pre-heat rooms. Most manufacturers offer 25-year warranties on the pipe systems.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

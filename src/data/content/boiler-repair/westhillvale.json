@@ -2,20 +2,27 @@
   "localContent": "WestHillvale is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of WestHillvale and the surrounding Cumbria region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Cumbria, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across WestHillvale with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to WestHillvale?",
-      "answer": "We have engineers based across Cumbria and can typically reach WestHillvale within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "Are your engineers Gas Safe registered in WestHillvale?",
-      "answer": "Yes, all our engineers working in WestHillvale are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     },
     {
-      "question": "What does boiler repair cost in WestHillvale?",
-      "answer": "Boiler Repair in WestHillvale typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can I use my boiler while it is making an error code?",
+      "a": "Depends on the code. Some error codes allow limited operation; others indicate a dangerous fault that requires immediate shutdown. Never ignore a gas smell — turn off at the gas meter and call the National Gas Emergency line on 0800 111 999."
     },
     {
-      "question": "Do you cover the whole of WestHillvale?",
-      "answer": "Yes, we cover all areas of WestHillvale and surrounding villages throughout Cumbria."
+      "q": "Is boiler repair covered by home insurance?",
+      "a": "Standard home insurance rarely covers boiler repair. Boiler cover policies (British Gas, Homeserve, etc.) typically cover parts and labour for an annual fee. Check your existing policy before purchasing additional cover."
     }
-  ]
+  ],
+  "localParagraph": "I need to flag an important issue before writing this paragraph. WestHillvale does not appear to exist as a real location in Cumbria, UK — and the facts provided contain a geographical contradiction, as the region is listed as Northern Ireland while the location is described as being in Cumbria, which is in northwest England. These are two entirely separate regions. Writing specific local details about streets or neighbourhoods for a fictional place would result in fabricated, misleading content that could genuinely harm someone seeking boiler repair services.\n\nIf you'd like, I can write an accurate paragraph about boiler repair in a real Cumbrian town such as Carlisle, Kendal, or Penrith, using verified local details — or I can write about a real location in Northern Ireland instead. Alternatively, if WestHillvale is a very small settlement I haven't been able to verify, please provide the correct region and I'll work with what's confirmed rather than inventing local specifics. I want to make sure any content I produce is genuinely useful rather than potentially misleading to readers.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

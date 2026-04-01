@@ -2,20 +2,27 @@
   "localContent": "GreatLadyford is a thriving area with strong demand for reliable full bathroom installation and fitting services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of GreatLadyford and the surrounding Dumfries and Galloway region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional bathroom installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Dumfries and Galloway, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any full bathroom installation and fitting requirement.\n\nWe cover all postcodes across GreatLadyford with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to GreatLadyford?",
-      "answer": "We have engineers based across Dumfries and Galloway and can typically reach GreatLadyford within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Can you move the toilet and bath to different positions?",
+      "a": "Yes, but it depends on the soil pipe route and floor structure. Moving a toilet more than a metre from the existing soil stack requires a new soil pipe connection and increases cost significantly."
     },
     {
-      "question": "Are your engineers Gas Safe registered in GreatLadyford?",
-      "answer": "Yes, all our engineers working in GreatLadyford are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "How much does a bathroom installation cost?",
+      "a": "Labour for a full bathroom installation typically ranges from £2,500 to £5,000 depending on complexity. Suite and tile costs are separate. A complete bathroom renovation including all materials typically costs £4,000 to £10,000+."
     },
     {
-      "question": "What does bathroom installation cost in GreatLadyford?",
-      "answer": "Bathroom Installation in GreatLadyford typically costs £4,000-£15,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Should I supply my own bathroom suite or let the plumber supply it?",
+      "a": "You can do either. Supplying your own suite gives you more choice and control over the brand and style. Your installer may offer trade discounts worth 15-30% off RRP if they supply."
     },
     {
-      "question": "Do you cover the whole of GreatLadyford?",
-      "answer": "Yes, we cover all areas of GreatLadyford and surrounding villages throughout Dumfries and Galloway."
+      "q": "What guarantees should I expect on a bathroom installation?",
+      "a": "Expect a minimum 12-month labour guarantee. Manufacturer warranties on suites and fittings typically run 5-25 years depending on the brand. Get all guarantees in writing."
     }
-  ]
+  ],
+  "localParagraph": "I need to flag an inconsistency in your brief before writing: GreatLadyford is listed as being in Dumfries and Galloway, UK, but the facts also state the region is Wales — these are two different locations. Dumfries and Galloway is in southwest Scotland, not Wales. I'm not able to find any record of a place called \"GreatLadyford\" in either location, which suggests it may be a fictional or misspelled place name.\n\nTo write you an accurate, genuinely useful paragraph, could you clarify:\n\n1. **Is GreatLadyford in Dumfries and Galloway (Scotland) or in Wales?**\n2. **Is the spelling correct**, or is it perhaps a real place under a slightly different name?\n\nIf it's an intentionally fictional location for a content brief, I'm happy to write the paragraph treating it as a real place in either Dumfries and Galloway or Wales — just let me know which region to use, and I'll make it geographically consistent and credible.",
+  "whatItInvolves": "A full bathroom installation covers everything from stripping out the existing suite to fitting the new one — including all pipework, waste connections, tiling preparation, flooring, and electrical work for lighting and extraction. A quality bathroom installation transforms one of the most-used rooms in your home and typically adds 3-5% to your property value.",
+  "process": "The process starts with a detailed survey to assess existing pipework, drainage routes, and structural considerations. Day 1-2: strip out and prep. Day 3-4: first fix plumbing and any structural work. Day 5-7: suite installation, tiling, and second fix. Day 8-10: finishing, sealant, and final inspection. You'll be without a working bathroom for 5-10 days depending on complexity — we'll agree a realistic timeline upfront.",
+  "whatToExpect": "Expect a detailed written quote covering labour, waste disposal, and any structural work. Suite and tiles are usually supplied separately by you or sourced through us. All plumbing work is carried out to Water Regulations standards. A bathroom installation is a major investment — ask to see previous work and Gas Safe registration before committing to any installer.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

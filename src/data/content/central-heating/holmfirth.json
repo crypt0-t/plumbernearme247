@@ -2,20 +2,27 @@
   "localContent": "Holmfirth is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Holmfirth and the surrounding West Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across Holmfirth with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Holmfirth?",
-      "answer": "We have engineers based across West Yorkshire and can typically reach Holmfirth within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Holmfirth?",
-      "answer": "Yes, all our engineers working in Holmfirth are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "What does central heating cost in Holmfirth?",
-      "answer": "Central Heating in Holmfirth typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     },
     {
-      "question": "Do you cover the whole of Holmfirth?",
-      "answer": "Yes, we cover all areas of Holmfirth and surrounding villages throughout West Yorkshire."
+      "q": "Do I need thermostatic radiator valves on every radiator?",
+      "a": "Building Regulations require TRVs on all radiators except the one in the room where the room thermostat is located. Smart TRVs allow individual room scheduling via smartphone."
     }
-  ]
+  ],
+  "localParagraph": "Holmfirth, nestled in the Holme Valley of West Yorkshire, England, presents a varied landscape for central heating engineers, shaped by the town's eclectic mix of property types and local water conditions. From the stone-built Victorian and Edwardian terraces found along streets like Dunford Road and around the town centre, to the newer residential developments on the valley's higher slopes, each property type brings its own heating considerations. Water hardness across the Holmfirth area sits in a mixed range, meaning some households will experience gradual limescale accumulation within boilers, heat exchangers, and pipework over time, while others may encounter relatively softer supply depending on their precise location. This variation makes regular boiler servicing and the installation of scale reducers or magnetic system filters a sensible investment for many local homeowners. Whether you're maintaining an older gravity-fed system in a period cottage or upgrading to a modern combi boiler in a newer build, understanding how Holmfirth's water quality and housing stock interact is essential to keeping your heating system running efficiently throughout the colder months.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

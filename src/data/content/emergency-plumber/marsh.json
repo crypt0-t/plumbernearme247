@@ -2,20 +2,27 @@
   "localContent": "Marsh is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Marsh and the surrounding West Yorkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across West Yorkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Marsh with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Marsh?",
-      "answer": "We have engineers based across West Yorkshire and can typically reach Marsh within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How quickly can an emergency plumber reach me?",
+      "a": "In most UK cities, expect an engineer within 45-90 minutes. Response times in rural areas may be longer — typically 60-120 minutes."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Marsh?",
-      "answer": "Yes, all our engineers working in Marsh are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "What does emergency plumber cost in Marsh?",
-      "answer": "Emergency Plumber in Marsh typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "Do you cover the whole of Marsh?",
-      "answer": "Yes, we cover all areas of Marsh and surrounding villages throughout West Yorkshire."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     }
-  ]
+  ],
+  "localParagraph": "Marsh, a residential district on the western edge of Huddersfield in England's West Yorkshire, presents a distinctive challenge for emergency plumbers due to its varied housing stock, which ranges from Victorian terraces and Edwardian semis to post-war council properties and more recent developments. This mixture of building ages means pipe materials, joint types, and system configurations can differ significantly from one street to the next, so a skilled emergency plumber working in Marsh needs broad technical knowledge to diagnose problems quickly. The area experiences mixed water hardness, sitting in a transitional zone where water mineral content can contribute to gradual limescale accumulation in older copper pipework and boiler components, making burst pipes and heating failures more likely in properties that haven't had recent system maintenance. Streets around Edgerton Road and the residential neighbourhoods bordering Lindley and Birkby mean local plumbers often cover a wide patch, responding to urgent callouts for burst pipes, boiler breakdowns, or overflowing tanks. Residents of Marsh benefit from choosing an emergency plumber familiar with both the local water conditions and the region's eclectic property landscape.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

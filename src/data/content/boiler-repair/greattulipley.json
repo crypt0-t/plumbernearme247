@@ -2,20 +2,27 @@
   "localContent": "GreatTulipley is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of GreatTulipley and the surrounding North Lanarkshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across North Lanarkshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across GreatTulipley with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to GreatTulipley?",
-      "answer": "We have engineers based across North Lanarkshire and can typically reach GreatTulipley within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How do I know if my boiler needs repairing or replacing?",
+      "a": "If your boiler is under 10 years old and the repair cost is less than £400, repair is usually better value. Over 10 years old or repair costs exceeding 50% of a new boiler — consider replacement."
     },
     {
-      "question": "Are your engineers Gas Safe registered in GreatTulipley?",
-      "answer": "Yes, all our engineers working in GreatTulipley are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Why does my boiler keep losing pressure?",
+      "a": "Pressure loss is usually caused by a small leak in the system, a faulty pressure relief valve, or a failing expansion vessel. A Gas Safe engineer can diagnose and fix the root cause — simply topping up the pressure is a temporary fix."
     },
     {
-      "question": "What does boiler repair cost in GreatTulipley?",
-      "answer": "Boiler Repair in GreatTulipley typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "Do you cover the whole of GreatTulipley?",
-      "answer": "Yes, we cover all areas of GreatTulipley and surrounding villages throughout North Lanarkshire."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     }
-  ]
+  ],
+  "localParagraph": "Residents of GreatTulipley, located in North Lanarkshire, Scotland, will find that keeping a boiler in reliable working order requires an understanding of the local conditions that affect heating systems over time. The area's mixed water hardness means that limescale accumulation is a genuine concern, gradually reducing boiler efficiency and contributing to premature component failure if left unaddressed — annual servicing can catch these issues before they escalate into costly breakdowns. GreatTulipley's housing stock spans several eras, from older tenement-style properties to mid-century semis and more recent builds, each presenting its own challenges when it comes to boiler compatibility, flue configurations, and pipework layouts. A qualified Gas Safe registered engineer with experience across this variety of property types will be far better placed to diagnose faults accurately and recommend appropriate repairs or replacements. Whether dealing with a loss of pressure, a faulty thermostat, or an aging heat exchanger, prompt professional attention keeps homes warm and energy bills manageable throughout the colder months.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

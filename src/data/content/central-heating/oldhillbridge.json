@@ -2,20 +2,27 @@
   "localContent": "OldHillbridge is a thriving area with strong demand for reliable central heating installation and repair services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of OldHillbridge and the surrounding Oxfordshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional central heating services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Oxfordshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any central heating installation and repair requirement.\n\nWe cover all postcodes across OldHillbridge with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to OldHillbridge?",
-      "answer": "We have engineers based across Oxfordshire and can typically reach OldHillbridge within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "What is a power flush and do I need one?",
+      "a": "A power flush forces water and chemicals through your heating system at high velocity to remove sludge and corrosion debris. It's recommended before fitting a new boiler to an old system — debris from old pipes can damage a new boiler within months."
     },
     {
-      "question": "Are your engineers Gas Safe registered in OldHillbridge?",
-      "answer": "Yes, all our engineers working in OldHillbridge are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I add inhibitor to my heating system?",
+      "a": "Yes — inhibitor prevents internal corrosion and sludge buildup, extending the life of your boiler and pump significantly. It should be added to all new installations and refreshed every 2-3 years."
     },
     {
-      "question": "What does central heating cost in OldHillbridge?",
-      "answer": "Central Heating in OldHillbridge typically costs £3,000-£6,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "What smart thermostat should I get?",
+      "a": "Nest, Hive, and Tado are the leading smart thermostats in the UK. All three offer room-by-room control via smartphone and learning algorithms that reduce energy use. Most installations save 20-30% on heating bills."
     },
     {
-      "question": "Do you cover the whole of OldHillbridge?",
-      "answer": "Yes, we cover all areas of OldHillbridge and surrounding villages throughout Oxfordshire."
+      "q": "Do I need thermostatic radiator valves on every radiator?",
+      "a": "Building Regulations require TRVs on all radiators except the one in the room where the room thermostat is located. Smart TRVs allow individual room scheduling via smartphone."
     }
-  ]
+  ],
+  "localParagraph": "Central heating in OldHillbridge presents a varied set of challenges and considerations for homeowners, largely because the village sits within an area of mixed water hardness that can shift depending on the local supply zone. This inconsistency means that scale build-up in boilers and pipework is a genuine concern in some properties, while others may experience relatively little, making a professional assessment particularly worthwhile before committing to any installation or upgrade. The housing stock across OldHillbridge spans several eras, from older stone cottages that may retain original or partially updated pipework to more modern detached and semi-detached homes built in recent decades, each presenting distinct requirements in terms of system compatibility and efficiency. Across England, older properties of this kind often benefit from a full system flush and magnetic filter installation to protect newer boilers from circulating debris. Choosing a qualified heating engineer who understands both the local water profile and the specific demands of period and contemporary homes in this part of Oxfordshire will help ensure a reliable, efficient system suited to the property's individual character.",
+  "whatItInvolves": "Central heating installation or replacement involves fitting a new boiler, radiators, pipework, and controls to heat your home efficiently. A full system installation is a major project typically taking 3-5 days. A system upgrade — replacing radiators and adding smart controls to an existing boiler — takes 1-2 days. Both must be carried out by a Gas Safe registered engineer.",
+  "process": "Survey: calculate heat loss per room and size radiators accordingly. First fix: run new pipework routes, fit radiator brackets, position boiler location. Second fix: hang radiators, connect boiler, fit programmer and thermostatic radiator valves. Commission: fill system, add inhibitor, balance radiators for even heat distribution, test all controls. Register with Building Control. Full system flush prior to filling removes debris that causes cold spots and pump failure.",
+  "whatToExpect": "A full central heating installation in a 3-bed semi takes 3-5 days. You'll be without heating and hot water during the works — plan around this in winter. Modern systems with smart thermostats (Nest, Hive, Tado) can reduce heating bills by 20-30% through accurate scheduling. Your installer should provide a full commission certificate and Building Regulations notification.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

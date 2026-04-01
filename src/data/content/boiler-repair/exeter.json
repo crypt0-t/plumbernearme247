@@ -2,20 +2,27 @@
   "localContent": "Exeter is a thriving area with strong demand for reliable boiler repair and servicing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Exeter and the surrounding Devon region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler repair services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Devon, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any boiler repair and servicing requirement.\n\nWe cover all postcodes across Exeter with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Exeter?",
-      "answer": "We have engineers based across Devon and can typically reach Exeter within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Why does my boiler keep losing pressure?",
+      "a": "Pressure loss is usually caused by a small leak in the system, a faulty pressure relief valve, or a failing expansion vessel. A Gas Safe engineer can diagnose and fix the root cause — simply topping up the pressure is a temporary fix."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Exeter?",
-      "answer": "Yes, all our engineers working in Exeter are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "My boiler is making a banging noise — what does it mean?",
+      "a": "Banging, kettling, or clunking sounds usually indicate limescale buildup on the heat exchanger, a failing pump, or trapped air in the system. All are repairable by a qualified engineer."
     },
     {
-      "question": "What does boiler repair cost in Exeter?",
-      "answer": "Boiler Repair in Exeter typically costs £150-£500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How long does a boiler repair take?",
+      "a": "Most boiler repairs take 1-3 hours. If specialist parts need ordering, the initial visit diagnoses the fault and the repair is completed on a second visit typically within 24-48 hours."
     },
     {
-      "question": "Do you cover the whole of Exeter?",
-      "answer": "Yes, we cover all areas of Exeter and surrounding villages throughout Devon."
+      "q": "Can I use my boiler while it is making an error code?",
+      "a": "Depends on the code. Some error codes allow limited operation; others indicate a dangerous fault that requires immediate shutdown. Never ignore a gas smell — turn off at the gas meter and call the National Gas Emergency line on 0800 111 999."
     }
-  ]
+  ],
+  "localParagraph": "Exeter's diverse housing stock presents a varied set of challenges when it comes to boiler repair, with properties ranging from Victorian terraces in areas like St Thomas and Heavitree through to post-war semis and modern new-builds on the city's expanding outskirts. The mixed water hardness found across Devon means that limescale accumulation is a genuine concern for many homeowners, contributing to reduced boiler efficiency, blocked heat exchangers, and pressure fluctuations that can trigger error codes or complete shutdowns. Engineers working across Exeter will often encounter these scale-related faults alongside the more common issues of faulty thermocouples, failed diverter valves, and worn pump seals — problems that vary in frequency depending on the age and condition of the installation. Whether you own a period property in the Cathedral Quarter or a newer home in Pinhoe or Alphington, having a Gas Safe registered engineer carry out a thorough diagnosis is essential to restoring safe, reliable heating and avoiding costly repeat callouts throughout the colder months.",
+  "whatItInvolves": "Boiler repair covers fault diagnosis and component replacement to restore a failing or broken boiler to full working order. Common faults include pressure loss, ignition failure, pump failure, heat exchanger leaks, PCB failure, and faulty diverter valves. A qualified Gas Safe engineer will identify the root cause — not just reset the fault code.",
+  "process": "The engineer connects a diagnostic reader to your boiler's PCB to extract fault codes, then conducts a systematic inspection of the key components: heat exchanger, pump, igniter, gas valve, pressure relief valve, and expansion vessel. Once the fault is identified you'll receive a fixed repair quote. Parts are ordered and fitted on the same visit where possible, or next-day for specialist components.",
+  "whatToExpect": "Most boiler repairs are completed in 1-3 hours. Always ask for a written report of the fault and the work carried out — you'll need this if the boiler fails again under guarantee. If the repair cost exceeds 50% of a new boiler's value, a replacement is usually better value long-term.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

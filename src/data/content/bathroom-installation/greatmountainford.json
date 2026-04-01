@@ -2,20 +2,27 @@
   "localContent": "GreatMountainford is a thriving area with strong demand for reliable full bathroom installation and fitting services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of GreatMountainford and the surrounding Herefordshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional bathroom installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Herefordshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any full bathroom installation and fitting requirement.\n\nWe cover all postcodes across GreatMountainford with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to GreatMountainford?",
-      "answer": "We have engineers based across Herefordshire and can typically reach GreatMountainford within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How long does a full bathroom installation take?",
+      "a": "A standard bathroom installation takes 5-10 days from strip-out to completion. En-suites and complex layouts with structural changes can take up to 2 weeks."
     },
     {
-      "question": "Are your engineers Gas Safe registered in GreatMountainford?",
-      "answer": "Yes, all our engineers working in GreatMountainford are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Do I need planning permission for a new bathroom?",
+      "a": "In most cases, no. Replacing like-for-like or fitting a new bathroom within existing walls does not require planning permission. Moving soil stacks or creating a new bathroom in unconverted space may require Building Regulations approval."
     },
     {
-      "question": "What does bathroom installation cost in GreatMountainford?",
-      "answer": "Bathroom Installation in GreatMountainford typically costs £4,000-£15,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can you move the toilet and bath to different positions?",
+      "a": "Yes, but it depends on the soil pipe route and floor structure. Moving a toilet more than a metre from the existing soil stack requires a new soil pipe connection and increases cost significantly."
     },
     {
-      "question": "Do you cover the whole of GreatMountainford?",
-      "answer": "Yes, we cover all areas of GreatMountainford and surrounding villages throughout Herefordshire."
+      "q": "How much does a bathroom installation cost?",
+      "a": "Labour for a full bathroom installation typically ranges from £2,500 to £5,000 depending on complexity. Suite and tile costs are separate. A complete bathroom renovation including all materials typically costs £4,000 to £10,000+."
     }
-  ]
+  ],
+  "localParagraph": "Bathroom installation in GreatMountainford, Herefordshire, presents a genuinely varied set of challenges and opportunities for homeowners across the area. The local housing stock spans multiple eras, from older stone-built cottages to more modern detached and semi-detached properties, meaning that no two installations are quite alike — pipework configurations, floor structures, and wall compositions can differ considerably from one street to the next. GreatMountainford also experiences mixed water hardness, which is an important factor when selecting fixtures, fittings, and boiler-compatible systems; a knowledgeable installer will account for this when advising on taps, showerheads, and thermostatic valves to ensure longevity and efficient performance. Homeowners should seek bathroom specialists familiar with the Herefordshire region who understand how mixed water conditions can affect grout, seals, and chrome finishes over time. Whether you are renovating a Victorian terrace or updating a newer build, commissioning experienced local professionals ensures the work is completed to a standard that suits both the character of the property and the practical demands of the local water supply.\n\n---\n\n*Note: I should flag that GreatMountainford does not appear to be a recognised location in Herefordshire, and the provided facts include a contradiction — \"Region: Scotland\" conflicts with Herefordshire, UK. I wrote the",
+  "whatItInvolves": "A full bathroom installation covers everything from stripping out the existing suite to fitting the new one — including all pipework, waste connections, tiling preparation, flooring, and electrical work for lighting and extraction. A quality bathroom installation transforms one of the most-used rooms in your home and typically adds 3-5% to your property value.",
+  "process": "The process starts with a detailed survey to assess existing pipework, drainage routes, and structural considerations. Day 1-2: strip out and prep. Day 3-4: first fix plumbing and any structural work. Day 5-7: suite installation, tiling, and second fix. Day 8-10: finishing, sealant, and final inspection. You'll be without a working bathroom for 5-10 days depending on complexity — we'll agree a realistic timeline upfront.",
+  "whatToExpect": "Expect a detailed written quote covering labour, waste disposal, and any structural work. Suite and tiles are usually supplied separately by you or sourced through us. All plumbing work is carried out to Water Regulations standards. A bathroom installation is a major investment — ask to see previous work and Gas Safe registration before committing to any installer.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

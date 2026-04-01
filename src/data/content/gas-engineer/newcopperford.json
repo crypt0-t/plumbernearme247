@@ -2,20 +2,27 @@
   "localContent": "NewCopperford is a thriving area with strong demand for reliable Gas Safe registered engineer services services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of NewCopperford and the surrounding Merseyside region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional gas engineer services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Merseyside, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any Gas Safe registered engineer services requirement.\n\nWe cover all postcodes across NewCopperford with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to NewCopperford?",
-      "answer": "We have engineers based across Merseyside and can typically reach NewCopperford within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "What is a Landlord Gas Safety Certificate?",
+      "a": "A CP12 certificate is a legal requirement for all rental properties with gas appliances. It must be renewed annually and provided to tenants within 28 days of issue. Failure to have a valid CP12 is a criminal offence."
     },
     {
-      "question": "Are your engineers Gas Safe registered in NewCopperford?",
-      "answer": "Yes, all our engineers working in NewCopperford are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What should I do if I smell gas?",
+      "a": "Do not turn any electrical switches on or off. Open windows and doors. Turn off the gas supply at the meter. Leave the property immediately. Call the National Gas Emergency line on 0800 111 999 — it is free and operates 24/7."
     },
     {
-      "question": "What does gas engineer cost in NewCopperford?",
-      "answer": "Gas Engineer in NewCopperford typically costs £80-£300 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can a plumber work on gas appliances?",
+      "a": "Only if they are Gas Safe registered. Being a qualified plumber does not automatically authorise gas work. Always check Gas Safe registration specifically — a plumber and a gas engineer are not the same qualification."
     },
     {
-      "question": "Do you cover the whole of NewCopperford?",
-      "answer": "Yes, we cover all areas of NewCopperford and surrounding villages throughout Merseyside."
+      "q": "How long does a gas appliance service take?",
+      "a": "A boiler service takes 45-90 minutes. A full landlord safety check covering boiler, gas fire, and cooker takes 2-3 hours. The engineer will issue a written service report and, where applicable, a CP12 certificate on completion."
     }
-  ]
+  ],
+  "localParagraph": "Gas engineers working across NewCopperford, Merseyside, understand the particular demands placed on heating systems by the area's mixed water hardness, which can accelerate limescale buildup within boilers and heat exchangers over time, reducing efficiency and shortening appliance lifespan if left unaddressed. The housing stock across NewCopperford reflects multiple eras of construction, from older Victorian terraces and mid-century semis through to more recent developments, meaning engineers must be comfortable working across a broad range of boiler types, flue configurations, and pipework layouts that vary significantly from one property to the next. While Merseyside sits within the North West of England rather than Wales, its proximity to the Welsh border means many regional contractors draw on supply chains and training networks that span both sides of the border, supporting a well-qualified local workforce. Homeowners and landlords in NewCopperford are advised to schedule annual boiler servicing and consider water treatment solutions such as scale reducers or magnetic filters, particularly in properties where the existing system may not have been maintained with local water conditions in mind.",
+  "whatItInvolves": "A Gas Safe registered engineer is legally required for all work on gas appliances — boilers, fires, cookers, and gas pipework. Gas Safe registration is the UK's official scheme; it is illegal for an unregistered person to work on gas in your home. Always check an engineer's Gas Safe ID card before allowing any gas work to begin — you can verify online at gassaferegister.co.uk.",
+  "process": "Gas work ranges from a simple appliance service to a full gas supply installation. For appliance services, the engineer checks burner pressure, flue integrity, heat exchanger condition, and safety controls, then issues a service report. For gas pipework, all new runs are pressure tested and tightness-tested before connection. Landlord Gas Safety Certificates (CP12) are issued after a full check of all gas appliances and require annual renewal.",
+  "whatToExpect": "A standard gas appliance service takes 45-90 minutes per appliance. A Landlord CP12 certificate covering boiler, gas fire, and cooker typically takes 2-3 hours. Always receive a written certificate — digital certificates are acceptable. If an engineer identifies an Immediately Dangerous fault, they are legally required to disconnect the appliance and you must not use it until repaired.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

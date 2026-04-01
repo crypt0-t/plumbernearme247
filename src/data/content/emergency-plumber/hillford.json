@@ -2,20 +2,27 @@
   "localContent": "Hillford is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Hillford and the surrounding Aberdeen City region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Aberdeen City, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across Hillford with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Hillford?",
-      "answer": "We have engineers based across Aberdeen City and can typically reach Hillford within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How quickly can an emergency plumber reach me?",
+      "a": "In most UK cities, expect an engineer within 45-90 minutes. Response times in rural areas may be longer — typically 60-120 minutes."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Hillford?",
-      "answer": "Yes, all our engineers working in Hillford are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Should I turn off my water before the plumber arrives?",
+      "a": "Yes — locate your stopcock (usually under the kitchen sink or where the supply enters the property) and turn it clockwise to shut off the water. This prevents further damage while you wait."
     },
     {
-      "question": "What does emergency plumber cost in Hillford?",
-      "answer": "Emergency Plumber in Hillford typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "Do you cover the whole of Hillford?",
-      "answer": "Yes, we cover all areas of Hillford and surrounding villages throughout Aberdeen City."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     }
-  ]
+  ],
+  "localParagraph": "Hillford, located within Aberdeen City in Scotland — not England — is a residential area where the mix of housing styles, from older granite-built properties to more modern developments, presents a varied range of challenges for emergency plumbers. The region's mixed water hardness means that older pipework in period homes can suffer from limescale accumulation as well as corrosion over time, while newer builds may face pressure-related issues or poorly installed fittings. When a burst pipe, boiler failure, or blocked drain strikes unexpectedly, having access to a reliable emergency plumber in Hillford who understands these local property and water conditions is genuinely valuable. Experienced local plumbers will be familiar with the types of materials commonly used in Aberdeen's housing stock, allowing them to diagnose and resolve problems efficiently without unnecessary delays. Whether the issue arises in a tenement flat or a detached family home, prompt professional assistance can prevent minor faults from escalating into costly structural water damage, making a trusted local emergency plumber an essential contact for any Hillford resident.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

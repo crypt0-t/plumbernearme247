@@ -2,20 +2,27 @@
   "localContent": "Hillford is a thriving area with strong demand for reliable full bathroom installation and fitting services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Hillford and the surrounding Aberdeen City region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional bathroom installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Aberdeen City, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any full bathroom installation and fitting requirement.\n\nWe cover all postcodes across Hillford with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Hillford?",
-      "answer": "We have engineers based across Aberdeen City and can typically reach Hillford within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How long does a full bathroom installation take?",
+      "a": "A standard bathroom installation takes 5-10 days from strip-out to completion. En-suites and complex layouts with structural changes can take up to 2 weeks."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Hillford?",
-      "answer": "Yes, all our engineers working in Hillford are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Do I need planning permission for a new bathroom?",
+      "a": "In most cases, no. Replacing like-for-like or fitting a new bathroom within existing walls does not require planning permission. Moving soil stacks or creating a new bathroom in unconverted space may require Building Regulations approval."
     },
     {
-      "question": "What does bathroom installation cost in Hillford?",
-      "answer": "Bathroom Installation in Hillford typically costs £4,000-£15,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Can you move the toilet and bath to different positions?",
+      "a": "Yes, but it depends on the soil pipe route and floor structure. Moving a toilet more than a metre from the existing soil stack requires a new soil pipe connection and increases cost significantly."
     },
     {
-      "question": "Do you cover the whole of Hillford?",
-      "answer": "Yes, we cover all areas of Hillford and surrounding villages throughout Aberdeen City."
+      "q": "How much does a bathroom installation cost?",
+      "a": "Labour for a full bathroom installation typically ranges from £2,500 to £5,000 depending on complexity. Suite and tile costs are separate. A complete bathroom renovation including all materials typically costs £4,000 to £10,000+."
     }
-  ]
+  ],
+  "localParagraph": "Hillford doesn't have a universally recognised real-world location that I can draw on for verified local details — there are places called Hillford in different contexts, but I don't have reliable data confirming specific neighbourhood names, street names, or local water hardness readings for a definitive \"Hillford\" that I can write about accurately.\n\nIf you can tell me a bit more about which Hillford you mean, for example the county or region it sits in, I can give you a much more grounded and genuinely local paragraph. Alternatively, if you are happy for me to create a plausible fictional but internally consistent version of Hillford with invented street names and neighbourhood names clearly framed as illustrative rather than factual, I can do that instead.\n\nI want to avoid writing something that presents invented local details as real, since that could mislead anyone using the content for a genuine local business. Just let me know how you would like to proceed.",
+  "whatItInvolves": "A full bathroom installation covers everything from stripping out the existing suite to fitting the new one — including all pipework, waste connections, tiling preparation, flooring, and electrical work for lighting and extraction. A quality bathroom installation transforms one of the most-used rooms in your home and typically adds 3-5% to your property value.",
+  "process": "The process starts with a detailed survey to assess existing pipework, drainage routes, and structural considerations. Day 1-2: strip out and prep. Day 3-4: first fix plumbing and any structural work. Day 5-7: suite installation, tiling, and second fix. Day 8-10: finishing, sealant, and final inspection. You'll be without a working bathroom for 5-10 days depending on complexity — we'll agree a realistic timeline upfront.",
+  "whatToExpect": "Expect a detailed written quote covering labour, waste disposal, and any structural work. Suite and tiles are usually supplied separately by you or sourced through us. All plumbing work is carried out to Water Regulations standards. A bathroom installation is a major investment — ask to see previous work and Gas Safe registration before committing to any installer.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

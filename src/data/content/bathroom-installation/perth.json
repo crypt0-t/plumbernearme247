@@ -2,20 +2,27 @@
   "localContent": "Perth is a thriving area with strong demand for reliable full bathroom installation and fitting services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Perth and the surrounding Perth and Kinross region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional bathroom installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Perth and Kinross, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any full bathroom installation and fitting requirement.\n\nWe cover all postcodes across Perth with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Perth?",
-      "answer": "We have engineers based across Perth and Kinross and can typically reach Perth within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "Do I need planning permission for a new bathroom?",
+      "a": "In most cases, no. Replacing like-for-like or fitting a new bathroom within existing walls does not require planning permission. Moving soil stacks or creating a new bathroom in unconverted space may require Building Regulations approval."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Perth?",
-      "answer": "Yes, all our engineers working in Perth are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Can you move the toilet and bath to different positions?",
+      "a": "Yes, but it depends on the soil pipe route and floor structure. Moving a toilet more than a metre from the existing soil stack requires a new soil pipe connection and increases cost significantly."
     },
     {
-      "question": "What does bathroom installation cost in Perth?",
-      "answer": "Bathroom Installation in Perth typically costs £4,000-£15,000 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How much does a bathroom installation cost?",
+      "a": "Labour for a full bathroom installation typically ranges from £2,500 to £5,000 depending on complexity. Suite and tile costs are separate. A complete bathroom renovation including all materials typically costs £4,000 to £10,000+."
     },
     {
-      "question": "Do you cover the whole of Perth?",
-      "answer": "Yes, we cover all areas of Perth and surrounding villages throughout Perth and Kinross."
+      "q": "Should I supply my own bathroom suite or let the plumber supply it?",
+      "a": "You can do either. Supplying your own suite gives you more choice and control over the brand and style. Your installer may offer trade discounts worth 15-30% off RRP if they supply."
     }
-  ]
+  ],
+  "localParagraph": "Perth, situated in the heart of Scotland, presents bathroom installers with a genuinely varied set of challenges and opportunities. The city's housing stock reflects centuries of development, from Georgian townhouses near the historic city centre and along streets like Kinnoull Street, to Victorian terraces in areas such as Craigie, and modern new-builds expanding toward the edges of Perth on developments north of the River Tay. This mixed architectural landscape means installers must be comfortable working across very different plumbing configurations and structural setups. Water hardness across Perth and Kinross sits in a mixed range, meaning residents don't face the aggressive limescale build-up common in southern England, but some mineral content is still present, making it worth specifying quality fittings and considering water-efficient fixtures to protect longevity. Whether you're renovating a period property in Bridgend or fitting out a contemporary bathroom in a newer estate, experienced local installers understand how to tailor their approach to both the building's age and the regional water supply conditions that affect long-term performance.",
+  "whatItInvolves": "A full bathroom installation covers everything from stripping out the existing suite to fitting the new one — including all pipework, waste connections, tiling preparation, flooring, and electrical work for lighting and extraction. A quality bathroom installation transforms one of the most-used rooms in your home and typically adds 3-5% to your property value.",
+  "process": "The process starts with a detailed survey to assess existing pipework, drainage routes, and structural considerations. Day 1-2: strip out and prep. Day 3-4: first fix plumbing and any structural work. Day 5-7: suite installation, tiling, and second fix. Day 8-10: finishing, sealant, and final inspection. You'll be without a working bathroom for 5-10 days depending on complexity — we'll agree a realistic timeline upfront.",
+  "whatToExpect": "Expect a detailed written quote covering labour, waste disposal, and any structural work. Suite and tiles are usually supplied separately by you or sourced through us. All plumbing work is carried out to Water Regulations standards. A bathroom installation is a major investment — ask to see previous work and Gas Safe registration before committing to any installer.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

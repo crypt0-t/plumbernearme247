@@ -2,20 +2,27 @@
   "localContent": "SouthBirchton is a thriving area with strong demand for reliable fast response emergency plumbing services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of SouthBirchton and the surrounding Wiltshire region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional emergency plumber services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Wiltshire, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any fast response emergency plumbing requirement.\n\nWe cover all postcodes across SouthBirchton with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to SouthBirchton?",
-      "answer": "We have engineers based across Wiltshire and can typically reach SouthBirchton within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "How much does an emergency plumber cost at night?",
+      "a": "Out-of-hours rates typically carry a 25-40% premium over standard daytime callout fees. Always ask for a fixed price quote before work begins."
     },
     {
-      "question": "Are your engineers Gas Safe registered in SouthBirchton?",
-      "answer": "Yes, all our engineers working in SouthBirchton are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "What counts as a plumbing emergency?",
+      "a": "Burst pipes, severe leaks, complete loss of water supply, blocked drains causing internal flooding, and total boiler failure in winter all qualify as emergencies requiring same-day response."
     },
     {
-      "question": "What does emergency plumber cost in SouthBirchton?",
-      "answer": "Emergency Plumber in SouthBirchton typically costs £85-£250 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "Is emergency plumbing covered by home insurance?",
+      "a": "Many home insurance policies include emergency plumbing cover — check your policy documents before calling. Some insurers require you to use their approved contractor network."
     },
     {
-      "question": "Do you cover the whole of SouthBirchton?",
-      "answer": "Yes, we cover all areas of SouthBirchton and surrounding villages throughout Wiltshire."
+      "q": "Can an emergency plumber fix a boiler?",
+      "a": "Yes, if the engineer is Gas Safe registered. Always confirm Gas Safe registration before allowing any engineer to work on your boiler."
     }
-  ]
+  ],
+  "localParagraph": "When a plumbing emergency strikes, residents of SouthBirchton, Wiltshire, need a fast and reliable response from professionals who understand the specific challenges this part of England presents. The area's mixed water hardness means that both limescale-related blockages and corrosion issues can affect pipework depending on the property's location and age, making accurate diagnosis essential rather than a one-size-fits-all approach. SouthBirchton's housing stock spans multiple eras, from older Victorian and Edwardian terraces through to mid-century builds and more recent developments, each generation of construction bringing its own plumbing configurations, pipe materials, and potential failure points. An experienced emergency plumber working in the area will be familiar with these variations and can work efficiently whether dealing with a burst pipe in an older property with lead or iron pipework, or a pressurised system failure in a newer home. Prompt attendance, clear communication about the problem, and lasting repairs rather than temporary fixes are what local homeowners genuinely need when water damage is already underway.",
+  "whatItInvolves": "Emergency plumbing covers any situation where water is causing immediate damage or risk to your home. Burst pipes, sudden boiler failures, blocked drains causing flooding, failed stopcocks, and overflowing toilets all qualify. The key is speed — every minute water flows unchecked causes more damage to floors, ceilings, and walls.",
+  "process": "Call us and we'll ask you to locate your stopcock and turn it off if water is actively escaping — this single action prevents thousands of pounds of water damage. Our engineer arrives with a fully stocked van: isolation valves, pipe repair clamps, replacement fittings, drain rods, and pressure testing equipment. We diagnose, isolate, and fix in a single visit wherever possible. You'll receive a written quote before work begins and a job sheet on completion for insurance purposes.",
+  "whatToExpect": "Expect an engineer within 45-90 minutes in most UK cities. They'll conduct a rapid assessment on arrival, explain the fault clearly, and give you a fixed price before touching anything. Most emergency repairs are completed within 2-3 hours. All work is guaranteed and fully insured.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }

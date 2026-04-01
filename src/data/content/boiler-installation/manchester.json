@@ -2,20 +2,27 @@
   "localContent": "Manchester is a thriving area with strong demand for reliable new boiler supply and installation services. Local properties range from period Victorian and Edwardian homes through to modern new-build developments, each presenting different plumbing requirements and challenges.\n\nOur Gas Safe registered engineers serve all areas of Manchester and the surrounding Greater Manchester region. Whether you're in the town centre or the surrounding residential areas, we provide prompt, professional boiler installation services with transparent pricing and no hidden call-out charges.\n\nWith years of experience working across Greater Manchester, our engineers understand the specific plumbing challenges faced by local homeowners. From the older pipe infrastructure common in period properties to the modern systems found in newer developments, our team has the expertise to handle any new boiler supply and installation requirement.\n\nWe cover all postcodes across Manchester with same-day availability for urgent work. All our engineers are fully qualified, insured, and committed to leaving your property clean and tidy after every job.",
   "faqs": [
     {
-      "question": "How quickly can you get to Manchester?",
-      "answer": "We have engineers based across Greater Manchester and can typically reach Manchester within 1-2 hours for emergency work, or the same day for standard bookings."
+      "q": "What is the best boiler brand?",
+      "a": "Worcester Bosch, Viessmann, and Vaillant consistently top reliability surveys. All three offer extended warranties of 8-12 years when installed by accredited engineers. Brand matters less than correct sizing and installation quality."
     },
     {
-      "question": "Are your engineers Gas Safe registered in Manchester?",
-      "answer": "Yes, all our engineers working in Manchester are fully Gas Safe registered and carry their ID cards to every job."
+      "q": "Do I need to notify anyone when a new boiler is installed?",
+      "a": "Yes — your Gas Safe registered installer must notify Building Control within 30 days of installation under the Competent Person Scheme. You will receive a Building Regulations completion certificate."
     },
     {
-      "question": "What does boiler installation cost in Manchester?",
-      "answer": "Boiler Installation in Manchester typically costs £2,500-£4,500 depending on the scope of work required. We provide free quotes before starting any work."
+      "q": "How much can a new boiler save on energy bills?",
+      "a": "Replacing a G-rated boiler (pre-2005) with an A-rated condensing boiler can save £300-£500 per year on gas bills. The actual saving depends on your home size, insulation, and usage patterns."
     },
     {
-      "question": "Do you cover the whole of Manchester?",
-      "answer": "Yes, we cover all areas of Manchester and surrounding villages throughout Greater Manchester."
+      "q": "Is there any financial help available for a new boiler?",
+      "a": "The Boiler Upgrade Scheme offers grants of up to £7,500 for heat pump installations. The ECO4 scheme helps low-income households with free boiler replacements. Check gov.uk for current eligibility criteria."
     }
-  ]
+  ],
+  "localParagraph": "Manchester's diverse housing stock — from the terraced rows of Levenshulme and Gorton to the converted mills of Ancoats and the newer builds spreading across Salford Quays — means that boiler installation rarely follows a single template. Engineers working across Greater Manchester must assess each property individually, accounting for the mixed water hardness found throughout the region, which sits somewhere between the soft water common in parts of northern England and the harder supplies found further south. This variation influences which boiler models perform most reliably over time and whether additional water treatment, such as a scale reducer or magnetic filter, is advisable during installation. Older Victorian and Edwardian properties, particularly prevalent in areas like Chorlton and Didsbury, may also require pipework upgrades to support a modern condensing boiler efficiently. Choosing a Gas Safe registered engineer with genuine local experience ensures the installation is sized and configured correctly for your specific home, giving you a system that performs reliably throughout Manchester's typically damp and cool winters.",
+  "whatItInvolves": "A new boiler installation involves removing your existing unit, upgrading the flue and pipework where required, fitting and commissioning the new boiler, and registering it with Building Control via the Competent Person Scheme. All new boiler installations must be carried out by a Gas Safe registered engineer — it is illegal for anyone else to do this work.",
+  "process": "Day 1: drain down the system, remove the old boiler, cap off existing connections. Upgrade the flue if required — most modern boilers use a concentric flue that vents through an external wall. Fit the new unit, connect flow and return pipes, gas supply, and condensate drain. Commission the boiler following manufacturer guidelines, balance the radiators, and register the installation. You'll receive a Building Regulations completion certificate within 28 days.",
+  "whatToExpect": "A standard like-for-like boiler swap takes 1-2 days. A full system change — moving the boiler or converting from back boiler to combi — takes 2-4 days. Your new boiler should come with a manufacturer warranty of 5-12 years depending on brand. Always register the warranty within 30 days of installation.",
+  "enriched": true,
+  "upgraded": true,
+  "paragraphFixed": true
 }
