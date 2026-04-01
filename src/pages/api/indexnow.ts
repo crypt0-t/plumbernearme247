@@ -1,6 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 
-const INDEXNOW_KEY = 'f7aa4b4bbacc4053b6d29c6e540d2428';
+const INDEXNOW_KEY = 'bff40acd9ec64594aca72899213b6784';
 const HOST = 'www.plumbernearme247.co.uk';
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
