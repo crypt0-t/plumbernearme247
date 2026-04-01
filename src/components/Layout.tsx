@@ -13,8 +13,8 @@ interface LayoutProps {
 }
 
 export default function Layout({ children, title, description, canonical, schema }: LayoutProps) {
-  const siteTitle = title ? `${title} | ${locale.siteName}` : `${locale.siteName} — ${locale.tagline}`
-  const siteDesc = description || `Professional plumbing services available 24/7. ${locale.certification}. Free quotes, fast response. Call ${locale.phone}.`
+  const siteTitle = title ? `${title} | ${locale.siteName}` : "Plumber Near Me | Find Trusted Local Plumbers 24/7"
+  const siteDesc = description || `Find a reliable plumber near you, available 24/7. Gas Safe registered, free quotes, fast response times. Emergency callouts, boiler repair, bathroom installation and more.`
 
   return (
     <>
