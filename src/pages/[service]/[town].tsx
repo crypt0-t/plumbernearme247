@@ -22,6 +22,9 @@ interface ContentData {
   serviceDetail?: string
   pricingGuide?: string
   whyLocal?: string
+  whatItInvolves?: string
+  process?: string
+  whatToExpect?: string
   localContent?: string
   faqs?: Array<{ q?: string; a?: string; question?: string; answer?: string }>
   ctaText?: string
@@ -46,6 +49,9 @@ export default function TownServicePage({ service, town, nearby, otherServices, 
   const serviceDetail = content?.serviceDetail
   const pricingGuide = content?.pricingGuide
   const whyLocal = content?.whyLocal
+  const whatItInvolves = content?.whatItInvolves
+  const process = content?.process
+  const whatToExpect = content?.whatToExpect
   const faqs = content?.faqs || []
 
   // Enriched town data
@@ -316,6 +322,26 @@ export default function TownServicePage({ service, town, nearby, otherServices, 
                       <span>All engineers are {locale.certification.toLowerCase()} and fully insured</span>
                     </li>
                   </ul>
+                </div>
+              )}
+
+              {/* What it involves + Process + What to expect */}
+              {whatItInvolves && (
+                <div className="bg-navy-800 border border-white/10 rounded-xl p-6 mb-8">
+                  <h2 className="text-xl font-bold text-white mb-4">What {service.name} Involves</h2>
+                  <p className="text-slate-300 leading-relaxed">{whatItInvolves}</p>
+                </div>
+              )}
+              {process && (
+                <div className="bg-navy-800 border border-white/10 rounded-xl p-6 mb-8">
+                  <h2 className="text-xl font-bold text-white mb-4">The Process</h2>
+                  <p className="text-slate-300 leading-relaxed">{process}</p>
+                </div>
+              )}
+              {whatToExpect && (
+                <div className="bg-navy-800 border border-white/10 rounded-xl p-6 mb-8">
+                  <h2 className="text-xl font-bold text-white mb-4">What to Expect</h2>
+                  <p className="text-slate-300 leading-relaxed">{whatToExpect}</p>
                 </div>
               )}
 
