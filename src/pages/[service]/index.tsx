@@ -406,18 +406,18 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
     >
       {/* Hero */}
       <section className="bg-gradient-to-b from-navy-900 to-navy-950">
-        <div className="max-w-7xl mx-auto px-4 py-16 md:py-24">
-          <div className="grid md:grid-cols-2 gap-12 items-start">
+        <div className="max-w-7xl mx-auto px-4 py-12 md:py-20">
+          <div className="grid md:grid-cols-2 gap-8 items-start">
             <div>
-              <nav className="text-sm text-slate-400 mb-6">
+              <nav className="text-sm text-slate-400 mb-4">
                 <Link href="/" className="hover:text-blue-400">Home</Link>
                 <span className="mx-2">/</span>
                 <span className="text-white">{service.name}</span>
               </nav>
-              <h1 className="text-3xl md:text-5xl font-extrabold text-white mb-6 leading-tight">
+              <h1 className="text-3xl md:text-5xl font-extrabold text-white mb-4 leading-tight">
                 {service.name}
               </h1>
-              <p className="text-lg text-slate-300 mb-6 leading-relaxed">{content.intro}</p>
+              <p className="text-lg text-slate-300 mb-5 leading-relaxed">{content.intro}</p>
               <div className="bg-navy-800 border border-white/10 rounded-xl p-6 mb-6">
                 <div className="flex items-center gap-2 mb-3">
                   <StarIcon className="w-5 h-5 text-yellow-400" />
@@ -439,8 +439,8 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
       </section>
 
       {/* What it is */}
-      <section className="max-w-7xl mx-auto px-4 py-16">
-        <div className="grid md:grid-cols-2 gap-12 items-start">
+      <section className="max-w-7xl mx-auto px-4 py-12">
+        <div className="grid md:grid-cols-2 gap-8 items-start">
           <div>
             <h2 className="text-2xl font-bold text-white mb-4">What is {service.name}?</h2>
             <p className="text-slate-300 leading-relaxed">{content.whatItIs}</p>
@@ -460,7 +460,7 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
 
       {/* When to call */}
       <section className="bg-navy-900/50 border-y border-white/5">
-        <div className="max-w-7xl mx-auto px-4 py-16">
+        <div className="max-w-7xl mx-auto px-4 py-12">
           <h2 className="text-2xl font-bold text-white mb-8">When Do You Need {service.name}?</h2>
           <div className="grid md:grid-cols-2 gap-3">
             {content.whenToCall.map((item, i) => (
@@ -474,8 +474,8 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
       </section>
 
       {/* What it involves */}
-      <section className="max-w-7xl mx-auto px-4 py-16">
-        <div className="grid md:grid-cols-2 gap-12">
+      <section className="max-w-7xl mx-auto px-4 py-12">
+        <div className="grid md:grid-cols-2 gap-8">
           <div>
             <h2 className="text-2xl font-bold text-white mb-6">What the Service Involves</h2>
             <ol className="space-y-4">
@@ -508,7 +508,7 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
 
       {/* FAQs */}
       <section className="bg-navy-900/50 border-y border-white/5">
-        <div className="max-w-7xl mx-auto px-4 py-16">
+        <div className="max-w-7xl mx-auto px-4 py-12">
           <h2 className="text-2xl font-bold text-white mb-8">Frequently Asked Questions</h2>
           <div className="grid md:grid-cols-2 gap-6">
             {content.faqs.map((faq, i) => (
@@ -522,7 +522,7 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
       </section>
 
       {/* Find by town */}
-      <section className="max-w-7xl mx-auto px-4 py-16">
+      <section className="max-w-7xl mx-auto px-4 py-12">
         <h2 className="text-2xl font-bold text-white mb-2">Find {service.name} Near You</h2>
         <p className="text-slate-400 mb-6">We cover {towns.length}+ towns and cities across the UK. Click your location for local pricing and availability.</p>
         <div className="flex flex-wrap gap-2">
@@ -542,7 +542,7 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
       </section>
 
       {/* Other services */}
-      <section className="max-w-7xl mx-auto px-4 py-16 border-t border-white/5">
+      <section className="max-w-7xl mx-auto px-4 py-12 border-t border-white/5">
         <h2 className="text-2xl font-bold text-white mb-6">Other Plumbing Services</h2>
         <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
           {otherServices.map(s => (
