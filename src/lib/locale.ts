@@ -9,7 +9,7 @@ const ukLocale = {
   emergency: '999',
   certification: 'Gas Safe Registered',
   certNumber: 'Gas Safe Reg. No. 123456',
-  domain: 'plumbernearme247.co.uk',
+  domain: 'www.plumbernearme247.co.uk',
   siteName: 'PlumberNearMe247',
   tagline: 'Trusted Local Plumbers, Available 24/7',
   services: {
