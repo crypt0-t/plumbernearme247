@@ -138,7 +138,7 @@ async function generatePage(service, town) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer ***REDACTED***'
+        'Authorization': `Bearer ${process.env.CLI_PROXY_KEY}`
       },
       body: JSON.stringify({
         model: MODEL,

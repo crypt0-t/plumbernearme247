@@ -123,7 +123,7 @@ async function callProxy(prompt) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer ***REDACTED***',
+        'Authorization': `Bearer ${process.env.CLI_PROXY_KEY}`,
         'Content-Length': Buffer.byteLength(body)
       }
     }, (res) => {

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const PROXY = 'http://localhost:8317/v1/chat/completions';
-const API_KEY = '***REDACTED***';
+const API_KEY = process.env.CLI_PROXY_KEY;
 const MODEL = 'claude-sonnet-4-6';
 const CONCURRENT = 6;
 const TOWNS_PER_CALL = 5;
