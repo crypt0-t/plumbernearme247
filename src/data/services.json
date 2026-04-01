@@ -1,0 +1,12 @@
+[
+  {"slug":"emergency-plumber","name":"Emergency Plumber","description":"24/7 emergency plumbing services","priceRange":"150-500"},
+  {"slug":"bathroom-installation","name":"Bathroom Installation","description":"Full bathroom installation and fitting","priceRange":"4000-15000"},
+  {"slug":"boiler-repair","name":"Boiler Repair","description":"Boiler repair and servicing","priceRange":"150-600"},
+  {"slug":"boiler-installation","name":"Boiler Installation","description":"New boiler supply and installation","priceRange":"2500-4500"},
+  {"slug":"blocked-drains","name":"Blocked Drains","description":"Drain unblocking and clearance","priceRange":"80-300"},
+  {"slug":"leak-repair","name":"Leak Repair","description":"Pipe and tap leak detection and repair","priceRange":"100-500"},
+  {"slug":"wet-room-installation","name":"Wet Room Installation","description":"Wet room design and installation","priceRange":"3000-8000"},
+  {"slug":"underfloor-heating","name":"Underfloor Heating","description":"Underfloor heating installation","priceRange":"3000-8000"},
+  {"slug":"central-heating","name":"Central Heating Installation","description":"Full central heating system installation","priceRange":"3000-6000"},
+  {"slug":"gas-engineer","name":"Gas Engineer","description":"Gas safety checks and gas work","priceRange":"80-400"}
+]

@@ -18,15 +18,6 @@
     "lng": -1.8904
   },
   {
-    "name": "Manchester",
-    "slug": "manchester",
-    "region": "England",
-    "county": "Greater Manchester",
-    "population": 547627,
-    "lat": 53.4808,
-    "lng": -2.2426
-  },
-  {
     "name": "Leeds",
     "slug": "leeds",
     "region": "England",
@@ -34,6 +25,15 @@
     "population": 789194,
     "lat": 53.8008,
     "lng": -1.5491
+  },
+  {
+    "name": "Glasgow",
+    "slug": "glasgow",
+    "region": "Scotland",
+    "county": "Glasgow City",
+    "population": 626410,
+    "lat": 55.8642,
+    "lng": -4.2518
   },
   {
     "name": "Sheffield",
@@ -45,13 +45,22 @@
     "lng": -1.4701
   },
   {
-    "name": "Bradford",
-    "slug": "bradford",
+    "name": "Manchester",
+    "slug": "manchester",
     "region": "England",
-    "county": "West Yorkshire",
-    "population": 537173,
-    "lat": 53.795,
-    "lng": -1.7594
+    "county": "Greater Manchester",
+    "population": 547627,
+    "lat": 53.4808,
+    "lng": -2.2426
+  },
+  {
+    "name": "Edinburgh",
+    "slug": "edinburgh",
+    "region": "Scotland",
+    "county": "City of Edinburgh",
+    "population": 518500,
+    "lat": 55.9533,
+    "lng": -3.1883
   },
   {
     "name": "Liverpool",
@@ -72,24 +81,6 @@
     "lng": -2.5879
   },
   {
-    "name": "Newcastle upon Tyne",
-    "slug": "newcastle-upon-tyne",
-    "region": "England",
-    "county": "Tyne and Wear",
-    "population": 300196,
-    "lat": 54.9783,
-    "lng": -1.6178
-  },
-  {
-    "name": "Nottingham",
-    "slug": "nottingham",
-    "region": "England",
-    "county": "Nottinghamshire",
-    "population": 321500,
-    "lat": 52.9548,
-    "lng": -1.1581
-  },
-  {
     "name": "Leicester",
     "slug": "leicester",
     "region": "England",
@@ -108,13 +99,31 @@
     "lng": -1.5197
   },
   {
-    "name": "Hull",
-    "slug": "hull",
+    "name": "Bradford",
+    "slug": "bradford",
     "region": "England",
-    "county": "East Riding of Yorkshire",
-    "population": 260700,
-    "lat": 53.7457,
-    "lng": -0.3367
+    "county": "West Yorkshire",
+    "population": 537173,
+    "lat": 53.795,
+    "lng": -1.7594
+  },
+  {
+    "name": "Nottingham",
+    "slug": "nottingham",
+    "region": "England",
+    "county": "Nottinghamshire",
+    "population": 321500,
+    "lat": 52.9548,
+    "lng": -1.1581
+  },
+  {
+    "name": "Newcastle upon Tyne",
+    "slug": "newcastle-upon-tyne",
+    "region": "England",
+    "county": "Tyne and Wear",
+    "population": 300196,
+    "lat": 54.9783,
+    "lng": -1.6178
   },
   {
     "name": "Plymouth",
@@ -124,6 +133,24 @@
     "population": 264695,
     "lat": 50.3755,
     "lng": -4.1427
+  },
+  {
+    "name": "Hull",
+    "slug": "hull",
+    "region": "England",
+    "county": "East Riding of Yorkshire",
+    "population": 260700,
+    "lat": 53.7457,
+    "lng": -0.3367
+  },
+  {
+    "name": "Derby",
+    "slug": "derby",
+    "region": "England",
+    "county": "Derbyshire",
+    "population": 255394,
+    "lat": 52.9225,
+    "lng": -1.4746
   },
   {
     "name": "Stoke-on-Trent",
@@ -144,15 +171,6 @@
     "lng": -2.1287
   },
   {
-    "name": "Derby",
-    "slug": "derby",
-    "region": "England",
-    "county": "Derbyshire",
-    "population": 255394,
-    "lat": 52.9225,
-    "lng": -1.4746
-  },
-  {
     "name": "Southampton",
     "slug": "southampton",
     "region": "England",
@@ -160,105 +178,6 @@
     "population": 253651,
     "lat": 50.9097,
     "lng": -1.4044
-  },
-  {
-    "name": "Portsmouth",
-    "slug": "portsmouth",
-    "region": "England",
-    "county": "Hampshire",
-    "population": 238137,
-    "lat": 50.8198,
-    "lng": -1.0879
-  },
-  {
-    "name": "Brighton and Hove",
-    "slug": "brighton-and-hove",
-    "region": "England",
-    "county": "East Sussex",
-    "population": 290885,
-    "lat": 51.076952237135146,
-    "lng": -0.7870775932840164
-  },
-  {
-    "name": "Northampton",
-    "slug": "northampton",
-    "region": "England",
-    "county": "Northamptonshire",
-    "population": 224457,
-    "lat": 52.2405,
-    "lng": -0.9027
-  },
-  {
-    "name": "Norwich",
-    "slug": "norwich",
-    "region": "England",
-    "county": "Norfolk",
-    "population": 195971,
-    "lat": 52.6309,
-    "lng": 1.2974
-  },
-  {
-    "name": "Luton",
-    "slug": "luton",
-    "region": "England",
-    "county": "Bedfordshire",
-    "population": 213052,
-    "lat": 51.8787,
-    "lng": -0.42
-  },
-  {
-    "name": "Swindon",
-    "slug": "swindon",
-    "region": "England",
-    "county": "Wiltshire",
-    "population": 185609,
-    "lat": 51.5558,
-    "lng": -1.7797
-  },
-  {
-    "name": "York",
-    "slug": "york",
-    "region": "England",
-    "county": "North Yorkshire",
-    "population": 208200,
-    "lat": 53.9591,
-    "lng": -1.0815
-  },
-  {
-    "name": "Ipswich",
-    "slug": "ipswich",
-    "region": "England",
-    "county": "Suffolk",
-    "population": 144957,
-    "lat": 52.0567,
-    "lng": 1.1482
-  },
-  {
-    "name": "Blackpool",
-    "slug": "blackpool",
-    "region": "England",
-    "county": "Lancashire",
-    "population": 139305,
-    "lat": 53.8175,
-    "lng": -3.0357
-  },
-  {
-    "name": "Middlesbrough",
-    "slug": "middlesbrough",
-    "region": "England",
-    "county": "North Yorkshire",
-    "population": 174700,
-    "lat": 54.5742,
-    "lng": -1.235
-  },
-  {
-    "name": "Bolton",
-    "slug": "bolton",
-    "region": "England",
-    "county": "Greater Manchester",
-    "population": 194189,
-    "lat": 53.5785,
-    "lng": -2.4299
   },
   {
     "name": "Reading",
@@ -270,175 +189,58 @@
     "lng": -0.9781
   },
   {
-    "name": "Oldham",
-    "slug": "oldham",
+    "name": "Milton Keynes",
+    "slug": "milton-keynes",
     "region": "England",
-    "county": "Greater Manchester",
-    "population": 237110,
-    "lat": 51.82799137349746,
-    "lng": -0.5139754926168489
+    "county": "Buckinghamshire",
+    "population": 229941,
+    "lat": 52.0406,
+    "lng": -0.7594
   },
   {
-    "name": "Southend-on-Sea",
-    "slug": "southend-on-sea",
+    "name": "Swindon",
+    "slug": "swindon",
     "region": "England",
-    "county": "Essex",
-    "population": 183125,
-    "lat": 51.5459,
-    "lng": 0.7077
+    "county": "Wiltshire",
+    "population": 185609,
+    "lat": 51.5558,
+    "lng": -1.7797
   },
   {
-    "name": "Preston",
-    "slug": "preston",
+    "name": "Northampton",
+    "slug": "northampton",
     "region": "England",
-    "county": "Lancashire",
-    "population": 141801,
-    "lat": 52.015151283489985,
-    "lng": -0.22697145056586931
+    "county": "Northamptonshire",
+    "population": 224457,
+    "lat": 52.2405,
+    "lng": -0.9027
   },
   {
-    "name": "Gateshead",
-    "slug": "gateshead",
+    "name": "Luton",
+    "slug": "luton",
     "region": "England",
-    "county": "Tyne and Wear",
-    "population": 120046,
-    "lat": 54.9526,
-    "lng": -1.6036
+    "county": "Bedfordshire",
+    "population": 213052,
+    "lat": 51.8787,
+    "lng": -0.42
   },
   {
-    "name": "Blackburn",
-    "slug": "blackburn",
+    "name": "Norwich",
+    "slug": "norwich",
     "region": "England",
-    "county": "Lancashire",
-    "population": 117963,
-    "lat": 52.24030197457614,
-    "lng": -0.12449935239090504
+    "county": "Norfolk",
+    "population": 195971,
+    "lat": 52.6309,
+    "lng": 1.2974
   },
   {
-    "name": "Wigan",
-    "slug": "wigan",
+    "name": "Portsmouth",
+    "slug": "portsmouth",
     "region": "England",
-    "county": "Greater Manchester",
-    "population": 103608,
-    "lat": 53.5461,
-    "lng": -2.6325
-  },
-  {
-    "name": "Stockport",
-    "slug": "stockport",
-    "region": "England",
-    "county": "Greater Manchester",
-    "population": 105878,
-    "lat": 53.4106,
-    "lng": -2.1575
-  },
-  {
-    "name": "Rotherham",
-    "slug": "rotherham",
-    "region": "England",
-    "county": "South Yorkshire",
-    "population": 109691,
-    "lat": 53.4326,
-    "lng": -1.3568
-  },
-  {
-    "name": "Cambridge",
-    "slug": "cambridge",
-    "region": "England",
-    "county": "Cambridgeshire",
-    "population": 145818,
-    "lat": 52.2053,
-    "lng": 0.1218
-  },
-  {
-    "name": "Exeter",
-    "slug": "exeter",
-    "region": "England",
-    "county": "Devon",
-    "population": 130428,
-    "lat": 50.7184,
-    "lng": -3.5339
-  },
-  {
-    "name": "Colchester",
-    "slug": "colchester",
-    "region": "England",
-    "county": "Essex",
-    "population": 121859,
-    "lat": 51.886,
-    "lng": 0.8919
-  },
-  {
-    "name": "Cheltenham",
-    "slug": "cheltenham",
-    "region": "England",
-    "county": "Gloucestershire",
-    "population": 116447,
-    "lat": 51.8994,
-    "lng": -2.0783
-  },
-  {
-    "name": "Gloucester",
-    "slug": "gloucester",
-    "region": "England",
-    "county": "Gloucestershire",
-    "population": 128488,
-    "lat": 51.8642,
-    "lng": -2.2382
-  },
-  {
-    "name": "Burnley",
-    "slug": "burnley",
-    "region": "England",
-    "county": "Lancashire",
-    "population": 87055,
-    "lat": 51.61192368027475,
-    "lng": -1.5017138651660136
-  },
-  {
-    "name": "Watford",
-    "slug": "watford",
-    "region": "England",
-    "county": "Hertfordshire",
-    "population": 131982,
-    "lat": 51.6565,
-    "lng": -0.3903
-  },
-  {
-    "name": "Mansfield",
-    "slug": "mansfield",
-    "region": "England",
-    "county": "Nottinghamshire",
-    "population": 109958,
-    "lat": 53.1472,
-    "lng": -1.1981
-  },
-  {
-    "name": "Carlisle",
-    "slug": "carlisle",
-    "region": "England",
-    "county": "Cumbria",
-    "population": 108400,
-    "lat": 54.8925,
-    "lng": -2.9329
-  },
-  {
-    "name": "Oxford",
-    "slug": "oxford",
-    "region": "England",
-    "county": "Oxfordshire",
-    "population": 152000,
-    "lat": 51.752,
-    "lng": -1.2577
-  },
-  {
-    "name": "Bath",
-    "slug": "bath",
-    "region": "England",
-    "county": "Somerset",
-    "population": 101557,
-    "lat": 51.3811,
-    "lng": -2.359
+    "county": "Hampshire",
+    "population": 238137,
+    "lat": 50.8198,
+    "lng": -1.0879
   },
   {
     "name": "Peterborough",
@@ -450,31 +252,175 @@
     "lng": -0.2405
   },
   {
-    "name": "Chester",
-    "slug": "chester",
+    "name": "Bolton",
+    "slug": "bolton",
     "region": "England",
-    "county": "Cheshire",
-    "population": 118200,
-    "lat": 53.193,
-    "lng": -2.8931
+    "county": "Greater Manchester",
+    "population": 194189,
+    "lat": 53.5785,
+    "lng": -2.4299
   },
   {
-    "name": "Lincoln",
-    "slug": "lincoln",
+    "name": "Southend-on-Sea",
+    "slug": "southend-on-sea",
     "region": "England",
-    "county": "Lincolnshire",
-    "population": 100160,
-    "lat": 53.2307,
-    "lng": -0.5407
+    "county": "Essex",
+    "population": 183125,
+    "lat": 51.5459,
+    "lng": 0.7077
   },
   {
-    "name": "Canterbury",
-    "slug": "canterbury",
+    "name": "Middlesbrough",
+    "slug": "middlesbrough",
     "region": "England",
-    "county": "Kent",
-    "population": 151145,
-    "lat": 51.2802,
-    "lng": 1.0789
+    "county": "North Yorkshire",
+    "population": 174700,
+    "lat": 54.5742,
+    "lng": -1.235
+  },
+  {
+    "name": "Huddersfield",
+    "slug": "huddersfield",
+    "region": "England",
+    "county": "West Yorkshire",
+    "population": 162949,
+    "lat": 53.645,
+    "lng": -1.7798
+  },
+  {
+    "name": "York",
+    "slug": "york",
+    "region": "England",
+    "county": "North Yorkshire",
+    "population": 208200,
+    "lat": 53.9591,
+    "lng": -1.0815
+  },
+  {
+    "name": "Oxford",
+    "slug": "oxford",
+    "region": "England",
+    "county": "Oxfordshire",
+    "population": 152000,
+    "lat": 51.752,
+    "lng": -1.2577
+  },
+  {
+    "name": "Blackpool",
+    "slug": "blackpool",
+    "region": "England",
+    "county": "Lancashire",
+    "population": 139305,
+    "lat": 53.8175,
+    "lng": -3.0357
+  },
+  {
+    "name": "Stockport",
+    "slug": "stockport",
+    "region": "England",
+    "county": "Greater Manchester",
+    "population": 105878,
+    "lat": 53.4106,
+    "lng": -2.1575
+  },
+  {
+    "name": "Ipswich",
+    "slug": "ipswich",
+    "region": "England",
+    "county": "Suffolk",
+    "population": 144957,
+    "lat": 52.0567,
+    "lng": 1.1482
+  },
+  {
+    "name": "Exeter",
+    "slug": "exeter",
+    "region": "England",
+    "county": "Devon",
+    "population": 130428,
+    "lat": 50.7184,
+    "lng": -3.5339
+  },
+  {
+    "name": "Gloucester",
+    "slug": "gloucester",
+    "region": "England",
+    "county": "Gloucestershire",
+    "population": 128488,
+    "lat": 51.8642,
+    "lng": -2.2382
+  },
+  {
+    "name": "Cambridge",
+    "slug": "cambridge",
+    "region": "England",
+    "county": "Cambridgeshire",
+    "population": 145818,
+    "lat": 52.2053,
+    "lng": 0.1218
+  },
+  {
+    "name": "Colchester",
+    "slug": "colchester",
+    "region": "England",
+    "county": "Essex",
+    "population": 121859,
+    "lat": 51.886,
+    "lng": 0.8919
+  },
+  {
+    "name": "Blackburn",
+    "slug": "blackburn",
+    "region": "England",
+    "county": "Lancashire",
+    "population": 117963,
+    "lat": 52.24030197457614,
+    "lng": -0.12449935239090504
+  },
+  {
+    "name": "Cheltenham",
+    "slug": "cheltenham",
+    "region": "England",
+    "county": "Gloucestershire",
+    "population": 116447,
+    "lat": 51.8994,
+    "lng": -2.0783
+  },
+  {
+    "name": "Preston",
+    "slug": "preston",
+    "region": "England",
+    "county": "Lancashire",
+    "population": 141801,
+    "lat": 52.015151283489985,
+    "lng": -0.22697145056586931
+  },
+  {
+    "name": "Rotherham",
+    "slug": "rotherham",
+    "region": "England",
+    "county": "South Yorkshire",
+    "population": 109691,
+    "lat": 53.4326,
+    "lng": -1.3568
+  },
+  {
+    "name": "Wigan",
+    "slug": "wigan",
+    "region": "England",
+    "county": "Greater Manchester",
+    "population": 103608,
+    "lat": 53.5461,
+    "lng": -2.6325
+  },
+  {
+    "name": "Mansfield",
+    "slug": "mansfield",
+    "region": "England",
+    "county": "Nottinghamshire",
+    "population": 109958,
+    "lat": 53.1472,
+    "lng": -1.1981
   },
   {
     "name": "Worcester",
@@ -486,6 +432,78 @@
     "lng": -2.2216
   },
   {
+    "name": "Wakefield",
+    "slug": "wakefield",
+    "region": "England",
+    "county": "West Yorkshire",
+    "population": 109766,
+    "lat": 53.6833,
+    "lng": -1.4977
+  },
+  {
+    "name": "Lincoln",
+    "slug": "lincoln",
+    "region": "England",
+    "county": "Lincolnshire",
+    "population": 100160,
+    "lat": 53.2307,
+    "lng": -0.5407
+  },
+  {
+    "name": "Watford",
+    "slug": "watford",
+    "region": "England",
+    "county": "Hertfordshire",
+    "population": 131982,
+    "lat": 51.6565,
+    "lng": -0.3903
+  },
+  {
+    "name": "Bath",
+    "slug": "bath",
+    "region": "England",
+    "county": "Somerset",
+    "population": 101557,
+    "lat": 51.3811,
+    "lng": -2.359
+  },
+  {
+    "name": "St Albans",
+    "slug": "st-albans",
+    "region": "England",
+    "county": "Hertfordshire",
+    "population": 147373,
+    "lat": 51.752,
+    "lng": -0.3413
+  },
+  {
+    "name": "Chester",
+    "slug": "chester",
+    "region": "England",
+    "county": "Cheshire",
+    "population": 118200,
+    "lat": 53.193,
+    "lng": -2.8931
+  },
+  {
+    "name": "Burnley",
+    "slug": "burnley",
+    "region": "England",
+    "county": "Lancashire",
+    "population": 87055,
+    "lat": 51.61192368027475,
+    "lng": -1.5017138651660136
+  },
+  {
+    "name": "Canterbury",
+    "slug": "canterbury",
+    "region": "England",
+    "county": "Kent",
+    "population": 151145,
+    "lat": 51.2802,
+    "lng": 1.0789
+  },
+  {
     "name": "Hereford",
     "slug": "hereford",
     "region": "England",
@@ -495,13 +513,13 @@
     "lng": -2.716
   },
   {
-    "name": "Truro",
-    "slug": "truro",
+    "name": "Lichfield",
+    "slug": "lichfield",
     "region": "England",
-    "county": "Cornwall",
-    "population": 18766,
-    "lat": 50.2632,
-    "lng": -5.051
+    "county": "Staffordshire",
+    "population": 33132,
+    "lat": 52.6837,
+    "lng": -1.8263
   },
   {
     "name": "Ely",
@@ -511,6 +529,51 @@
     "population": 20112,
     "lat": 52.3987,
     "lng": 0.2638
+  },
+  {
+    "name": "Brighton and Hove",
+    "slug": "brighton-and-hove",
+    "region": "England",
+    "county": "East Sussex",
+    "population": 290885,
+    "lat": 51.076952237135146,
+    "lng": -0.7870775932840164
+  },
+  {
+    "name": "Oldham",
+    "slug": "oldham",
+    "region": "England",
+    "county": "Greater Manchester",
+    "population": 237110,
+    "lat": 51.82799137349746,
+    "lng": -0.5139754926168489
+  },
+  {
+    "name": "Gateshead",
+    "slug": "gateshead",
+    "region": "England",
+    "county": "Tyne and Wear",
+    "population": 120046,
+    "lat": 54.9526,
+    "lng": -1.6036
+  },
+  {
+    "name": "Carlisle",
+    "slug": "carlisle",
+    "region": "England",
+    "county": "Cumbria",
+    "population": 108400,
+    "lat": 54.8925,
+    "lng": -2.9329
+  },
+  {
+    "name": "Truro",
+    "slug": "truro",
+    "region": "England",
+    "county": "Cornwall",
+    "population": 18766,
+    "lat": 50.2632,
+    "lng": -5.051
   },
   {
     "name": "Ripon",
@@ -567,15 +630,6 @@
     "lng": -1.5733
   },
   {
-    "name": "Lichfield",
-    "slug": "lichfield",
-    "region": "England",
-    "county": "Staffordshire",
-    "population": 33132,
-    "lat": 52.6837,
-    "lng": -1.8263
-  },
-  {
     "name": "Rochester",
     "slug": "rochester",
     "region": "England",
@@ -583,33 +637,6 @@
     "population": 62000,
     "lat": 51.3886,
     "lng": 0.5056
-  },
-  {
-    "name": "St Albans",
-    "slug": "st-albans",
-    "region": "England",
-    "county": "Hertfordshire",
-    "population": 147373,
-    "lat": 51.752,
-    "lng": -0.3413
-  },
-  {
-    "name": "Wakefield",
-    "slug": "wakefield",
-    "region": "England",
-    "county": "West Yorkshire",
-    "population": 109766,
-    "lat": 53.6833,
-    "lng": -1.4977
-  },
-  {
-    "name": "Huddersfield",
-    "slug": "huddersfield",
-    "region": "England",
-    "county": "West Yorkshire",
-    "population": 162949,
-    "lat": 53.645,
-    "lng": -1.7798
   },
   {
     "name": "Halifax",
@@ -1467,15 +1494,6 @@
     "lng": 0.29159141468557004
   },
   {
-    "name": "Milton Keynes",
-    "slug": "milton-keynes",
-    "region": "England",
-    "county": "Buckinghamshire",
-    "population": 229941,
-    "lat": 52.0406,
-    "lng": -0.7594
-  },
-  {
     "name": "Croydon",
     "slug": "croydon",
     "region": "England",
@@ -1825,24 +1843,6 @@
     "population": 211998,
     "lat": 50.69482740308727,
     "lng": -0.7678452011818433
-  },
-  {
-    "name": "Glasgow",
-    "slug": "glasgow",
-    "region": "Scotland",
-    "county": "Glasgow City",
-    "population": 626410,
-    "lat": 55.8642,
-    "lng": -4.2518
-  },
-  {
-    "name": "Edinburgh",
-    "slug": "edinburgh",
-    "region": "Scotland",
-    "county": "City of Edinburgh",
-    "population": 518500,
-    "lat": 55.9533,
-    "lng": -3.1883
   },
   {
     "name": "Aberdeen",
