@@ -62,9 +62,9 @@ export function generateHomepageSchema() {
     areaServed: { '@type': 'Country', name: locale.country === 'uk' ? 'United Kingdom' : 'United States' },
     aggregateRating: {
       '@type': 'AggregateRating',
-      ratingValue: '4.8',
-      reviewCount: '2,847',
-      bestRating: '5',
+      ratingValue: 4.8,
+      reviewCount: 2847,
+      bestRating: 5,
     },
   }
 }
