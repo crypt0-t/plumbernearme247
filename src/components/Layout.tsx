@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 import { locale } from '@/lib/locale'
 import { services } from '@/lib/services'
-import { PhoneIcon, WrenchIcon } from './Icons'
+import { PhoneIcon, WrenchIcon, ShieldIcon, StarIcon, ClockIcon } from './Icons'
 
 interface LayoutProps {
   children: React.ReactNode
@@ -73,7 +73,26 @@ export default function Layout({ children, title, description, canonical, schema
         </div>
       </nav>
 
-      <main>{children}</main>
+      <main className="pb-20 md:pb-0">{children}</main>
+
+      {/* Sticky mobile bottom CTA bar */}
+      <div className="fixed bottom-0 left-0 right-0 z-50 md:hidden bg-navy-900/95 backdrop-blur-sm border-t border-white/10 px-4 py-3 safe-area-bottom">
+        <div className="flex gap-2">
+          <a
+            href={`tel:${locale.phoneTel}`}
+            className="flex-1 bg-green-500 hover:bg-green-600 text-white py-3 rounded-xl text-sm font-semibold flex items-center justify-center gap-2 shadow-lg shadow-green-500/20"
+          >
+            <PhoneIcon className="w-4 h-4" />
+            Call Now
+          </a>
+          <Link
+            href="/contact"
+            className="flex-1 bg-blue-500 hover:bg-blue-600 text-white py-3 rounded-xl text-sm font-semibold flex items-center justify-center gap-2 shadow-lg shadow-blue-500/20"
+          >
+            Get Free Quote
+          </Link>
+        </div>
+      </div>
 
       {/* Footer */}
       <footer className="bg-navy-900 border-t border-white/5 mt-12">
@@ -87,9 +106,14 @@ export default function Layout({ children, title, description, canonical, schema
                 </div>
                 <span className="text-lg font-bold text-white">{locale.siteName}</span>
               </div>
-              <p className="text-slate-400 text-sm leading-relaxed">
+              <p className="text-slate-400 text-sm leading-relaxed mb-4">
                 Professional plumbing services available 24 hours a day, 7 days a week. {locale.certification}. Serving homes and businesses across the UK.
               </p>
+              <div className="flex flex-wrap gap-3 text-xs text-slate-500">
+                <span className="flex items-center gap-1"><ShieldIcon className="w-3.5 h-3.5 text-green-400" /> Gas Safe</span>
+                <span className="flex items-center gap-1"><StarIcon className="w-3.5 h-3.5 text-yellow-400" /> 4.8/5</span>
+                <span className="flex items-center gap-1"><ClockIcon className="w-3.5 h-3.5 text-blue-400" /> 24/7</span>
+              </div>
             </div>
 
             {/* Services */}
@@ -120,11 +144,20 @@ export default function Layout({ children, title, description, canonical, schema
               <h3 className="text-white font-semibold mb-4">Contact</h3>
               <ul className="space-y-2 text-sm text-slate-400">
                 <li>
-                  <a href={`tel:${locale.phoneTel}`} className="hover:text-blue-400 transition-colors">{locale.phone}</a>
+                  <a href={`tel:${locale.phoneTel}`} className="hover:text-blue-400 transition-colors flex items-center gap-2">
+                    <PhoneIcon className="w-4 h-4" /> {locale.phone}
+                  </a>
                 </li>
                 <li>Available 24 hours, 7 days</li>
                 <li>{locale.certification}</li>
               </ul>
+              <a
+                href={`tel:${locale.phoneTel}`}
+                className="mt-4 inline-flex items-center gap-2 bg-blue-500/10 border border-blue-500/20 text-blue-400 px-4 py-2 rounded-lg text-sm font-medium hover:bg-blue-500/20 transition-colors"
+              >
+                <PhoneIcon className="w-4 h-4" />
+                Call for Free Quote
+              </a>
             </div>
           </div>
 
