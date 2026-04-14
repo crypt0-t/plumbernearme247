@@ -3,7 +3,7 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' })
 
-  const webhookUrl = process.env.WEBHOOK_URL || 'http://46.224.23.44:3002/api/track-lead'
+  const webhookUrl = process.env.WEBHOOK_URL || 'http://46.224.23.44:3002/api/leads/webhook'
   const siteId = process.env.SITE_ID || 'plumber247-uk'
 
   try {
@@ -22,7 +22,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     })
 
     if (!mcRes.ok) {
-      console.error('MC webhook failed:', mcRes.status)
+      console.error('MC webhook failed:', mcRes.status, await mcRes.text())
     }
 
     return res.status(200).json({ ok: true, message: 'Lead submitted successfully' })
