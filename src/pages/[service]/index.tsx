@@ -57,7 +57,7 @@ const serviceContent: Record<string, {
     ],
   },
   bathroom: {
-    intro: `A new bathroom is one of the highest-return home improvements you can make — adding up to 5% to your property value while transforming one of the rooms you use every single day. The UK bathroom fitting market averages £6,000-£15,000 per installation, with the quality of tradesperson making the difference between a bathroom that lasts 20 years and one that causes problems within 5.`,
+    intro: `A new bathroom is one of the highest-return home improvements you can make — adding up to 5% to your property value while transforming one of the rooms you use every single day. The quality of the tradesperson is what makes the difference between a bathroom that lasts 20 years and one that causes problems within 5.`,
     whatItIs: `Bathroom installation covers the complete removal of your existing bathroom and fitting of a new one — including all plumbing, tiling, plastering, electrics, and finishing. A full installation typically takes 5-10 days depending on the size of the bathroom and complexity of the design. Our partner bathroom fitters are Gas Safe registered, fully insured, and experienced with all styles from traditional to contemporary.`,
     whenToCall: [
       'Planning a full bathroom renovation or refurbishment',
@@ -95,7 +95,7 @@ const serviceContent: Record<string, {
     ],
   },
   'boiler-installation': {
-    intro: `A new boiler is the single most impactful home improvement for energy efficiency and heating reliability. Modern A-rated condensing boilers are up to 30% more efficient than boilers installed before 2005, saving the average household £200-£400 per year on energy bills. With gas boilers facing a phaseout deadline of 2035, choosing the right boiler now matters more than ever.`,
+    intro: `A new boiler is the single most impactful home improvement for energy efficiency and heating reliability. Modern A-rated condensing boilers are up to 30% more efficient than boilers installed before 2005, delivering significant savings on energy bills every year. With gas boilers facing a phaseout deadline of 2035, choosing the right boiler now matters more than ever.`,
     whatItIs: `Boiler installation involves the removal of your existing boiler and fitting of a new unit by a Gas Safe registered engineer. A straightforward like-for-like replacement takes 4-8 hours. Moving the boiler to a new location or changing from a regular to a combi system requires additional pipework and typically takes 1-2 days. All installations include commissioning, manufacturer registration, and a Building Regulations Compliance Certificate.`,
     whenToCall: [
       'Boiler over 10 years old and becoming unreliable',
@@ -133,7 +133,7 @@ const serviceContent: Record<string, {
     ],
   },
   'boiler-repair': {
-    intro: `A faulty boiler is more than an inconvenience — in winter, it is a genuine emergency. The UK has over 1.7 million boiler breakdowns annually, with the average repair costing £150-£500 depending on the fault. The key to minimising cost and inconvenience is fast, accurate diagnosis by a Gas Safe registered engineer who carries the right parts for your boiler model.`,
+    intro: `A faulty boiler is more than an inconvenience — in winter, it is a genuine emergency. The UK sees over 1.7 million boiler breakdowns annually. The key to minimising inconvenience is fast, accurate diagnosis by a Gas Safe registered engineer who carries the right parts for your boiler model.`,
     whatItIs: `Boiler repair covers diagnosis and rectification of any fault with your gas boiler or central heating system. Common faults include ignition failure, pressure loss, pump failure, diverter valve issues, PCB faults, and heat exchanger blockages. Most repairs can be completed on the first visit if the engineer carries the right parts — which is why using an experienced local specialist matters.`,
     whenToCall: [
       'No heating or hot water',
@@ -207,7 +207,7 @@ const serviceContent: Record<string, {
     ],
   },
   'leak-repair': {
-    intro: `A hidden water leak can cause thousands of pounds of damage before it becomes visible. The average insurance claim for escape of water damage in the UK is over £2,700 — and that doesn\'t include the disruption of drying out and redecoration. Modern leak detection technology means our engineers can locate leaks beneath floors and behind walls without unnecessary destruction.`,
+    intro: `A hidden water leak can cause thousands of pounds of damage before it becomes visible. Escape of water is one of the most common causes of home insurance claims in the UK — and that doesn\'t include the disruption of drying out and redecoration. Modern leak detection technology means our engineers can locate leaks beneath floors and behind walls without unnecessary destruction.`,
     whatItIs: `Leak detection and repair covers locating and fixing any water leak in your plumbing system — whether visible or concealed. We use thermal imaging cameras, acoustic detection equipment, and tracer gas to pinpoint leaks in buried or concealed pipework without exploratory damage. Once located, the leak is repaired and the system pressure-tested to confirm the fix.`,
     whenToCall: [
       'Unexplained increase in water bill',
@@ -316,7 +316,7 @@ const serviceContent: Record<string, {
       { q: 'How long does a central heating installation take?', a: 'A complete new installation in an average 3-bedroom house takes 3-5 days. Larger properties or those requiring extensive pipework chasing take longer. Replacement of an existing system where pipework is already in place typically takes 1-2 days.' },
       { q: 'What size boiler do I need?', a: 'Boiler output is calculated based on the heat loss of your property — insulation levels, number of radiators, hot water demand, and property size. An undersized boiler won\'t heat the property effectively; an oversized one is inefficient. Your installer will calculate the correct output.' },
       { q: 'Should I get a combi or system boiler?', a: 'Combi boilers are ideal for most modern homes up to 4 bedrooms — no cylinder, instant hot water, compact. System boilers with a hot water cylinder are better for larger homes or properties with multiple bathrooms requiring simultaneous hot water. Your installer will advise based on your usage patterns.' },
-      { q: 'How much will a new central heating system save me?', a: 'Replacing a G-rated boiler with a modern A-rated system can save £300-£600 per year. Adding smart controls and zoning typically saves a further £100-£200. The payback period on a full system replacement is typically 5-8 years through energy savings alone.' },
+      { q: 'How much will a new central heating system save me?', a: 'Replacing an old G-rated boiler with a modern A-rated system delivers meaningful annual energy savings, and adding smart controls and zoning saves even more. The payback period on a full system replacement is typically 5-8 years through energy savings alone.' },
     ],
   },
   'underfloor-heating': {
@@ -401,7 +401,7 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
   return (
     <Layout
       title={`${service.name} — ${locale.certification} | PlumberNearMe247`}
-      description={`Professional ${service.name.toLowerCase()} across the UK. ${locale.certification}. Get a free quote today. ${service.priceRange}.`}
+      description={`Professional ${service.name.toLowerCase()} across the UK. ${locale.certification}. Get a free quote today.`}
       canonical={`https://${locale.domain}/${service.slug}`}
     >
       {/* Hero */}
@@ -421,7 +421,7 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
               <div className="bg-navy-800 border border-white/10 rounded-xl p-6 mb-6">
                 <div className="flex items-center gap-2 mb-3">
                   <StarIcon className="w-5 h-5 text-yellow-400" />
-                  <span className="text-white font-semibold">Typical Cost: {service.priceRange}</span>
+                  <span className="text-white font-semibold">What is included</span>
                 </div>
                 <ul className="space-y-2">
                   {service.features.map(f => (
@@ -488,7 +488,7 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
             </ol>
           </div>
           <div>
-            <h2 className="text-2xl font-bold text-white mb-6">What Affects the Cost?</h2>
+            <h2 className="text-2xl font-bold text-white mb-6">What Affects the Job?</h2>
             <ul className="space-y-3">
               {content.costFactors.map((factor, i) => (
                 <li key={i} className="flex items-start gap-3 text-slate-300">
@@ -497,11 +497,6 @@ export default function ServicePage({ service, otherServices }: ServicePageProps
                 </li>
               ))}
             </ul>
-            <div className="mt-8 bg-blue-600/10 border border-blue-500/20 rounded-xl p-6">
-              <p className="text-white font-semibold mb-1">Typical price range</p>
-              <p className="text-3xl font-extrabold text-blue-400">{service.priceRange}</p>
-              <p className="text-slate-400 text-sm mt-2">Final cost depends on your specific requirements. Get a free quote today.</p>
-            </div>
           </div>
         </div>
       </section>

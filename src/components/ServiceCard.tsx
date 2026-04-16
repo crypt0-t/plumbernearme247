@@ -31,7 +31,7 @@ export default function ServiceCard({ service, town }: ServiceCardProps) {
           <h3 className="text-white font-semibold mb-1 group-hover:text-blue-400 transition-colors text-sm">{service.name}</h3>
           <p className="text-slate-400 text-xs mb-3 flex-1 line-clamp-2">{service.shortDesc}</p>
           <div className="flex items-center justify-between">
-            <span className="text-blue-400 text-xs font-medium">{service.priceRange}</span>
+            <span className="text-blue-400 text-xs font-medium">Learn more</span>
             <ArrowRightIcon className="w-4 h-4 text-slate-500 group-hover:text-blue-400 group-hover:translate-x-1 transition-all" />
           </div>
         </div>

@@ -1,6 +1,6 @@
 import { locale } from './locale'
 
-export function generateServiceTownSchema(service: string, town: string, priceRange: string, slug: string) {
+export function generateServiceTownSchema(service: string, town: string, _priceRange: string, slug: string) {
   return {
     '@context': 'https://schema.org',
     '@graph': [
@@ -13,7 +13,6 @@ export function generateServiceTownSchema(service: string, town: string, priceRa
           telephone: locale.phone,
           url: `https://${locale.domain}`,
           areaServed: { '@type': 'City', name: town },
-          priceRange: priceRange,
         },
         areaServed: { '@type': 'City', name: town },
         description: `Professional ${service.toLowerCase()} service in ${town}. Available 24/7. ${locale.certification}.`,
@@ -31,18 +30,18 @@ export function generateServiceTownSchema(service: string, town: string, priceRa
         mainEntity: [
           {
             '@type': 'Question',
-            name: `How much does ${service.toLowerCase()} cost in ${town}?`,
-            acceptedAnswer: {
-              '@type': 'Answer',
-              text: `${service} in ${town} typically costs ${priceRange}. Contact us for a free, no-obligation quote.`,
-            },
-          },
-          {
-            '@type': 'Question',
             name: `Do you offer emergency ${service.toLowerCase()} in ${town}?`,
             acceptedAnswer: {
               '@type': 'Answer',
               text: `Yes, we provide 24/7 emergency plumbing services across ${town} and surrounding areas. Call ${locale.phone} for immediate assistance.`,
+            },
+          },
+          {
+            '@type': 'Question',
+            name: `Are your ${service.toLowerCase()} plumbers certified?`,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: `All plumbers in our network are ${locale.certification} and fully insured. We only partner with qualified, vetted professionals.`,
             },
           },
         ],

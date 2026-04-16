@@ -67,20 +67,6 @@ const conditionalFields: Record<string, { label: string; options: string[] }[]> 
   ],
 }
 
-// Cost estimates per service
-const costEstimates: Record<string, { range: string; note: string }> = {
-  emergency: { range: '£100 - £400', note: 'No call-out fee. Final cost depends on work needed.' },
-  bathroom: { range: '£4,000 - £15,000', note: 'Includes full design, supply and fit.' },
-  boilerInstall: { range: '£2,500 - £4,500', note: 'Includes boiler, installation and warranty.' },
-  boilerRepair: { range: '£150 - £500', note: 'Diagnosis fee included. Parts extra if needed.' },
-  drains: { range: '£80 - £250', note: 'CCTV survey included on blockages.' },
-  leaks: { range: '£100 - £500', note: 'Non-invasive detection. Repair cost depends on access.' },
-  wetRoom: { range: '£6,000 - £12,000', note: 'Includes full waterproofing and tiling.' },
-  centralHeating: { range: '£3,000 - £6,000', note: 'Full system with smart controls.' },
-  underfloor: { range: '£3,000 - £8,000', note: 'Depends on system type and area size.' },
-  gasSafety: { range: '£60 - £90', note: 'CP12 certificate. Same-day service available.' },
-}
-
 export default function LeadForm({ preselectedService, town }: LeadFormProps) {
   const [step, setStep] = useState(1)
   const [submitted, setSubmitted] = useState(false)
@@ -175,7 +161,6 @@ export default function LeadForm({ preselectedService, town }: LeadFormProps) {
   }
 
   const currentService = services.find(s => s.key === form.service)
-  const estimate = form.service ? costEstimates[form.service] : null
   const fields = form.service ? conditionalFields[form.service] || [] : []
 
   // Success state
@@ -191,13 +176,6 @@ export default function LeadForm({ preselectedService, town }: LeadFormProps) {
           {form.urgency === 'emergency' ? ' within 15 minutes' : ' within 30 minutes'}.
           {form.smsOptIn && ' Check your phone for confirmation.'}
         </p>
-        {estimate && (
-          <div className="bg-navy-900/50 border border-white/5 rounded-xl p-4 mt-4">
-            <p className="text-sm text-slate-400">Estimated cost range</p>
-            <p className="text-xl font-bold text-blue-400">{estimate.range}</p>
-            <p className="text-xs text-slate-500 mt-1">{estimate.note}</p>
-          </div>
-        )}
         <div className="mt-6 flex flex-col sm:flex-row gap-3 justify-center">
           <a
             href={`tel:${locale.phoneTel}`}
@@ -270,7 +248,6 @@ export default function LeadForm({ preselectedService, town }: LeadFormProps) {
                     <div className={`text-sm font-medium leading-tight ${form.service === s.key ? 'text-blue-400' : 'text-slate-300'}`}>
                       {s.name}
                     </div>
-                    <div className="text-xs text-slate-500 mt-0.5">{s.priceRange}</div>
                     {form.service === s.key && (
                       <div className="absolute top-2 right-2">
                         <CheckIcon className="w-4 h-4 text-blue-400" />
@@ -287,7 +264,6 @@ export default function LeadForm({ preselectedService, town }: LeadFormProps) {
               <ServiceIcon service={currentService.icon} className="w-6 h-6 text-blue-400" />
               <div>
                 <div className="text-sm font-medium text-white">{currentService.name}</div>
-                <div className="text-xs text-slate-400">{currentService.priceRange}</div>
               </div>
             </div>
           )}
@@ -504,19 +480,6 @@ export default function LeadForm({ preselectedService, town }: LeadFormProps) {
             />
           </div>
 
-          {/* Cost estimate teaser */}
-          {estimate && (
-            <div className="bg-navy-900/50 border border-blue-500/10 rounded-xl p-4 flex items-center gap-3">
-              <div className="w-10 h-10 bg-blue-500/10 rounded-lg flex items-center justify-center shrink-0">
-                <span className="text-blue-400 text-lg font-bold">{locale.currency}</span>
-              </div>
-              <div>
-                <p className="text-sm text-white font-medium">Typical cost: {estimate.range}</p>
-                <p className="text-xs text-slate-400">{estimate.note}</p>
-              </div>
-            </div>
-          )}
-
           <div className="flex gap-2">
             <button onClick={() => setStep(1)} className="px-4 py-3.5 border border-white/10 rounded-xl text-slate-300 text-sm hover:bg-white/5 transition-colors">Back</button>
             <button
@@ -620,12 +583,6 @@ export default function LeadForm({ preselectedService, town }: LeadFormProps) {
               <span className="text-slate-400">Urgency</span>
               <span className="text-white capitalize">{form.urgency}</span>
             </div>
-            {estimate && (
-              <div className="flex justify-between text-sm border-t border-white/5 pt-2 mt-2">
-                <span className="text-slate-400">Est. Cost</span>
-                <span className="text-blue-400 font-medium">{estimate.range}</span>
-              </div>
-            )}
           </div>
 
           <div className="flex gap-2">

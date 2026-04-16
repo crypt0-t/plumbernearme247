@@ -121,12 +121,12 @@ export default function AboutPage() {
             <div className="bg-navy-800 border border-white/5 rounded-xl p-6">
               <div className="flex items-center gap-3 mb-4">
                 <StarIcon className="w-8 h-8 text-yellow-400" />
-                <h3 className="text-lg font-semibold text-white">Transparent Pricing</h3>
+                <h3 className="text-lg font-semibold text-white">Free Quotes</h3>
               </div>
               <p className="text-slate-400 text-sm leading-relaxed">
-                No hidden fees, no surprise call-out charges. Every plumber provides a clear, 
-                written quote before starting work. Our site includes realistic price ranges 
-                for every service based on actual market data.
+                No call-out charge, no obligation. Every plumber in our network provides a
+                clear, written quote before starting work, so you know exactly what you are
+                paying for.
               </p>
             </div>
             <div className="bg-navy-800 border border-white/5 rounded-xl p-6">
@@ -158,7 +158,7 @@ export default function AboutPage() {
                 <WrenchIcon className="w-6 h-6 text-blue-400 shrink-0" />
                 <div>
                   <div className="text-white font-medium">{s.name}</div>
-                  <div className="text-slate-500 text-sm">{s.priceRange}</div>
+                  <div className="text-slate-500 text-sm">{s.shortDesc}</div>
                 </div>
               </Link>
             ))}
